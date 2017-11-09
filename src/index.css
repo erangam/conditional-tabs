@@ -1,1 +1,11 @@
 @import '../node_modules/@pearson-components/elements-sdk/build/css/elements.css';
+
+#root {
+	margin-top: 70px;
+}
+
+@media (max-width: 768px) {
+	#root {
+		margin-top: 61px;
+	}
+}

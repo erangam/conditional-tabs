@@ -8,6 +8,7 @@
     "react-scripts": "1.0.17"
   },
   "dependencies": {
+    "@pearson-components/app-header": "^2.0.13",
     "@pearson-components/elements-sdk": "^1.4.1",
     "axios": "^0.17.0",
     "husky": "^0.14.3",
