@@ -8,6 +8,7 @@
     "react-scripts": "1.0.17"
   },
   "dependencies": {
+    "@pearson-components/elements-sdk": "^1.4.1",
     "husky": "^0.14.3",
     "lint-staged": "^4.3.0",
     "prettier": "^1.8.2",
@@ -19,7 +20,7 @@
       "prettier --single-quote --write --use-tabs",
       "git add"
     ]
-   },
+  },
   "scripts": {
     "precommit": "lint-staged",
     "start": "react-scripts start",
