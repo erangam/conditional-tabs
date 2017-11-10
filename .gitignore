@@ -20,5 +20,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#ide configuration
-/.idea4
+#hide configuration
+/.idea
+/.sass-cache
