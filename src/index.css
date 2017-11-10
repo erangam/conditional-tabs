@@ -1,6 +1,8 @@
 @import '../node_modules/@pearson-components/elements-sdk/build/css/elements.css';
 
 #root {
+	display: flex;
+	flex-direction: column;
 	margin-top: 70px;
 }
 

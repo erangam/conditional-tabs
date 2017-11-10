@@ -1,4 +1,4 @@
-// we only use gulp to deploy from travis to our digital ocean server
+// we only use gulp to deploy from travis to our digital ocean server and perform minor tasks on npm install.
 const gulp = require('gulp'),
     sftp = require('gulp-sftp'),
     postcss = require('gulp-postcss'),
