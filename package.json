@@ -11,6 +11,7 @@
     "@pearson-components/app-header": "^2.0.13",
     "@pearson-components/elements-sdk": "^1.4.1",
     "axios": "^0.17.0",
+    "elements-patternlab": "git+https://github.com/pearson-ux/pearson-glp-pl.git",
     "husky": "^0.14.3",
     "lint-staged": "^4.3.0",
     "prettier": "^1.8.2",
@@ -32,7 +33,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postinstall": "gulp autoprefix"
   },
+  "Mydependency": "git@github.com:pearson-ux/pearson-glp-pl.git",
   "homepage": "http://45.55.127.237/pearson-glp-platform/"
 }

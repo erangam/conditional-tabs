@@ -7,7 +7,9 @@ import { createStore, applyMiddleware } from 'redux';
 import reducers from './reducers';
 import ReduxPromise from 'redux-promise';
 
+import './assets/css/platform.css';
 import './index.css';
+
 import App from './components/App';
 import registerServiceWorker from './helpers/registerServiceWorker';
 
