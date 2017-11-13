@@ -1,0 +1,20 @@
+.nav-controls {
+	position: fixed;
+	top: 50%;
+	display: flex;
+	overflow: hidden;
+	flex-basis: auto;
+	width: calc(100% - 2em);
+}
+
+.nav-controls .previous {
+	left: 0;
+	display: block;
+}
+
+.nav-controls .next {
+	right: 0;
+	display: block;
+	text-align: right;
+	flex: 1;
+}

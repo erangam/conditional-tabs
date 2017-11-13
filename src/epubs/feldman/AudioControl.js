@@ -12,7 +12,6 @@ class AudioControl extends Component {
 	}
 
 	handleClick() {
-		console.log('click');
 		if (this.state.showAudio === false) {
 			this.setState({ showAudio: true });
 		} else {
@@ -32,7 +31,7 @@ class AudioControl extends Component {
 					Listen to the Audio
 					<svg
 						focusable="false"
-						class="pe-icon--audio-low-18"
+						className="pe-icon--audio-low-18"
 						role="img"
 						aria-label="audio"
 					>

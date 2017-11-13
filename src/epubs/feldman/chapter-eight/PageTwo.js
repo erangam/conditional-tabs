@@ -4,7 +4,6 @@ import AudioControl from '../AudioControl';
 import image from '../images/epub/ASSET46802.jpg';
 
 const PageTwo = props => {
-	const path = './images/epub/';
 	return (
 		<div className="revel">
 			<div className="chapter">

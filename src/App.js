@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import Routes from './routes/index';
+import React from 'react';
+import MainRoute from './routes/index';
 
 //redux
 import { Provider } from 'react-redux';
@@ -11,6 +11,6 @@ const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
 
 export default () => (
 	<Provider store={createStoreWithMiddleware(reducers)}>
-		<Routes />
+		<MainRoute />
 	</Provider>
 );
