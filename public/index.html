@@ -27,8 +27,9 @@
       You need to enable JavaScript to run this app.
     </noscript>
 
-    <div class="pearson-header"></div>
+
     <div id="root"></div>
+    <div class="pearson-header"></div>
 
     <!--
       This HTML file is a template.
@@ -40,8 +41,23 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
-     <script src="js/lib/dist.app-header.js"></script> 
+     <script src="%PUBLIC_URL%/js/lib/dist.app-header.js"></script> 
     <script src="https://cdn.polyfill.io/v2/polyfill.js?features=CustomEvent"></script>
-     <script src="./js/appHeaderConfig.js"></script> 
+     <script src="%PUBLIC_URL%/js/appHeaderConfig.js"></script> 
+
+    <script>
+        if (!document.getElementById('pe-icons-sprite')) {
+            var pe_ajax=new XMLHttpRequest();
+            pe_ajax.open("GET", "%PUBLIC_URL%/images/p-icons-sprite-1.1.svg", true);
+            pe_ajax.responseType="document";
+            pe_ajax.onload=function(e) {
+                document.body.insertBefore(
+                    pe_ajax.responseXML.documentElement,
+                    document.body.childNodes[0]
+                );
+            }
+            pe_ajax.send();
+        }
+    </script>
   </body>
 </html>
