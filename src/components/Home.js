@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import './App.css';
+import '../assets/css/home.css';
 
-class App extends Component {
+class Home extends Component {
 	render() {
 		return (
-			<div className="App">
+			<div className="home">
 				<header className="App-header">
 					<h1 className="pe-page-title">
 						Welcome to the Pearson Prototype Platform!
@@ -19,4 +19,4 @@ class App extends Component {
 	}
 }
 
-export default App;
+export default Home;
