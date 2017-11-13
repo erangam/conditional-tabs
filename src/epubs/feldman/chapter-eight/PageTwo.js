@@ -5,9 +5,10 @@ import image from '../images/epub/ASSET46802.jpg';
 import NavControls from '../NavControls';
 
 const PageTwo = props => {
+	console.log(props);
 	return (
 		<div>
-			<NavControls prev="/feldman/chapter-eight/one" />
+			<NavControls prev={props.path + '/chapter-eight/one'} />
 			<section className="bodymatter">
 				<header>
 					<h1 className="title">

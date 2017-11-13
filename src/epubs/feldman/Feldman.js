@@ -8,7 +8,7 @@ const Feldman = props => {
 	return (
 		<div className="revel">
 			<div className="chapter">
-				<FeldmanRoute />
+				<FeldmanRoute match={props.match.path} />
 			</div>
 		</div>
 	);

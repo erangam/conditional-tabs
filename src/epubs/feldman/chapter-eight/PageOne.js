@@ -7,7 +7,8 @@ const PageOne = props => {
 	console.log(props);
 	return (
 		<div>
-			<NavControls next="/feldman/chapter-eight/two" />
+			<NavControls next={props.path + '/chapter-eight/two'} />
+
 			<section className="bodymatter">
 				<header>
 					<h1 className="title">Chapter 8 Middle Adulthood</h1>

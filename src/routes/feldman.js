@@ -12,13 +12,13 @@ const FeldmanRoute = props => {
 					name="one"
 					path="/chapter-eight/one"
 					exact
-					render={() => <PageOne />}
+					render={() => <PageOne path={props.match} />}
 				/>
 				<Route
 					name="two"
 					path="/chapter-eight/two"
 					exact
-					render={() => <PageTwo />}
+					render={() => <PageTwo path={props.match} />}
 				/>
 			</Switch>
 		</BrowserRouter>
