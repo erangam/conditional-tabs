@@ -1,0 +1,14 @@
+{
+	"contents": [
+		{
+			"page": "one",
+			"nextPage": "two",
+			"previousPage": ""
+		},
+		{
+			"page": "two",
+			"nextPage": "three",
+			"previousPage": "one"
+		}
+	]
+}

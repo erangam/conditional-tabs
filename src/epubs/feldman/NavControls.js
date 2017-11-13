@@ -1,15 +1,23 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+
+import data from './TableOfContents.json';
 
 class NavControls extends Component {
 	constructor(props) {
 		super(props);
-		this.state = {};
+		this.state = {
+			currentPage: this.props.history
+		};
 	}
+
+	componentDidMount() {
+		console.log(data);
+	}
+
 	render() {
 		return (
 			<div className="nav-controls">
-				<a href="/feldman/chapter-eight/page-one" className="previous">
+				<a href="/feldman/chapter-eight/one" className="previous">
 					<svg
 						focusable="false"
 						className="pe-icon--chevron-back-24"
@@ -20,7 +28,7 @@ class NavControls extends Component {
 					</svg>
 				</a>
 
-				<a href="/feldman/chapter-eight/page-two" className="next">
+				<a href="/feldman/chapter-eight/two" className="next">
 					<svg
 						focusable="false"
 						className="pe-icon--chevron-next-24"

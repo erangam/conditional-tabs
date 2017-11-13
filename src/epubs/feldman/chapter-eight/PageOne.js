@@ -98,7 +98,7 @@ const PageOne = props => {
 								<p>Your browser doesn't support HTML5 video</p>
 								<track
 									src="../captions/20140523_f3e_060_middle_adulthood.vtt"
-									srclang="en"
+									srcLang="en"
 									kind="captions"
 									label="English"
 									type="text/vtt"

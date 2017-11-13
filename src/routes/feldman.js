@@ -8,8 +8,8 @@ const FeldmanRoute = () => {
 	return (
 		<BrowserRouter basename="/feldman">
 			<Switch>
-				<Route path="/chapter-eight/page-one" exact component={PageOne} />
-				<Route path="/chapter-eight/page-two" exact component={PageTwo} />
+				<Route name="one" path="/chapter-eight/one" exact component={PageOne} />
+				<Route name="two" path="/chapter-eight/two" exact component={PageTwo} />
 			</Switch>
 		</BrowserRouter>
 	);
