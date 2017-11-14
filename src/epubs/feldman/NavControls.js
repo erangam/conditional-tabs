@@ -28,8 +28,7 @@ class NavControls extends Component {
 				event.currentTarget.getAttribute('data-current'),
 				10
 			),
-			link = event.currentTarget.getAttribute('data-link'),
-			prev = event.currentTarget.getAttribute('data-prev');
+			link = event.currentTarget.getAttribute('data-link');
 
 		if (link === 'next') {
 			if (currentPageNumber < this.numberOfPages) {
@@ -47,8 +46,8 @@ class NavControls extends Component {
 	}
 
 	render() {
-		const prevPath = this.subPath + parseInt(this.state.currentPage - 1),
-			nextPath = this.subPath + parseInt(this.state.currentPage + 1);
+		const prevPath = this.subPath + parseInt(this.state.currentPage - 1, 10),
+			nextPath = this.subPath + parseInt(this.state.currentPage + 1, 10);
 		return (
 			<div className="nav-controls">
 				<Link
