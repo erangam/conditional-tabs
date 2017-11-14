@@ -10,11 +10,19 @@ import NavControls from './NavControls';
 const baseUrl = process.env.PUBLIC_URL,
 	routes = [
 		{
-			path: baseUrl + '/chapter-eight/1',
+			path: '/chapter-eight/1',
 			component: PageOne
 		},
 		{
-			path: baseUrl + '/chapter-eight/2',
+			path: '/chapter-eight/2',
+			component: PageTwo
+		},
+		{
+			path: '/chapter-eight/3',
+			component: PageOne
+		},
+		{
+			path: '/chapter-eight/4',
 			component: PageTwo
 		}
 	];

@@ -4,9 +4,9 @@ class NavControls extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			currentPage: undefined,
-			nextPage: undefined,
-			prevPage: undefined
+			currentPage: '',
+			nextPage: '',
+			prevPage: ''
 		};
 
 		this.pathArr = this.props.currentPath.split('/');
@@ -14,73 +14,50 @@ class NavControls extends Component {
 		this.subDirectory = this.pathArr[2];
 		this.pageNumber = parseInt(this.pathArr[3], 10);
 		this.numberOfPages = parseInt(this.props.numberOfPages, 10);
-		this.newPath = '/' + this.subDirectory + '/';
+		this.subPath = '/' + this.subDirectory + '/';
+
 		this.handleOnClick = this.handleOnClick.bind(this);
-		this.getNextPage = this.getNextPage.bind(this);
-		this.getPrevPage = this.getPrevPage.bind(this);
 	}
 
 	componentWillMount() {
 		this.setState({ currentPage: this.pageNumber });
-		this.setState({ nextPage: this.getNextPage() });
-		this.setState({ prevPage: this.getPrevPage() });
 	}
 
 	handleOnClick(event) {
-		const nextLink = event.currentTarget.getAttribute('data-link');
-		if (nextLink === 'previous') {
-			this.getPrevPage();
-		} else {
-			this.getNextPage();
-		}
-	}
+		const currentPageNumber = parseInt(
+				event.currentTarget.getAttribute('data-current'),
+				10
+			),
+			link = event.currentTarget.getAttribute('data-link'),
+			prev = event.currentTarget.getAttribute('data-prev');
 
-	getNextPage() {
-		if (this.state.currentPage === undefined) {
-			if (this.pageNumber < this.numberOfPages) {
-				const newPage = this.pageNumber + 1;
-				return this.newPath + newPage;
+		if (link === 'next') {
+			if (currentPageNumber < this.numberOfPages) {
+				this.setState({ currentPage: currentPageNumber + 1 });
 			} else {
-				return this.newPath + this.pageNumber;
+				return;
 			}
 		} else {
-			if (this.state.currentPage < this.numberOfPages) {
-				const newPage = this.state.currentPage + 1;
-				this.setState({ currentPage: newPage });
-				this.setState({ nextPage: this.newPath + newPage });
+			if (currentPageNumber > 1) {
+				this.setState({ currentPage: currentPageNumber - 1 });
 			} else {
-				return this.newPath + this.pageNumber;
-			}
-		}
-	}
-
-	getPrevPage() {
-		if (this.state.currentPage === undefined) {
-			if (this.pageNumber !== 1) {
-				const newPage = this.pageNumber - 1;
-				return this.newPath + newPage;
-			} else {
-				return this.newPath + this.pageNumber;
-			}
-		} else {
-			if (this.state.currentPage !== 1) {
-				const newPage = this.state.currentPage - 1;
-				this.setState({ currentPage: newPage });
-				this.setState({ prevPage: this.newPath + newPage });
-			} else {
-				return this.newPath + this.pageNumber;
+				return;
 			}
 		}
 	}
 
 	render() {
+		const prevPath = this.subPath + parseInt(this.state.currentPage - 1),
+			nextPath = this.subPath + parseInt(this.state.currentPage + 1);
 		return (
 			<div className="nav-controls">
 				<Link
-					to={this.state.prevPage}
+					to={this.state.currentPage - 1 !== 0 ? prevPath : 1}
+					data-prev={this.state.currentPage - 1}
+					data-current={this.state.currentPage}
 					className="previous"
 					onClick={this.handleOnClick}
-					data-link="previous"
+					data-link="prev"
 				>
 					<svg
 						focusable="false"
@@ -92,7 +69,13 @@ class NavControls extends Component {
 					</svg>
 				</Link>
 				<Link
-					to={this.state.nextPage}
+					to={
+						this.state.currentPage + 1 !== this.numberOfPages + 1
+							? nextPath
+							: this.numberOfPages
+					}
+					data-next={this.state.currentPage + 1}
+					data-current={this.state.currentPage}
 					className="next"
 					onClick={this.handleOnClick}
 					data-link="next"
