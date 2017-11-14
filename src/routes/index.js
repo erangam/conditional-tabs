@@ -6,11 +6,12 @@ import Feldman from '../epubs/feldman/Feldman';
 const baseUrl = process.env.PUBLIC_URL;
 
 const MainRoute = () => {
+	console.log(baseUrl);
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename={baseUrl}>
 			<Switch>
-				<Route path={baseUrl + '/'} exact component={Home} />
-				<Route path={baseUrl + '/feldman'} component={Feldman} />
+				<Route path={'/'} exact component={Home} />
+				<Route path={'/feldman'} component={Feldman} />
 			</Switch>
 		</BrowserRouter>
 	);

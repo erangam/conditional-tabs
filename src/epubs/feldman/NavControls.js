@@ -4,18 +4,20 @@ class NavControls extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			currentPage: '',
-			nextPage: '',
-			prevPage: ''
+			currentPage: undefined,
+			nextPage: undefined,
+			prevPage: undefined
 		};
 
 		this.pathArr = this.props.currentPath.split('/');
 		this.base = this.pathArr[1];
 		this.subDirectory = this.pathArr[2];
-		this.pageNumber = parseInt(this.pathArr[3]);
-		this.numberOfPages = parseInt(this.props.numberOfPages);
+		this.pageNumber = parseInt(this.pathArr[3], 10);
+		this.numberOfPages = parseInt(this.props.numberOfPages, 10);
 		this.newPath = '/' + this.subDirectory + '/';
 		this.handleOnClick = this.handleOnClick.bind(this);
+		this.getNextPage = this.getNextPage.bind(this);
+		this.getPrevPage = this.getPrevPage.bind(this);
 	}
 
 	componentWillMount() {
@@ -27,10 +29,17 @@ class NavControls extends Component {
 	handleOnClick(event) {
 		const nextLink = event.currentTarget.getAttribute('data-link');
 		if (nextLink === 'previous') {
-			if (this.state.currentPage !== 1) {
-				const newPage = this.state.currentPage - 1;
-				this.setState({ currentPage: newPage });
-				this.setState({ prevPage: this.newPath + newPage });
+			this.getPrevPage();
+		} else {
+			this.getNextPage();
+		}
+	}
+
+	getNextPage() {
+		if (this.state.currentPage === undefined) {
+			if (this.pageNumber < this.numberOfPages) {
+				const newPage = this.pageNumber + 1;
+				return this.newPath + newPage;
 			} else {
 				return this.newPath + this.pageNumber;
 			}
@@ -45,21 +54,22 @@ class NavControls extends Component {
 		}
 	}
 
-	getNextPage() {
-		if (this.pageNumber < this.numberOfPages) {
-			const newPage = this.pageNumber + 1;
-			return this.newPath + newPage;
-		} else {
-			return this.newPath + this.pageNumber;
-		}
-	}
-
 	getPrevPage() {
-		if (this.pageNumber !== 1) {
-			const newPage = this.pageNumber - 1;
-			return this.newPath + newPage;
+		if (this.state.currentPage === undefined) {
+			if (this.pageNumber !== 1) {
+				const newPage = this.pageNumber - 1;
+				return this.newPath + newPage;
+			} else {
+				return this.newPath + this.pageNumber;
+			}
 		} else {
-			return this.newPath + this.pageNumber;
+			if (this.state.currentPage !== 1) {
+				const newPage = this.state.currentPage - 1;
+				this.setState({ currentPage: newPage });
+				this.setState({ prevPage: this.newPath + newPage });
+			} else {
+				return this.newPath + this.pageNumber;
+			}
 		}
 	}
 

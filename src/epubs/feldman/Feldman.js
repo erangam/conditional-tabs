@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch, Link } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import PageOne from './chapter-eight/PageOne';
 import PageTwo from './chapter-eight/PageTwo';
@@ -24,7 +24,6 @@ const FeldmanRoutes = routes.map((route, i) => {
 });
 
 const FeldmanRoute = props => {
-	console.log(props);
 	return (
 		<BrowserRouter basename={baseUrl + '/feldman'}>
 			<div>
