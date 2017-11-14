@@ -1,14 +1,10 @@
 // Stateless component boilerplate
 import React from 'react';
 import AudioControl from '../AudioControl';
-import NavControls from '../NavControls';
 
 const PageOne = props => {
-	console.log(props);
 	return (
 		<div>
-			<NavControls next={props.path + '/chapter-eight/two'} />
-
 			<section className="bodymatter">
 				<header>
 					<h1 className="title">Chapter 8 Middle Adulthood</h1>

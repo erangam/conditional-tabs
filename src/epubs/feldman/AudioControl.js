@@ -28,7 +28,9 @@ class AudioControl extends Component {
 					className="pe-btn--btn_large "
 					onClick={this.handleClick}
 				>
-					Listen to the Audio
+					<span>
+						{this.state.showAudio === false ? 'Listen to Audio' : 'Close Audio'}
+					</span>
 					<svg
 						focusable="false"
 						className="pe-icon--audio-low-18"
