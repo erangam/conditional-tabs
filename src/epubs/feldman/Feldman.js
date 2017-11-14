@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 
 import PageOne from './chapter-eight/PageOne';
 import PageTwo from './chapter-eight/PageTwo';
@@ -7,25 +7,24 @@ import PageTwo from './chapter-eight/PageTwo';
 import '../../assets/css/epub.css';
 import NavControls from './NavControls';
 
-const baseUrl = process.env.PUBLIC_URL,
-	routes = [
-		{
-			path: '/chapter-eight/1',
-			component: PageOne
-		},
-		{
-			path: '/chapter-eight/2',
-			component: PageTwo
-		},
-		{
-			path: '/chapter-eight/3',
-			component: PageOne
-		},
-		{
-			path: '/chapter-eight/4',
-			component: PageTwo
-		}
-	];
+const routes = [
+	{
+		path: '/chapter-eight/1',
+		component: PageOne
+	},
+	{
+		path: '/chapter-eight/2',
+		component: PageTwo
+	},
+	{
+		path: '/chapter-eight/3',
+		component: PageOne
+	},
+	{
+		path: '/chapter-eight/4',
+		component: PageTwo
+	}
+];
 
 const FeldmanRoutes = routes.map((route, i) => {
 	return <Route key={i} path={route.path} render={route.component} />;
@@ -33,7 +32,7 @@ const FeldmanRoutes = routes.map((route, i) => {
 
 const FeldmanRoute = props => {
 	return (
-		<BrowserRouter basename={baseUrl + '/feldman'}>
+		<HashRouter basename={'/feldman'}>
 			<div>
 				<NavControls
 					basePath={props.match}
@@ -42,7 +41,7 @@ const FeldmanRoute = props => {
 				/>
 				<Switch>{FeldmanRoutes}</Switch>
 			</div>
-		</BrowserRouter>
+		</HashRouter>
 	);
 };
 

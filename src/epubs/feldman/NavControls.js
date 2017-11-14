@@ -10,9 +10,11 @@ class NavControls extends Component {
 		};
 
 		this.pathArr = this.props.currentPath.split('/');
+
 		this.base = this.pathArr[1];
 		this.subDirectory = this.pathArr[2];
 		this.pageNumber = parseInt(this.pathArr[3], 10);
+
 		this.numberOfPages = parseInt(this.props.numberOfPages, 10);
 		this.subPath = '/' + this.subDirectory + '/';
 
