@@ -2,17 +2,29 @@
 import React from 'react';
 import AudioControl from '../AudioControl';
 import image from '../images/epub/AAJKNRQ0.jpg';
+import chartImage from '../images/epub/AAFDHQH0.png';
+import PearsonModal from '../../../pearson/PearsonModal';
+{
+	/*<AudioControl src="https://mediaplayer.pearsoncmg.com/assets/_pmd.true/feldman_0133814912_feldman_08_02?mimeType=mp3" />*/
+}
 
 const PageTwo = props => {
 	return (
 		<div>
 			<section className="bodymatter">
 				<header>
-					<h1 className="title">
-						LO 8.1 What physical changes affect people in middle adulthood?
-					</h1>
+					<h1 class="title">Physical Development</h1>
 				</header>
-				<AudioControl src="https://mediaplayer.pearsoncmg.com/assets/_pmd.true/feldman_0133814912_feldman_08_02?mimeType=mp3" />
+				<section className="objectiveset">
+					<ol className="objectivelist dynamiclist">
+						<li className="objective">
+							<p className="lotext">
+								<span className="number">LO 8.1</span>What physical changes
+								affect people in middle adulthood?
+							</p>
+						</li>
+					</ol>
+				</section>
 				<section className="level2">
 					<aside className="vignette">
 						<p>
@@ -159,7 +171,7 @@ const PageTwo = props => {
 					</p>
 					<figure className="informalfigure">
 						<img
-							src="{{path}}"
+							src={image}
 							alt="Photo of a woman wearing glasses working on a laptop."
 							className="image_2"
 						/>
@@ -297,7 +309,7 @@ const PageTwo = props => {
 						</header>
 						<div className="lc_ec_img-only">
 							<img
-								src={image}
+								src={chartImage}
 								alt="Chart reads, “The advantages of exercise include: Muscle system: Slower decline in energy molecules, muscle cell thickness, number of muscle cells, muscle thickness, muscle mass, muscle strength, blood supply, speed of movement, stamina; Slower increase in fat and fibers, reaction time, recovery time, development of muscle soreness Nervous system: Slower decline in processing impulses by the central nervous system; Slower increase in variations in speed of motor neuron impulses Circulatory System: Maintenance of lower levels of LDLs and higher HDL/cholesterol and HDL/LDL ratios; Decreased risk of high blood pressure, atherosclerosis, heart attack, and stroke. Skeletal system: Slower decline in bone minerals; Decreased risk of fractures and osteoporosis Psychological benefits: Enhanced mood; Feelings of well-being; Reduces stress”"
 							/>
 						</div>
@@ -353,6 +365,27 @@ const PageTwo = props => {
 							</p>
 						</li>
 					</ul>
+				</section>
+				<section className="level2">
+					<header>
+						<h1 className="title">Applying Lifespan Development</h1>
+					</header>
+					<ul>
+						<li>
+							<p>
+								Would you rather fly on an airplane with a middle-aged pilot or
+								a young one? Why?
+							</p>
+						</li>
+					</ul>
+					<aside className="marginalia">
+						<PearsonModal
+							showIcon={true}
+							icon={'show-on-18'}
+							buttonText={'View Sample Response'}
+							modalContent={'Hello Content'}
+						/>
+					</aside>
 				</section>
 			</section>
 		</div>

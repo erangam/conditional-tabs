@@ -10,6 +10,7 @@
   "dependencies": {
     "@pearson-components/app-header": "^2.0.13",
     "@pearson-components/elements-sdk": "^1.4.1",
+    "@pearson-components/modal": "^1.0.3",
     "axios": "^0.17.1",
     "elements-patternlab": "git+https://github.com/pearson-ux/pearson-glp-pl.git",
     "husky": "^0.14.3",
