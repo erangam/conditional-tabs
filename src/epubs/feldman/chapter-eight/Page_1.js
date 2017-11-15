@@ -111,7 +111,7 @@ const PageOne = props => {
 					</header>
 					<ol className="objectivelist dynamiclist">
 						<li className="objective">
-							<a href="./page-two">
+							<a href="./2">
 								<span className="number">8.1</span> Physical Development  in
 								Middle Adulthood
 							</a>

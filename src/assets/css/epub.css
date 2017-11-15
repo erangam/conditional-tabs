@@ -5,6 +5,7 @@
 	overflow: hidden;
 	flex-basis: auto;
 	width: calc(100% - 2em);
+	max-width: calc(1440px - 2em);
 }
 
 .nav-controls .previous {

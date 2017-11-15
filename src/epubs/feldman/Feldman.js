@@ -1,8 +1,9 @@
 import React from 'react';
 import { HashRouter, Route, Switch } from 'react-router-dom';
 
-import PageOne from './chapter-eight/PageOne';
-import PageTwo from './chapter-eight/PageTwo';
+import Page_1 from './chapter-eight/Page_1';
+import Page_2 from './chapter-eight/Page_2';
+import Page_3 from './chapter-eight/Page_3';
 
 import '../../assets/css/epub.css';
 import NavControls from './NavControls';
@@ -10,19 +11,15 @@ import NavControls from './NavControls';
 const routes = [
 	{
 		path: '/chapter-eight/1',
-		component: PageOne
+		component: Page_1
 	},
 	{
 		path: '/chapter-eight/2',
-		component: PageTwo
+		component: Page_2
 	},
 	{
 		path: '/chapter-eight/3',
-		component: PageOne
-	},
-	{
-		path: '/chapter-eight/4',
-		component: PageTwo
+		component: Page_3
 	}
 ];
 
