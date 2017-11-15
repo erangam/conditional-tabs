@@ -12,379 +12,57 @@ const PageTwo = props => {
 	return (
 		<div>
 			<section className="bodymatter">
-				<header>
-					<h1 class="title">Physical Development</h1>
-				</header>
-				<section className="objectiveset">
-					<ol className="objectivelist dynamiclist">
-						<li className="objective">
-							<p className="lotext">
-								<span className="number">LO 8.1</span>What physical changes
-								affect people in middle adulthood?
-							</p>
-						</li>
-					</ol>
-				</section>
-				<section className="level2">
-					<aside className="vignette">
-						<p>
-							Soon after turning 40, Sharon Boker-Tov noticed that it took
-							longer to bounce back from minor illnesses such as colds and the
-							flu. Then she noticed changes in her eyesight: She needed more
-							light to read fine print, and she had to adjust how far she held
-							newspapers from her face in order to read them easily. Finally,
-							she couldn’t deny that the gray strands in her hair, which had
-							first appeared in her late 20s, were becoming a virtual forest.
-						</p>
-					</aside>
-					<header>
-						<h1 className="title">
-							Physical Transitions: The Gradual Change in the Body’s
-							Capabilities
+				<section
+					data-chaucer-element-id="f30ddf1d-ffde-4ba7-ba65-4762fb9d08a5"
+					id="P7001013171000000000000000003CFB"
+					class="level1"
+					data-chaucer-note-id="329187"
+				>
+					<header data-chaucer-element-id="45908a7d-07b2-47f8-b0f9-9758fa2c5875">
+						<h1
+							data-chaucer-element-id="7d56cc29-97ef-4455-a5c3-1ebaa5300aee"
+							class="title"
+							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B30"
+							srcLang="title"
+						>
+							Physical Development and Sexuality
 						</h1>
 					</header>
-					<p>
-						In middle adulthood, people become aware of the gradual changes in
-						their bodies that aging brings. Some of these changes are the result
-						of senescence, or naturally occurring declines. Other changes,
-						however, are related to lifestyle choices, such as diet, exercise,
-						smoking, and alcohol or drug use. As we’ll see, lifestyle choices
-						can have a major impact on people’s physical, and even cognitive,
-						fitness in midlife.
-					</p>
-					<p>
-						Although physical changes occur throughout life, these changes take
-						on new significance in midlife, particularly in Western cultures
-						that highly value a youthful appearance. The psychological
-						significance of aging may far exceed the relatively minor and
-						gradual changes a person experiences. Sharon Boker-Tov had gray
-						hairs in her 20s, but in her 40s they multiplied to an extent she
-						could not ignore. She was no longer young.
-					</p>
-					<p>
-						People’s emotional reactions to midlife’s physical changes depend in
-						part on their self-concepts. When self-image is tied closely to
-						one’s physical attributes—as it often is for those who are very
-						athletic or are physically quite attractive—middle adulthood can be
-						particularly difficult. The changes the mirror reveals signal aging
-						and mortality as well as a loss of physical attractiveness.
-					</p>
-					<p>
-						Physical appearance often plays an especially significant role in
-						how women see themselves. This is particularly true in Western
-						cultures, where women face strong societal pressures to retain a
-						youthful look. Society applies a double standard to men and women
-						regarding appearance: Older women tend to be viewed in unflattering
-						terms, while older men are frequently seen as attractively “mature”
-						(Andreoni &amp; Petrie, 2008; Pruis &amp; Janowsky, 2010).
-					</p>
-					<header>
-						<h1 className="title">
-							Height, Weight, and Strength: The Benchmarks of Change
-						</h1>
-					</header>
-					<p>
-						Most people reach their maximum height in their 20s and remain close
-						to that height until around age 55. People then begin a “settling”
-						process in which the bones attached to the spinal column become less
-						dense. Although the loss of height is very slow, women average a
-						2-inch decline and men a 1-inch decline over the rest of the life
-						span (Rossman, 1977; Bennani et al., 2009).
-					</p>
-					<p>
-						Women are more prone to this decline because they are at greater
-						risk of osteoporosis.  {' '}
-						<a href="glossary.xhtml#key-osteoporosis" target="_blank">
-							<dfn
-								title="osteoporosis"
-								className="keyword"
-								data-original-title="osteoporosis"
-							>
-								<span className="selection_index" />Osteoporosis
-							</dfn>
-						</a>, a condition in which the bones become brittle, fragile, and
-						thin, is often caused by a lack of calcium in the diet. Although it
-						has a genetic component, osteoporosis is one aspect of aging that
-						can be affected by lifestyle choices. Women—and men—can reduce the
-						risk of osteoporosis by eating a calcium-rich diet (calcium is found
-						in milk, yogurt, cheese, and other dairy products) and by exercising
-						regularly (Prentice et al., 2006; Swaim, Barner, &amp; Brown, 2008;
-						Wang, L. et al., 2013).
-					</p>
-					<p>
-						Body fat tends to increase in middle adulthood. Even those who have
-						always been slim may begin to gain weight. Because height is not
-						increasing, and actually may be declining, these gains increase the
-						incidence of obesity. This weight gain can often be avoided.
-						Lifestyle choices play a major role. People who exercise regularly
-						tend to avoid obesity, as do those who live in cultures where life
-						is more active than it is in many Western cultures.
-					</p>
-					<p>
-						Declines in strength accompany height and weight changes. Strength
-						gradually decreases, particularly in the back and leg muscles. By
-						age 60, people average a 10 percent loss of their maximum strength.
-						Still, such a loss is relatively minor, and most people are easily
-						able to compensate for it (Spence, 1989). Again, lifestyle choices
-						matter. Regular exercise tends to make people feel stronger and more
-						able to compensate for any losses.
-					</p>
-					<header>
-						<h1 className="title">
-							The Senses: The Sights and Sounds of Middle Age
-						</h1>
-					</header>
-					<p>
-						The vision changes Sharon Boker-Tov experienced are so common that
-						reading glasses and bifocals have become a stereotypical emblem of
-						middle age. Like Sharon, most people notice changes in the
-						sensitivity, not only of their eyes, but also of other sense organs.
-						All the organs seem to shift at about the same rate, but the changes
-						are particularly marked in vision and hearing.
-					</p>
-					<p>
-						<span className="leadin">Vision.</span> Starting at around age 40,{' '}
-						<em>visual acuity</em>—the ability to discern fine spatial detail in
-						both close and distant objects—begins to decline. The shape of the
-						eye’s lens changes and its elasticity deteriorates, which makes it
-						harder to focus images sharply onto the retina. The lens becomes
-						less transparent, so less light passes through the eye (DiGiovanna,
-						1994; Yan, Li, &amp; Liao, 2010).
-					</p>
-					<p>
-						A nearly universal change in midlife is the loss of near vision,
-						called{' '}
-						<a href="glossary.xhtml#key-presbyopia" target="_blank">
-							<dfn
-								title="presbyopia"
-								className="keyword"
-								data-original-title="presbyopia"
-							>
-								<span className="selection_index" />presbyopia
-							</dfn>
-						</a>. Even people who have never needed glasses or contact lenses
-						find themselves holding print at an increasing distance in order to
-						bring it into focus. Eventually, they need reading glasses. For
-						those who were already nearsighted, presbyopia may require bifocals
-						or two sets of glasses (Koopmans &amp; Kooijman, 2006; Kemper,
-						2012).
-					</p>
-					<figure className="informalfigure">
-						<img
-							src={image}
-							alt="Photo of a woman wearing glasses working on a laptop."
-							className="image_2"
-						/>
-						<figcaption>
-							<div className="caption">
+					<section class="objectiveset">
+						<ol class="objectivelist dynamiclist">
+							<li class="objective">
 								<p>
-									Beginning at or around the age of 40, visual acuity, the
-									ability to discern fine spatial detail, begins to drop. Most
-									people begin to suffer from presbyopia, a decline in near
-									vision.
-								</p>
-							</div>
-						</figcaption>
-					</figure>
-					<p>
-						Midlife brings other vision changes. Depth perception, distance
-						perception, and the ability to see in three dimensions all decline.
-						The loss of rods (a kind of receptor cell in the eye) and a decrease
-						in lens transparency also impairs people’s ability to adapt to
-						darkness, making it more difficult to navigate a dark room (Spear,
-						1993).
-					</p>
-					<p>
-						Although normal aging brings changes in vision, in some cases
-						disease is involved. One of the most frequent eye problems is
-						glaucoma, which may, if left untreated, lead to blindness.{' '}
-						<a href="glossary.xhtml#key-glaucoma" target="_blank">
-							<dfn
-								title="glaucoma"
-								className="keyword"
-								data-original-title="glaucoma"
-							>
-								<span className="selection_index" />Glaucoma
-							</dfn>
-						</a>{' '}
-						occurs when pressure in the fluid of the eye increases, either
-						because the fluid cannot drain properly or because too much is
-						produced. Around 1 to 2 percent of people over age 40 are afflicted,
-						and African Americans are particularly susceptible (Wilson, 1989).
-					</p>
-					<p>
-						Initially, the increased pressure may constrict the neurons involved
-						in peripheral vision and lead to tunnel vision. Ultimately, the
-						pressure can become so high that all nerve cells are constricted,
-						which causes complete blindness. Fortunately, with early detection,
-						glaucoma can be treated. Medication can reduce the pressure, as can
-						surgery to restore normal drainage of eye fluid (Lambiase et al.,
-						2009; Jindal, 2013).
-					</p>
-					<p>
-						<span className="leadin">Hearing.</span> Hearing declines in acuity
-						in midlife, though the changes tend to be less evident than those
-						affecting vision.
-					</p>
-					<p>
-						Environmental factors cause some of the hearing losses. People who
-						work near loud noises—such as airplane mechanics and construction
-						workers—are more apt to suffer debilitating and permanent hearing
-						loss.
-					</p>
-					<p>
-						Many changes are simply related to aging. Age brings a loss of{' '}
-						<span className="emphasis">cilia</span>, or{' '}
-						<span className="emphasis">hair cells</span>, in the inner ear,
-						which transmit neural messages to the brain when vibrations bend
-						them. Like the lens of the eye, the eardrum becomes less elastic
-						with age, reducing sensitivity to sound (Wiley et al., 2005).
-					</p>
-					<p>
-						The ability to hear high-pitched, high-frequency sounds usually
-						degrades first, a problem called{' '}
-						<a href="glossary.xhtml#key-presbycusis" target="_blank">
-							<dfn
-								title="presbycusis"
-								className="keyword"
-								data-original-title="presbycusis"
-							>
-								<span className="selection_index" />presbycusis
-							</dfn>
-						</a>. About 12 percent of people between 45 and 65 suffer from
-						presbycusis. Men are more prone to hearing loss than women, starting
-						at around age 55. People with hearing problems may also have trouble
-						identifying the direction and origin of a sound, a process called{' '}
-						<span className="emphasis">sound localization</span> (Veras &amp;
-						Mattos, 2007; Gopinath et al., 2012).
-					</p>
-					<p>
-						Declines in hearing do not markedly affect most people in middle
-						age. Many compensate for any losses relatively easily—by asking
-						people to speak up, turning up the volume of a television set, or
-						paying closer attention to what others are saying.
-					</p>
-					<header id="reaction-time">
-						<h1 className="title">Reaction Time: Not-So-Slowing Down</h1>
-					</header>
-					<p>
-						One common concern is that people slow down once they reach middle
-						adulthood. Such a worry is not valid in most cases. Reaction time
-						does increase (i.e., it takes longer to react to a stimulus), but
-						usually the increase is mild and hardly noticeable. For instance,
-						reaction time in responding to a loud noise increases by about 20
-						percent from age 20 to 60. Tasks requiring the coordination of
-						various skills—such as driving a car—show less of an increase.
-						Still, it takes more time to move the foot from the gas pedal to the
-						brake when a driver faces an emergency situation. Changes in the
-						speed at which the nervous system processes nerve impulses increases
-						reaction time (Nobuyuki, 1997; Roggeveen, Prime, &amp; Ward, 2007;
-						Godefroy et al., 2010).
-					</p>
-					<p>
-						Despite increased reaction time, middle-aged drivers have fewer
-						accidents than younger ones, partly because they tend to be more
-						careful and take fewer risks. Moreover, older drivers’ greater
-						experience benefits them. The minor slowing of reaction time is
-						compensated by their expertise (Makishita &amp; Matsunaga, 2008;
-						Cantin et al., 2009; Endrass Schreiber &amp; Kathmann, 2012).
-					</p>
-					<p>
-						Lifestyle choices can retard the slowing down process. An active
-						exercise program counteracts the effects of aging, improving health,
-						muscle strength, and endurance (see{' '}
-						<a className="xref" href="#figure8-1">
-							<span className="label">Figure</span>{' '}
-							<span className="number">8-1</span>
-						</a>). Developmentalists would agree: “Use it or lose it” (Conn et
-						al., 2003; Guiney &amp; Machado, 2013).
-					</p>
-					<figure id="figure8-1">
-						<header>
-							<h1 className="title">
-								<span className="label">Figure</span>
-								<span className="number"> 8-1</span>
-							</h1>
-							<p className="subtitle">The Benefits of Exercise</p>
-						</header>
-						<div className="lc_ec_img-only">
-							<img
-								src={chartImage}
-								alt="Chart reads, “The advantages of exercise include: Muscle system: Slower decline in energy molecules, muscle cell thickness, number of muscle cells, muscle thickness, muscle mass, muscle strength, blood supply, speed of movement, stamina; Slower increase in fat and fibers, reaction time, recovery time, development of muscle soreness Nervous system: Slower decline in processing impulses by the central nervous system; Slower increase in variations in speed of motor neuron impulses Circulatory System: Maintenance of lower levels of LDLs and higher HDL/cholesterol and HDL/LDL ratios; Decreased risk of high blood pressure, atherosclerosis, heart attack, and stroke. Skeletal system: Slower decline in bone minerals; Decreased risk of fractures and osteoporosis Psychological benefits: Enhanced mood; Feelings of well-being; Reduces stress”"
-							/>
-						</div>
-						<figcaption>
-							<div className="caption">
-								<p>
-									There are many benefits from maintaining a high level of
-									physical activity throughout life.
-								</p>
-							</div>
-							<div className="source">
-								<p>
-									<span className="emphasis">Source</span>: DiGiovanna, 1994.
-								</p>
-							</div>
-						</figcaption>
-					</figure>
-				</section>
-				<header>
-					<h1 className="title title_1">Review and Apply</h1>
-				</header>
-				<section className="level2">
-					<header>
-						<h1 className="title">Review</h1>
-					</header>
-					<section className="objectiveset">
-						<ol className="objectivelist dynamiclist">
-							<li className="objective">
-								<p className="lotext">
-									<span className="number">LO 8.1</span>What physical changes
-									affect people in middle adulthood?
+									<span class="lc_labelnum">
+										<span class="label">LO</span>{' '}
+										<span class="number">8.1</span>
+									</span>{' '}
+									Analyze physical development in middle adulthood.
 								</p>
 							</li>
 						</ol>
 					</section>
-					<ul>
-						<li>
-							<p>
-								People in middle adulthood experience gradual changes in
-								physical characteristics and appearance.
-							</p>
-						</li>
-						<li>
-							<p>
-								The acuity of the senses, particularly vision and hearing, and
-								speed of reaction declines slightly during middle age.
-							</p>
-						</li>
-						<li>
-							<p>
-								Weight gain—commonly referred to as “middle-age spread”—can be
-								controlled through regular exercise and a healthy diet.
-							</p>
-						</li>
-					</ul>
-				</section>
-				<section className="level2">
-					<header>
-						<h1 className="title">Applying Lifespan Development</h1>
-					</header>
-					<ul>
-						<li>
-							<p>
-								Would you rather fly on an airplane with a middle-aged pilot or
-								a young one? Why?
-							</p>
-						</li>
-					</ul>
-					<aside className="marginalia">
-						<PearsonModal
-							showIcon={true}
-							icon={'show-on-18'}
-							buttonText={'View Sample Response'}
-							modalContent={'Hello Content'}
-						/>
+					<AudioControl src="https://mediaplayer.pearsoncmg.com/assets/_audio.true/audio-mypsychlab-feldman_0134531868-feldman4_ch8mod1sec1" />
+					<aside
+						data-chaucer-element-id="55cbb5a4-cf62-4a30-9f6a-086cc2d0c683"
+						id="P7001013171000000000000000003CFD"
+						class="vignette"
+						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CFD"
+					>
+						<p
+							data-chaucer-element-id="edc850e6-5ed6-4557-991c-7273e3dcaf01"
+							id="P7001013171000000000000000013B31"
+							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B31"
+						>
+							<i data-chaucer-element-id="c7f7d21b-bc3a-4cab-9320-6836a49f7f08">
+								Soon after turning 40, Sharon Boker-Tov noticed that it took
+								longer to bounce back from minor illnesses such as colds and the
+								flu. Then she noticed changes in her eyesight: She needed more
+								light to read fine print, and she had to adjust how far she held
+								newspapers from her face to read them easily. Finally, she
+								couldn’t deny that the gray strands in her hair, which had first
+								appeared in her late 20s, were becoming a virtual forest.
+							</i>
+						</p>
 					</aside>
 				</section>
 			</section>

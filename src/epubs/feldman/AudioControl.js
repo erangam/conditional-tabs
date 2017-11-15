@@ -45,9 +45,17 @@ class AudioControl extends Component {
 					style={{ display: this.state.showAudio === false ? 'none' : 'block' }}
 				>
 					<div className="player-container">
-						<audio id="player-1" src={this.props.src} controls="controls">
-							<p>Your browser doesn't support HTML5 audio</p>
-						</audio>
+						<iframe
+							data-chaucer-element-id="d4d2c6f7-f516-494c-84da-df6953ed7b3f"
+							id="player-1"
+							name="player-1"
+							tabIndex={-1}
+							aria-hidden="true"
+							src={this.props.src}
+							height={65}
+							scrolling="no"
+							style={{ border: 'none' }}
+						/>
 					</div>
 				</div>
 			</aside>
