@@ -1,5 +1,3 @@
-// State held component not using Redux
-
 import React, { Component } from 'react';
 
 class AudioControl extends Component {

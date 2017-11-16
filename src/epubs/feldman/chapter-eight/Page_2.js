@@ -1,7 +1,6 @@
 // Stateless component boilerplate
 import React from 'react';
 import AudioControl from '../AudioControl';
-import image from '../images/epub/ASSET46802.jpg';
 
 const PageTwo = props => {
 	return (

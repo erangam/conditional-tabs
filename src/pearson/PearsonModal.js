@@ -18,21 +18,13 @@ class PearsonModal extends Component {
 
 		this.handleClick = this.handleClick.bind(this);
 	}
+
 	handleClick() {
 		if (this.state.firstModalIsShown === false) {
 			this.setState({ firstModalIsShown: true });
 		}
 	}
-	renderModalText() {
-		this.content.map(paragraph => {
-			console.log(paragraph);
-			return (
-				<div>
-					<p>paragraph.paragraph</p>
-				</div>
-			);
-		});
-	}
+
 	render() {
 		const { firstModalIsShown, text } = this.state;
 

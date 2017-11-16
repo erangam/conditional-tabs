@@ -47,3 +47,9 @@
 .revel {
 	background: none;
 }
+
+@media (max-width: 640px) {
+	.bodymatter {
+		padding: 2em;
+	}
+}

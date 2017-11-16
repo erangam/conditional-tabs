@@ -1,4 +1,3 @@
-// Stateless component boilerplate
 import React from 'react';
 import AudioControl from '../AudioControl';
 

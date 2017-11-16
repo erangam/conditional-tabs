@@ -1,12 +1,12 @@
 import React from 'react';
 import { HashRouter, Route, Switch } from 'react-router-dom';
+import NavControls from './NavControls';
 
 import Page_1 from './chapter-eight/Page_1';
 import Page_2 from './chapter-eight/Page_2';
 import Page_3 from './chapter-eight/Page_3';
 
 import '../../assets/css/epub.css';
-import NavControls from './NavControls';
 
 const routes = [
 	{

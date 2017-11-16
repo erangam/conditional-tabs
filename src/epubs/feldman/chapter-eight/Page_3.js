@@ -1,12 +1,6 @@
 // Stateless component boilerplate
 import React from 'react';
 import AudioControl from '../AudioControl';
-import image from '../images/epub/AAJKNRQ0.jpg';
-import chartImage from '../images/epub/AAFDHQH0.png';
-import PearsonModal from '../../../pearson/PearsonModal';
-{
-	/*<AudioControl src="https://mediaplayer.pearsoncmg.com/assets/_pmd.true/feldman_0133814912_feldman_08_02?mimeType=mp3" />*/
-}
 
 const PageTwo = props => {
 	return (
