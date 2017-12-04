@@ -12,7 +12,7 @@
     "@pearson-components/elements-sdk": "^1.4.1",
     "@pearson-components/modal": "^1.0.3",
     "axios": "^0.17.1",
-    "elements-patternlab": "git+https://github.com/pearson-ux/pearson-glp-pl.git",
+    "elements-patternlab": "git+ssh://github.com/pearson-ux/pearson-glp-pl.git",
     "husky": "^0.14.3",
     "lint-staged": "^4.3.0",
     "prettier": "^1.8.2",
