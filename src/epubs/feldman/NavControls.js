@@ -48,17 +48,25 @@ class NavControls extends Component {
 	}
 
 	render() {
-		const prevPath = this.subPath + parseInt(this.state.currentPage - 1, 10),
-			nextPath = this.subPath + parseInt(this.state.currentPage + 1, 10);
+		console.log(this.props);
+		const prevPath =
+				this.subPath +
+				parseInt(this.state.currentPage - 1, 10) +
+				this.props.hash,
+			nextPath =
+				this.subPath +
+				parseInt(this.state.currentPage + 1, 10) +
+				this.props.hash;
 		return (
 			<div className="nav-controls">
 				<Link
-					to={this.state.currentPage - 1 !== 0 ? prevPath : 1}
+					to={this.state.currentPage - 1 !== 0 ? prevPath : 1 + this.props.hash}
 					data-prev={this.state.currentPage - 1}
 					data-current={this.state.currentPage}
 					className="previous"
 					onClick={this.handleOnClick}
 					data-link="prev"
+					disabled={this.state.currentPage - 1 !== 0}
 				>
 					<svg
 						focusable="false"
@@ -73,7 +81,7 @@ class NavControls extends Component {
 					to={
 						this.state.currentPage + 1 !== this.numberOfPages + 1
 							? nextPath
-							: this.numberOfPages
+							: this.numberOfPages + this.props.hash
 					}
 					data-next={this.state.currentPage + 1}
 					data-current={this.state.currentPage}

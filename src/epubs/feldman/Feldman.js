@@ -35,6 +35,7 @@ const FeldmanRoute = props => {
 					basePath={props.match}
 					currentPath={props.currentPath}
 					numberOfPages={routes.length}
+					hash={props.hash}
 				/>
 				<Switch>{FeldmanRoutes}</Switch>
 			</div>
@@ -43,12 +44,14 @@ const FeldmanRoute = props => {
 };
 
 const Feldman = props => {
+	console.log(props);
 	return (
 		<div className="revel">
 			<div className="chapter">
 				<FeldmanRoute
 					match={props.match.path}
 					currentPath={props.history.location.pathname}
+					hash={props.location.hash}
 				/>
 			</div>
 		</div>
