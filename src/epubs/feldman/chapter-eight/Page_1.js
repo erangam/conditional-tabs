@@ -185,6 +185,7 @@ const PageOne = props => {
 									data-chaucer-element-id="bdf4715a-27a2-4d0c-9b2b-2e86d370190f"
 									id="player1"
 									name="player1"
+									title="player"
 									className="__embedpearsonvideoplayer__"
 									src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_060_middle_adulthood"
 									scrolling="no"

@@ -47,6 +47,7 @@ class AudioControl extends Component {
 							data-chaucer-element-id="d4d2c6f7-f516-494c-84da-df6953ed7b3f"
 							id="player-1"
 							name="player-1"
+							title="audio player"
 							tabIndex={-1}
 							aria-hidden="true"
 							src={this.props.src}
