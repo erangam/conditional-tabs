@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/pearson-ux/pearson-glp-platform.svg?token=yRiZW31ciCX2AwmRD34E&branch=master)](https://travis-ci.com/pearson-ux/pearson-glp-platform)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
