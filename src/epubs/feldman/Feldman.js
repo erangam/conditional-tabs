@@ -28,6 +28,7 @@ const FeldmanRoutes = routes.map((route, i) => {
 });
 
 const FeldmanRoute = props => {
+	console.log(props);
 	return (
 		<HashRouter basename={'/feldman'}>
 			<div>
@@ -36,6 +37,7 @@ const FeldmanRoute = props => {
 					currentPath={props.currentPath}
 					numberOfPages={routes.length}
 					hash={props.hash}
+					query={props.query}
 				/>
 				<Switch>{FeldmanRoutes}</Switch>
 			</div>
@@ -44,7 +46,6 @@ const FeldmanRoute = props => {
 };
 
 const Feldman = props => {
-	console.log(props);
 	return (
 		<div className="revel">
 			<div className="chapter">
@@ -52,6 +53,7 @@ const Feldman = props => {
 					match={props.match.path}
 					currentPath={props.history.location.pathname}
 					hash={props.location.hash}
+					query={props.location.search}
 				/>
 			</div>
 		</div>

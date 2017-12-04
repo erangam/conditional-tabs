@@ -52,15 +52,21 @@ class NavControls extends Component {
 		const prevPath =
 				this.subPath +
 				parseInt(this.state.currentPage - 1, 10) +
+				this.props.query +
 				this.props.hash,
 			nextPath =
 				this.subPath +
 				parseInt(this.state.currentPage + 1, 10) +
+				this.props.query +
 				this.props.hash;
 		return (
 			<div className="nav-controls">
 				<Link
-					to={this.state.currentPage - 1 !== 0 ? prevPath : 1 + this.props.hash}
+					to={
+						this.state.currentPage - 1 !== 0
+							? prevPath
+							: 1 + this.props.query + this.props.hash
+					}
 					data-prev={this.state.currentPage - 1}
 					data-current={this.state.currentPage}
 					className="previous"
@@ -81,7 +87,7 @@ class NavControls extends Component {
 					to={
 						this.state.currentPage + 1 !== this.numberOfPages + 1
 							? nextPath
-							: this.numberOfPages + this.props.hash
+							: this.numberOfPages + this.props.query + this.props.hash
 					}
 					data-next={this.state.currentPage + 1}
 					data-current={this.state.currentPage}
