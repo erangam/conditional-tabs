@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+
 class NavControls extends Component {
 	constructor(props) {
 		super(props);
@@ -10,7 +11,6 @@ class NavControls extends Component {
 		};
 
 		this.pathArr = this.props.currentPath.split('/');
-
 		this.base = this.pathArr[1];
 		this.subDirectory = this.pathArr[2];
 		this.pageNumber = parseInt(this.pathArr[3], 10);
@@ -45,10 +45,10 @@ class NavControls extends Component {
 				return;
 			}
 		}
+		window.scrollTo(0, 0);
 	}
 
 	render() {
-		console.log(this.props);
 		const prevPath =
 				this.subPath +
 				parseInt(this.state.currentPage - 1, 10) +
