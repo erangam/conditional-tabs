@@ -4,7 +4,7 @@ import AudioControl from '../AudioControl';
 
 const PageTwo = props => {
 	return (
-		<div>
+		<div className="animated fadeIn">
 			<section className="bodymatter">
 				<section
 					data-chaucer-element-id="a10d1d41-8152-456c-8906-538b4109b4af"
@@ -13,27 +13,27 @@ const PageTwo = props => {
 					<aside
 						data-chaucer-element-id="af9d8886-6f97-4fbb-b10c-111082cf5583"
 						id="P7001013171000000000000000003CEE"
-						class="sidebar sidebar_7"
+						className="sidebar sidebar_7"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CEE"
 					>
 						<header data-chaucer-element-id="2ff6682f-debc-41d4-99c8-b669fa7f141f">
 							<h1
 								data-chaucer-element-id="78c1fadf-8d5e-4973-9ee5-a2b6763c4221"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013B26"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B26"
 								srcLang="title"
 							>
 								<span
 									data-chaucer-element-id="6d100eb3-33fb-4506-a54b-cbba1dc000d2"
-									class="label"
+									className="label"
 								>
 									Module 8.1
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="10e64a3f-9e12-415b-87c0-efe56f9c3a13"
-								class="subtitle"
+								className="subtitle"
 								id="P7001013171000000000000000013B27"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B27"
 								srcLang="subtitle"
@@ -52,7 +52,7 @@ const PageTwo = props => {
 							<header data-chaucer-element-id="b79c5ba5-d606-45d4-92c3-e376052a23c1">
 								<h1
 									data-chaucer-element-id="a146f08f-b43f-4e44-83b0-7c7a55806c5e"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013B28"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B28"
 									srcLang="title"
@@ -63,7 +63,7 @@ const PageTwo = props => {
 							<section
 								data-chaucer-element-id="2f2679f0-fcf8-4b52-8678-6d69e5b5285c"
 								id="P7001013171000000000000000003CF3"
-								class="vignette"
+								className="vignette"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CF3"
 								srcLang="introduction"
 							>
@@ -84,7 +84,7 @@ const PageTwo = props => {
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B2A"
 								>
 									Kara runs 5 miles each morning, eats a low-calorie,
-									high-calcium breakfast, and takes weekly classes in modern
+									high-calcium breakfast, and takes weekly classNamees in modern
 									dance, fencing, and Pilates. In the evenings, she reviews the
 									designs for various projects proposed by her staff. On
 									weekends when she’s not hosting a dinner, she goes to the

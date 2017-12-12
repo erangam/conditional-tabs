@@ -4,7 +4,7 @@ import AudioControl from '../AudioControl';
 
 const PageTwo = props => {
 	return (
-		<div>
+		<div className="animated fadeIn">
 			<section className="bodymatter">
 				<section
 					data-chaucer-element-id="f30ddf1d-ffde-4ba7-ba65-4762fb9d08a5"

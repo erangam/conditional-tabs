@@ -25,12 +25,17 @@ class NavControls extends Component {
 		this.setState({ currentPage: this.pageNumber });
 	}
 
+	componentDidMount() {
+		console.log('mounted');
+	}
+
 	handleOnClick(event) {
 		const currentPageNumber = parseInt(
 				event.currentTarget.getAttribute('data-current'),
 				10
 			),
-			link = event.currentTarget.getAttribute('data-link');
+			link = event.currentTarget.getAttribute('data-link'),
+			animated = document.querySelector('.animated');
 
 		if (link === 'next') {
 			if (currentPageNumber < this.numberOfPages) {

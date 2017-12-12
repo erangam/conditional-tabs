@@ -7,6 +7,7 @@ import Page_2 from './chapter-eight/Page_2';
 import Page_3 from './chapter-eight/Page_3';
 
 import '../../assets/css/epub.css';
+import '../../../node_modules/animate.css';
 
 const routes = [
 	{
@@ -28,10 +29,9 @@ const FeldmanRoutes = routes.map((route, i) => {
 });
 
 const FeldmanRoute = props => {
-	console.log(props);
 	return (
 		<HashRouter basename={'/feldman'}>
-			<div>
+			<div className="animated fadeIn">
 				<NavControls
 					basePath={props.match}
 					currentPath={props.currentPath}
