@@ -82,7 +82,15 @@ After install the folders and files should look something like this:
  - State held (smart) Component Template
  - Redux Component Template
 
+
+----------
+
+
 **Tip:**  Always start with a dumb component and if you find the need a mutable state held container you can easily convert it.
+
+
+----------
+
 
 `src/` - You'll spend most of your time here building the application.
 
@@ -92,13 +100,31 @@ After install the folders and files should look something like this:
 
 `./src/components/` - The location of all of your stateless components.  Its good practice to keep these separated from the smart components.
 
+
+----------
+
+
+**Tip:** an example component has been created to get you started.  You can use this as your starting point, just delete what you want and start building!
+
+
+----------
+
+
 `./src/containers/` - The location of all your state held smart components, including Redux managed components.
 
 `./src/epubs/` - A collection of epubs you can use to import into your application
 
 `./src/helpers/` - Write all your JS helper functions in here and share them as needed.
 
+
+----------
+
+
 **Tip:** [Lodash](https://lodash.com/docs/) is included in this application.  You can import it into your application with the following line at the top of your file: `import _ from 'lodash'`
+
+
+----------
+
 
 `./src/pearson/` - since most Pearson components need additional configurations for the component to work, its best to import them into a seperate file, with the configurations you need.
 
@@ -110,11 +136,19 @@ After install the folders and files should look something like this:
 
 `./src/Index.js` - This file is required and is the webpack entrypoint.  You probably wont need to touch this.
 
+
+
+
+
 `.gitignore` - ignore any files you don't want git to track.
 
 `.travis.yml` - travis configurations.
 
 `gulpfile.js` -  This is where youll tell travis where to deploy the app on push.
+
+
+----------
+
 
 **Example:** - change the remote path to the name of the project
 
@@ -128,4 +162,12 @@ After install the folders and files should look something like this:
     });
 
     This will deploy to : http://45.55.127.237/name-of-project
+
+## Building The Application
+
+Every time you commit and push your files using GIT, Travis will build your project and serve it to the URL you specified in the gulpfile.js.
+
+The server does not serve the files from a root location, so you must specify the correct folder path.  In your package.json file you'll need to change the following line of code:
+
+      "homepage": "http://45.55.127.237/name-of-project/"
 
