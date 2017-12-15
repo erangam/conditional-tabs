@@ -10,10 +10,9 @@ class Home extends Component {
 						Welcome to the Pearson Prototype Platform!
 					</h1>
 					<h2 className="pe-title">
-						Here is a list of all the projects that run off this platform.
+						Start building by going to './src/components/Home.js'
 					</h2>
 				</header>
-				<p className="pe-copy pe-copy--large">Coming Soon....</p>
 			</div>
 		);
 	}
