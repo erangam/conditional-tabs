@@ -173,7 +173,126 @@ The server does not serve the files from a root location, so you must specify th
 
 
 ## Using the EPub Add-On
-Coming soon...
+You can use our epub components to simulate a text book experience.  With this add-on you can wrap the components in a react container and create custom components around it, without ever altering the epubs themselves.  Your essestially creating your own textboox experience.
+
+ In order to do this, you will need some basic understanding of [React Router 4](https://reacttraining.com/react-router/web/guides/philosophy).
+
+**Step 1 of 3**
+
+Start by cloning, installing, and running the application.  Next create a custom stateless route component.  This component will stitch the book together using router.  First create file called 'yourEpubRoutes.js' (or whatever you want) and import the router and navigation controls.
+
+    import React from 'react';
+    import { HashRouter, Route, Switch } from 'react-router-dom';
+    import NavControls from '../epubs/feldman/NavControls';
+    
+Next import the epub pages you want to include.  The books are located in the .`/src/epubs/` directory.
+
+    import Page_1 from '../epubs/feldman/chapter-eight/Page_1';
+    import Page_2 from '../epubs/feldman/chapter-eight/Page_2';
+    import Page_3 from '../epubs/feldman/chapter-eight/Page_3';
+    
+Next, add your custom routes to an array.  You can call the path anything you want, but its strongly advised to use language similar to the file architecture in `.src/epubs/`
+
+    	const routes = [
+    	{
+    		path: '/chapter-eight/1',
+    		component: Page_1
+    	},
+    	{
+    		path: '/chapter-eight/2',
+    		component: Page_2
+    	},
+    	{
+    		path: '/chapter-eight/3',
+    		component: Page_3
+    	},
+    	{
+    		path: '/chapter-eight/4',
+    		component: Page_1
+    	}
+    ];
+
+Next well create a function that maps through the array and creates the actual routes.
+
+    const FeldmanRoutes = routes.map((route, i) => {
+    	return <Route key={i} path={route.path} render={route.component} />;
+    });
+
+Finally, well create the component and add the .jsx
+
+    const YourEpubRoutes = props => {
+        return (
+            <HashRouter basename={'/myBook'}>
+                <div>
+                    <NavControls
+                        basePath={props.match}
+                        currentPath={props.currentPath}
+                        numberOfPages={routes.length}
+                        hash={props.hash}
+                        query={props.query}
+                    />
+                    <Switch>{FeldmanRoutes}</Switch>
+                </div>
+            </HashRouter>
+        );
+    };
+    
+    export default YourEpubRoutes;
+
+Here is a gist of what the file should look like: [myEpub.js](https://gist.github.com/davodey/2f6f57f78e7aedcfcd97b07d91c389a2)
+
+**Step 2 of 3**
+
+Now well want to create the wrapper component that holds the contents of the book you just created.  
+
+Create a new component file and call it something like 'myBook.js' and import the routes you just created.
+
+    import React from 'react';
+    import YourEpubRoutes from './yourEpubRoutes'
+
+Next create the component and wrap the routes with some div tags.  You can customize this however you like, even add other components to this file.
+
+    const myBook = props => {
+        return (
+            <div className="revel">
+                <div className="chapter">
+                    <YourEpubRoutes
+                        match={props.match.path}
+                        currentPath={props.history.location.pathname}
+                        hash={props.location.hash}
+                        query={props.location.search}
+                    />
+                </div>
+            </div>
+        );
+    };
+    
+    export default myBook;
+
+Important: in order for the navigation to work correctly you must have the following props on your Routing component:
+
+    match={props.match.path}
+    currentPath={props.history.location.pathname}
+    hash={props.location.hash}
+    query={props.location.search}
+
+Here is another gist of what this file should look like: [myBook.js](https://gist.github.com/davodey/ec36dcff40e5b4bba4488b4742d022f4)
+
+**Step 3**
+
+Finally were going to add the route to the main application.  Open up `./src/routes/index.js` and import the myBook component:
+
+    import myBook from '../components/MyBook';
+
+Then add the following to the MainRoute component.
+
+	<Route path={'/myBook} component={MyBook} />
+Thats it you just added a custom textbook using the epub add-on.
+
+You should be able to go to the following URL and view your book:
+
+http://localhost:3000/#/myBook/chapter-eight/1
+
 
 ## Importing styles from an existing Pattern Lab
 If you used patternlab to build some custom markup and styling, importing into this platform is is easy.  In your package.json file youll need to change the following line of code:
