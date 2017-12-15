@@ -13,7 +13,7 @@ This platform is a playground and used for prototyping in a React App environmen
  - Elements SDK
  - Configurable to pull in styling from a custom PatternLab project.
 
-There is no right or wrong way to play on the playground, however we do have a few recommendations while building.
+There is no right or wrong way to play on the playground, however we do have a few recommendations while building and we'll go through them below.
 
 ## **Requirements:**
 
@@ -170,4 +170,11 @@ Every time you commit and push your files using GIT, Travis will build your proj
 The server does not serve the files from a root location, so you must specify the correct folder path.  In your package.json file you'll need to change the following line of code:
 
       "homepage": "http://45.55.127.237/name-of-project/"
+
+
+## Using the EPub Add-On
+Coming soon...
+
+## Importing styles from an existing Pattern Lab
+Coming soon...
 
