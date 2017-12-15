@@ -34,8 +34,7 @@ class NavControls extends Component {
 				event.currentTarget.getAttribute('data-current'),
 				10
 			),
-			link = event.currentTarget.getAttribute('data-link'),
-			animated = document.querySelector('.animated');
+			link = event.currentTarget.getAttribute('data-link');
 
 		if (link === 'next') {
 			if (currentPageNumber < this.numberOfPages) {
