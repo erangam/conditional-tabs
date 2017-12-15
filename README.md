@@ -40,8 +40,8 @@ To get started clone this repository and install the project dependencies:
 To run the application:
 
     $ npm start
-
-Running the application will fire off a local server, serving your application at `http://localhost:3000`
+    
+Running the application will fire off a local server, serving your application at `http://localhost:3000`  
 
 **Important:** This app uses Webpack to bundle and serve files, however it is managed by Create React App.  To keep it simple these configurations have been hidden from you.  If you would like to hack the configurations you can do so by running `$ npm run eject` As noted in the [Create React App documentation](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject), running eject is a one way process.  Once you do it, there is no going back.  So use this with caution.
 
@@ -73,14 +73,14 @@ After install the folders and files should look something like this:
 **A closer look**
 
  `node_modules/` - If you are new to NPM, this is where your project dependancies are saved and used.  You will not need this folder.
-
+ 
 `public/` - Static files webpack uses to build your app.  It is required to have an `index.html` file.  This is your base template file.
 
-`react-templates/` - Three boilerplate templates you can use to help build a component.
+`react-templates/` - Three boilerplate templates you can use to help build a component.  
 
  - Stateless (dumb) Component Template
  - State held (smart) Component Template
- - Redux Component Template
+ - Redux Component Template 
 
 
 ----------
@@ -98,7 +98,7 @@ After install the folders and files should look something like this:
 
 `./src/assets/` - Project asset folder to store application CSS, Images and fonts.
 
-`./src/components/` - The location of all of your stateless components.  Its good practice to keep these separated from the smart components.
+`./src/components/` - The location of all of your stateless components.  Its good practice to keep these separated from the smart components. 
 
 
 ----------
@@ -114,19 +114,19 @@ After install the folders and files should look something like this:
 
 `./src/epubs/` - A collection of epubs you can use to import into your application
 
-`./src/helpers/` - Write all your JS helper functions in here and share them as needed.
+`./src/helpers/` - Write all your JS helper functions in here and share them as needed.  
 
 
 ----------
 
 
-**Tip:** [Lodash](https://lodash.com/docs/) is included in this application.  You can import it into your application with the following line at the top of your file: `import _ from 'lodash'`
+**Tip:** [Lodash](https://lodash.com/docs/) is included in this application.  You can import it into your application with the following line at the top of your file: `import _ from 'lodash'` 
 
 
 ----------
 
 
-`./src/pearson/` - since most Pearson components need additional configurations for the component to work, its best to import them into a seperate file, with the configurations you need.
+`./src/pearson/` - since most Pearson components need additional configurations for the component to work, its best to import them into a seperate file, with the configurations you need.  
 
 `./src/reducers/` - For use in Redux apps only.  We'll be storing our reducer files here.
 
@@ -144,7 +144,7 @@ After install the folders and files should look something like this:
 
 `.travis.yml` - travis configurations.
 
-`gulpfile.js` -  This is where youll tell travis where to deploy the app on push.
+`gulpfile.js` -  This is where youll tell travis where to deploy the app on push.  
 
 
 ----------
@@ -160,7 +160,7 @@ After install the folders and files should look something like this:
                 remotePath: '/home/webroot/name-of-project'
             }));
     });
-
+    
     This will deploy to : http://45.55.127.237/name-of-project
 
 ## Building The Application
@@ -176,5 +176,9 @@ The server does not serve the files from a root location, so you must specify th
 Coming soon...
 
 ## Importing styles from an existing Pattern Lab
-Coming soon...
+If you used patternlab to build some custom markup and styling, importing into this platform is is easy.  In your package.json file youll need to change the following line of code:
+
+      "elements-patternlab": "git+ssh://git@github.com:repo-location"
+      
+If you don't know the repo location path you can find it by going to the Github repository.  Click 'clone or download', then click the link 'use ssh'
 
