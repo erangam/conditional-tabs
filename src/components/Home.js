@@ -6,6 +6,9 @@ import firebase from '../helpers/firebase';
 class Home extends Component {
 	constructor(props) {
 		super(props);
+		this.state = {
+			items: []
+		};
 	}
 
 	componentDidMount() {
