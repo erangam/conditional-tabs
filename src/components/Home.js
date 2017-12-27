@@ -1,8 +1,15 @@
 import React, { Component } from 'react';
 import '../assets/css/home.css';
+import { connect } from 'react-redux';
 
 class Home extends Component {
+	constructor(props) {
+		super(props);
+		this.state = {};
+	}
+
 	render() {
+		console.log(this.props);
 		return (
 			<div className="home">
 				<header className="App-header">
@@ -18,4 +25,11 @@ class Home extends Component {
 	}
 }
 
-export default Home;
+function mapStateToProps(state) {
+	return {
+		// from reducer
+		data: state.data
+	};
+}
+
+export default connect(mapStateToProps)(Home);

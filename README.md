@@ -179,7 +179,7 @@ You can use our epub components to simulate a text book experience.  With this a
 
 **Step 1 of 3**
 
-Start by cloning, installing, and running the application.  Next create a custom stateless route component.  This component will stitch the book together using router.  First create file called 'yourEpubRoutes.js' (or whatever you want) and import the router and navigation controls.
+Start by cloning, installing, and running the application.  Next create a custom stateless route component.  This component will stitch the book together using router.  First create file called 'YourEpubRoutes.js' (or whatever you want) and import the router and navigation controls.
 
     import React from 'react';
     import { HashRouter, Route, Switch } from 'react-router-dom';

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "firebase": "^4.8.1",
     "gulp": "^3.9.1",
     "gulp-sftp": "^0.1.5",
     "react-scripts": "1.0.17"
