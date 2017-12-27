@@ -15,7 +15,6 @@ class Data extends Component {
 	}
 
 	render() {
-		console.log('data', this.props);
 		return (
 			// JSX GOES HERE
 			<Fragment>{this.props.children}</Fragment>
