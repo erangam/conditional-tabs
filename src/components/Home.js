@@ -28,7 +28,7 @@ class Home extends Component {
 function mapStateToProps(state) {
 	return {
 		// from reducer
-		data: state.data
+		apiData: state.apiData
 	};
 }
 

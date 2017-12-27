@@ -6,7 +6,7 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
 // import Redux actions
-import { getData } from '../actions/getData';
+import { getApiData } from './actions/getApiData';
 
 class Data extends Component {
 	componentDidMount() {
@@ -26,7 +26,7 @@ class Data extends Component {
 function mapStateToProps(state) {
 	return {
 		// from reducer
-		data: state.data
+		apiData: state.apiData
 	};
 }
 
@@ -37,7 +37,7 @@ function mapDispatchToProps(dispatch) {
 	// to all reducers
 	return bindActionCreators(
 		{
-			getData: getData
+			getData: getApiData
 		},
 		dispatch
 	);

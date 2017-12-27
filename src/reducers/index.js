@@ -1,9 +1,9 @@
 // Redux Reducers go here
 import { combineReducers } from 'redux';
-import ReducerData from './reducer_data';
+import ReducerApiData from './reducer_api_data';
 
 const rootReducer = combineReducers({
-	data: ReducerData
+	apiData: ReducerApiData
 });
 
 export default rootReducer;

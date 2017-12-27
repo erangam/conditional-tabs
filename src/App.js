@@ -1,6 +1,6 @@
 import React from 'react';
+import Data from './Data';
 import MainRoute from './routes/index';
-import Data from './components/Data';
 
 //redux
 import { Provider } from 'react-redux';
