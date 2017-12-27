@@ -5,9 +5,12 @@ import firebase from '../helpers/firebase';
 import { getFirebaseData } from '../actions/getFirebaseData';
 import { bindActionCreators } from 'redux';
 
+// set the firebase reference
+const ref = 'items';
+
 class Home extends Component {
 	componentDidMount() {
-		const itemsRef = firebase.database().ref('items');
+		const itemsRef = firebase.database().ref(ref);
 		itemsRef.on('value', snapshot => {
 			let items = snapshot.val();
 			this.props.getFirebaseData(items);
