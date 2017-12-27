@@ -14,12 +14,20 @@ gulp.task('default', function () {
         }));
 });
 
-gulp.task('compile-scss', function () {
+gulp.task('compile-scss', ['install-elements'], function () {
     return sass('./node_modules/elements-patternlab/pattern-lab/scss/platform.scss', {
         style: 'expanded',
         lineNumbers: true
     })
         .pipe(gulp.dest('./src/assets/css'));
+});
+
+gulp.task('install-elements', function(cb) {
+    exec('npm --prefix ./node_modules/elements-patternlab install ./node_modules/elements-patternlab', function (err, stdout, stderr) {
+        console.log(stdout);
+        console.log(stderr);
+        cb(err);
+    });
 });
 
 gulp.task('autoprefix',['compile-scss'], function () {
