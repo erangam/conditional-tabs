@@ -2,7 +2,7 @@ import React from 'react';
 import Data from './Data';
 import MainRoute from './routes/index';
 
-//redux
+// redux
 import { Provider } from 'react-redux';
 import { createStore, applyMiddleware } from 'redux';
 import reducers from './reducers/index';
