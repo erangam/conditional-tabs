@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import firebase from '../helpers/firebase';
-
 import '../assets/css/home.css';
 import { connect } from 'react-redux';
 

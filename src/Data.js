@@ -15,6 +15,7 @@ class Data extends Component {
 	}
 
 	render() {
+		console.log('data', this.props);
 		return (
 			// JSX GOES HERE
 			<Fragment>{this.props.children}</Fragment>
@@ -39,7 +40,8 @@ function mapDispatchToProps(dispatch) {
 	// to all reducers
 	return bindActionCreators(
 		{
-			getData: getApiData
+			getData: getApiData,
+			getFirebaseData: getFirebaseData
 		},
 		dispatch
 	);
