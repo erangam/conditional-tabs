@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../assets/css/home.css';
 import { connect } from 'react-redux';
+import firebase from '../helpers/firebase';
 
 class Home extends Component {
 	constructor(props) {
