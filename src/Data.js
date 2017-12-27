@@ -7,6 +7,7 @@ import { bindActionCreators } from 'redux';
 
 // import Redux actions
 import { getApiData } from './actions/getApiData';
+import { getFirebaseData } from './actions/getFirebaseData';
 
 class Data extends Component {
 	componentDidMount() {
@@ -26,7 +27,8 @@ class Data extends Component {
 function mapStateToProps(state) {
 	return {
 		// from reducer
-		apiData: state.apiData
+		apiData: state.apiData,
+		firebaseData: state.firebaseData
 	};
 }
 
