@@ -3,7 +3,8 @@ const gulp = require('gulp'),
     sftp = require('gulp-sftp'),
     postcss = require('gulp-postcss'),
     autoprefixer = require('autoprefixer'),
-    sass = require('gulp-ruby-sass');
+    sass = require('gulp-ruby-sass'),
+    exec = require('child_process').exec;
 
 gulp.task('default', function () {
     return gulp.src('build/**/*')
