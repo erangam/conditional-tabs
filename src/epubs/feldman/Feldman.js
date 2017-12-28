@@ -5,6 +5,10 @@ import NavControls from './NavControls';
 import Page_1 from './chapter-eight/Page_1';
 import Page_2 from './chapter-eight/Page_2';
 import Page_3 from './chapter-eight/Page_3';
+import Page_4 from './chapter-eight/Page_4';
+import Page_5 from './chapter-eight/Page_5';
+import Page_6 from './chapter-eight/Page_6';
+import Page_7 from './chapter-eight/Page_7';
 
 import '../../assets/css/epub.css';
 import '../../../node_modules/animate.css';
@@ -21,6 +25,22 @@ const routes = [
 	{
 		path: '/chapter-eight/3',
 		component: Page_3
+	},
+	{
+		path: '/chapter-eight/4',
+		component: Page_4
+	},
+	{
+		path: '/chapter-eight/5',
+		component: Page_5
+	},
+	{
+		path: '/chapter-eight/6',
+		component: Page_6
+	},
+	{
+		path: '/chapter-eight/7',
+		component: Page_7
 	}
 ];
 

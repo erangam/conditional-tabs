@@ -8,7 +8,7 @@ const PageOne = props => {
 				<section
 					data-chaucer-element-id="665d0602-b283-4c0f-9c59-ec20854e6667"
 					id="P7001013171000000000000000003CC1"
-					srcLang="chapter"
+					className="chapter"
 				>
 					<header data-chaucer-element-id="c5f0aaaa-873f-4b98-8f0d-8125d30b75b9">
 						<h1
@@ -16,7 +16,6 @@ const PageOne = props => {
 							className="title"
 							id="P7001013171000000000000000013B09"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B09"
-							srcLang="title"
 						>
 							<span
 								data-chaucer-element-id="2935afc4-60f6-497c-9dd8-2127f37217d4"
@@ -36,7 +35,6 @@ const PageOne = props => {
 						</h1>
 					</header>
 					<AudioControl src="https://mediaplayer.pearsoncmg.com/assets/_audio.true/audio-mypsychlab-feldman_0134531868-feldman4_ch8mod0" />
-
 					<section
 						data-chaucer-element-id="b93d8b60-5ee5-4fed-b277-58383c5b3c07"
 						id="P7001013171000000000000000003CC3"
@@ -102,7 +100,6 @@ const PageOne = props => {
 							data-chaucer-element-id="95b7a0be-ab10-49b5-a192-f80f2fecbbf7"
 							id="P7001013171000000000000000003CC8"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CC8"
-							srcLang="introduction"
 							className="introduction level1"
 						>
 							<p
@@ -154,6 +151,7 @@ const PageOne = props => {
 								time in middle age. Watch the following video to learn more.
 							</p>
 						</section>
+
 						<figure
 							data-chaucer-element-id="9031980c-f40e-4e08-b1c9-88181ce593d4"
 							className="video"
@@ -182,10 +180,10 @@ const PageOne = props => {
 								className="lc_ec_videoinner"
 							>
 								<iframe
+									title="video"
 									data-chaucer-element-id="bdf4715a-27a2-4d0c-9b2b-2e86d370190f"
 									id="player1"
 									name="player1"
-									title="player"
 									className="__embedpearsonvideoplayer__"
 									src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_060_middle_adulthood"
 									scrolling="no"
@@ -196,12 +194,12 @@ const PageOne = props => {
 								/>
 							</div>
 						</figure>
+
 						<nav
 							data-chaucer-element-id="848f112b-7bdc-4c17-ae0d-f15a02d0d18e"
 							id="P7001013171000000000000000003CD5"
 							className="toc"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CD5"
-							srcLang="toc"
 						>
 							<div
 								data-chaucer-element-id="fa4d06c5-6e22-412b-8aea-7038cc6102c8"
@@ -229,12 +227,11 @@ const PageOne = props => {
 											<a
 												data-chaucer-element-id="cc19d943-3990-473f-829a-eb3ad024ad1f"
 												className="xref"
-												href="#/feldman/chapter-eight/2"
+												href="ch08_pg0002.xhtml#P7001013171000000000000000003CEE"
 											>
 												<span
 													data-chaucer-element-id="7c92fd04-f40d-4ef6-ab20-35956c173736"
 													className="title"
-													srcLang="title"
 												>
 													<span
 														data-chaucer-element-id="dc8b19f1-5738-43d4-8fd7-632f81e84bfe"
@@ -259,7 +256,6 @@ const PageOne = props => {
 											data-chaucer-element-id="f1d25805-29bb-42b1-82a1-4a84c6385c39"
 											id="P7001013171000000000000000003CDA"
 											data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CDA"
-											srcLang="practice"
 											className="level1"
 										>
 											<ol
@@ -311,7 +307,6 @@ const PageOne = props => {
 												<span
 													data-chaucer-element-id="da39c646-4d7a-47bd-83b5-baa4c5265726"
 													className="title"
-													srcLang="title"
 												>
 													<span
 														data-chaucer-element-id="77f65ed7-e3ed-49a7-aecd-c675d33ac7d1"
@@ -336,7 +331,6 @@ const PageOne = props => {
 											data-chaucer-element-id="b3d5a5ca-4114-4d48-92f0-e209177acf24"
 											id="P7001013171000000000000000003CE1"
 											data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CE1"
-											srcLang="practice"
 											className="level1"
 										>
 											<ol
@@ -388,7 +382,6 @@ const PageOne = props => {
 												<span
 													data-chaucer-element-id="d626a104-f7bb-4794-9717-2ade89345e4c"
 													className="title"
-													srcLang="title"
 												>
 													<span
 														data-chaucer-element-id="728c2378-89bd-4820-81da-17ed920a48b1"
@@ -413,7 +406,6 @@ const PageOne = props => {
 											data-chaucer-element-id="d68ad43f-ea0d-4e1b-bc55-830f1304da40"
 											id="P7001013171000000000000000003CE8"
 											data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003CE8"
-											srcLang="practice"
 											className="level1"
 										>
 											<ol

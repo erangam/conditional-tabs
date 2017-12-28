@@ -20,7 +20,7 @@ class AudioControl extends Component {
 	render() {
 		return (
 			// JSX GOES HERE
-			<aside className="ls_audio">
+			<aside className="ls_audio" style={{ marginBottom: '2em' }}>
 				<button
 					type="button"
 					className="pe-btn--btn_large "
