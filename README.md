@@ -1,4 +1,5 @@
 
+
 [![Build Status](https://travis-ci.com/pearson-ux/pearson-glp-platform.svg?token=yRiZW31ciCX2AwmRD34E&branch=master)](https://travis-ci.com/pearson-ux/pearson-glp-platform)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -295,9 +296,54 @@ http://localhost:3000/#/myBook/chapter-eight/1
 
 
 ## Importing styles from an existing Pattern Lab
-If you used patternlab to build some custom markup and styling, importing into this platform is is easy.  In your package.json file youll need to change the following line of code:
+Importing a custom pattern lab stylesheet into this platform is is easy.  In your package.json file youll need to change the following line of code:
 
       "elements-patternlab": "git+ssh://git@github.com:repo-location"
       
 If you don't know the repo location path you can find it by going to the Github repository.  Click 'clone or download', then click the link 'use ssh'
+
+
+## Getting data from an API
+
+The platform accepts data from an API or a Realtime Firebase database.  Data from an API is called with a GET request, run through a Redux reducer and is stored as state, in the Redux global store. 
+
+To get started open `./src/actions/getApiData.js` and change the apiUrl to your API endpoint.  
+
+    const apiUrl =
+    	'https://cardinal-react-two.firebaseio.com/conversations/a6c4e48d-a80a-455e-b432-c2b962c4c775.json';
+
+Next, pass in any parameters that might be required.  This could be an authentication token, or any other data the api needs to return the correct data.
+
+		params: {
+			token: 'a59674f5-f9ae-41f2-b30d-9438fd87b6db',
+		}
+
+The data will now be returned as an object wherever your Redux store is connected.  We have it setup in our example on `./src/components/Home.js`  The object is: apiData and can be passed into other React components with `{this.props.apiData}`
+
+## Connecting to Firebase
+
+The platform is also configured to get data from a Realtime Firebase database.
+
+To get started open `./src/helpers/firebase.js`
+
+Change the following configurations to match your instance
+
+    const config = {
+    	apiKey: 'AIzaSyDclxEoyu_V4hUfILx8rAPtPQ08TMIIxKA',
+    	authDomain: 'pearson-glp-platform-demo.firebaseapp.com',
+    	databaseURL: 'https://pearson-glp-platform-demo.firebaseio.com',
+    	projectId: 'pearson-glp-platform-demo',
+    	storageBucket: '',
+    	messagingSenderId: '964759043519'
+    };
+
+Once you connect your database, an object will be available wherever your Redux store is connected.    We have it setup in our example on `./src/components/Home.js`  The object is: firebaseData and can be passed into other React components with `{this.props.firebaseData}`  This object `Home.js` will update in realtime as the database gets updated.  
+
+## Posting to the database
+
+coming soon...
+
+
+
+
 
