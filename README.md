@@ -305,20 +305,20 @@ If you don't know the repo location path you can find it by going to the Github 
 
 ## Getting data from an API
 
-The platform accepts data from an API or a Realtime Firebase database.  Data from an API is called with a GET request, run through a Redux reducer and is stored as state, in the Redux global store. 
+The platform returns data from an API or a Realtime Firebase database.  Data from an API is called with a GET request, run through a Redux reducer, and is stored as state in the Redux global store. 
 
 To get started open `./src/actions/getApiData.js` and change the apiUrl to your API endpoint.  
 
     const apiUrl =
     	'https://cardinal-react-two.firebaseio.com/conversations/a6c4e48d-a80a-455e-b432-c2b962c4c775.json';
 
-Next, pass in any parameters that might be required.  This could be an authentication token, or any other data the api needs to return the correct data.
+Next, pass in any parameters that might be required.  This could be an authentication token, or any other property the api needs to return data.
 
 		params: {
 			token: 'a59674f5-f9ae-41f2-b30d-9438fd87b6db',
 		}
 
-The data will now be returned as an object wherever your Redux store is connected.  We have it setup in our example on `./src/components/Home.js`  The object is: apiData and can be passed into other React components with `{this.props.apiData}`
+The data will be returned as an object wherever your Redux store is connected.  We have it setup in our example on `./src/components/Home.js`  The object is: apiData and can be passed into other React components with `{this.props.apiData}`
 
 ## Connecting to Firebase
 
