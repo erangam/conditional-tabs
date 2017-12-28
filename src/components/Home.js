@@ -5,12 +5,9 @@ import firebase from '../helpers/firebase';
 import { getFirebaseData } from '../actions/getFirebaseData';
 import { bindActionCreators } from 'redux';
 
-// set the firebase reference
-const ref = 'items';
-
 class Home extends Component {
 	componentDidMount() {
-		const itemsRef = firebase.database().ref(ref);
+		const itemsRef = firebase.database().ref();
 		itemsRef.on('value', snapshot => {
 			let items = snapshot.val();
 			this.props.getFirebaseData(items);
@@ -18,17 +15,18 @@ class Home extends Component {
 	}
 
 	render() {
+		console.log(this.props.firebaseData[0]);
 		return (
 			<div className="home">
 				<header className="App-header">
 					<h1 className="pe-page-title">
 						{this.props.firebaseData[0] !== undefined
-							? this.props.firebaseData[0].title
+							? this.props.firebaseData[0].items.title
 							: ''}
 					</h1>
 					<h2 className="pe-title">
 						{this.props.firebaseData[0] !== undefined
-							? this.props.firebaseData[0].content
+							? this.props.firebaseData[0].items.content
 							: ''}
 					</h2>
 				</header>
