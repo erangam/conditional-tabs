@@ -1,6 +1,7 @@
 // Stateless component boilerplate
 import React from 'react';
 import AudioControl from '../AudioControl';
+import ImageOne from '../images/epub/FG_08_003.png';
 
 const PageSeven = props => {
 	return (
@@ -22,54 +23,7 @@ const PageSeven = props => {
 							Wellness and Illness: The Ups and Downs of Middle Adulthood
 						</h1>
 					</header>
-
-					<aside
-						data-chaucer-element-id="9832c7fc-a803-4cf7-b221-5172b5d2dfe6"
-						class="marginalia"
-					>
-						<a
-							data-chaucer-element-id="43203cc0-a2b2-45df-81c1-3ca974e3cffe"
-							data-type="audio"
-							data-state="closed"
-							tabindex="0"
-							data-resource-id="audio-mypsychlab-feldman_0134531868-feldman4_ch8mod1sec5"
-							data-player-id="player-1"
-						>
-							<p data-chaucer-element-id="69b82e19-c1a4-48ba-b26c-15d1212afcdb">
-								<span
-									data-chaucer-element-id="79bfff87-7b90-487c-9c19-77024f2ba6c9"
-									class="design-icon design-icon_1"
-								/>
-								Listen to the Audio
-							</p>
-						</a>
-						<div
-							data-chaucer-element-id="2714eeef-dacb-4443-9af9-32b39401f576"
-							class="player-container-wrapper"
-						>
-							<div
-								data-chaucer-element-id="32185471-6070-44c1-863f-2e105c819bf8"
-								class="player-container"
-							>
-								<iframe
-									data-chaucer-element-id="68e7021d-fbe1-4649-83a6-f86f5ba5f887"
-									id="player-1"
-									name="player-1"
-									class="__embedpearsonvideoplayer__"
-									tabindex="-1"
-									aria-hidden="true"
-									src="https://mediaplayer.pearsoncmg.com/assets/_audio.true/audio-mypsychlab-feldman_0134531868-feldman4_ch8mod1sec5"
-									height="65"
-									scrolling="no"
-									style="width: 200px !important;"
-								/>
-								<div
-									data-chaucer-element-id="d60a20b1-369b-4e8d-9d3c-c6240fa3c07b"
-									class="player-loading"
-								/>
-							</div>
-						</div>
-					</aside>
+					<AudioControl src="https://mediaplayer.pearsoncmg.com/assets/_audio.true/audio-mypsychlab-feldman_0134531868-feldman4_ch8mod1sec5" />
 
 					<p
 						data-chaucer-element-id="fcb3d82e-e096-483f-9f94-54a73a323e60"
@@ -142,7 +96,7 @@ const PageSeven = props => {
 							alt="Graph shows worries of adulthood like money, work, family responsibilities and health concerns from 2007 to 2014."
 							id="P7001013171000000000000000013BA3"
 							data-uri="P7001013171000000000000000006BEF"
-							src="../images/FG_08_003.png"
+							src={ImageOne}
 							data-chaucer-note-id="269016"
 						/>
 						<figcaption
@@ -974,6 +928,7 @@ const PageSeven = props => {
 							class="lc_ec_videoinner"
 						>
 							<iframe
+								title="video"
 								data-chaucer-element-id="98da99ef-b894-4bfa-b4dc-c2777534ae61"
 								id="player1"
 								name="player1"
@@ -1180,6 +1135,7 @@ const PageSeven = props => {
 								data-chaucer-element-id="064e6016-a216-4a43-b06c-b525207bd2cd"
 								id="player2"
 								name="player2"
+								title="video"
 								class="__embedpearsonvideoplayer__"
 								src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_014_E15_S03_ALT"
 								scrolling="no"
@@ -1299,11 +1255,11 @@ const PageSeven = props => {
 								<iframe
 									data-chaucer-element-id="b257d76c-a70a-47a7-b3f6-e256886d48d4"
 									class="gadget"
-									src="../components/metrodigi/ch08-click_to_reveal-01/index.html"
+									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-click_to_reveal-01/index.html"
 									height="620"
 									width="770"
 									lang="en-us"
-									title=""
+									title="interactive"
 									data-responsivedesigned="no"
 									data-minwidth="525"
 									data-minheight="267"
@@ -1373,6 +1329,7 @@ const PageSeven = props => {
 									data-chaucer-element-id="38188be2-5312-472e-afe0-a88fb9708375"
 									id="player3"
 									name="player3"
+									title="video two"
 									class="__embedpearsonvideoplayer__"
 									src="https://mediaplayer.pearsoncmg.com/assets/_video.true/mypsychlab-2016-feldman4e_0134531868-personality_and_health"
 									scrolling="no"

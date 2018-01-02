@@ -9,6 +9,11 @@ import Page_4 from './chapter-eight/Page_4';
 import Page_5 from './chapter-eight/Page_5';
 import Page_6 from './chapter-eight/Page_6';
 import Page_7 from './chapter-eight/Page_7';
+import Page_8 from './chapter-eight/Page_8';
+import Page_9 from './chapter-eight/Page_9';
+import Page_10 from './chapter-eight/Page_10';
+import Page_11 from './chapter-eight/Page_11';
+import Page_12 from './chapter-eight/Page_12';
 
 import '../../assets/css/epub.css';
 import '../../../node_modules/animate.css';
@@ -41,6 +46,26 @@ const routes = [
 	{
 		path: '/chapter-eight/7',
 		component: Page_7
+	},
+	{
+		path: '/chapter-eight/8',
+		component: Page_8
+	},
+	{
+		path: '/chapter-eight/9',
+		component: Page_9
+	},
+	{
+		path: '/chapter-eight/10',
+		component: Page_10
+	},
+	{
+		path: '/chapter-eight/11',
+		component: Page_11
+	},
+	{
+		path: '/chapter-eight/12',
+		component: Page_12
 	}
 ];
 
@@ -51,7 +76,7 @@ const FeldmanRoutes = routes.map((route, i) => {
 const FeldmanRoute = props => {
 	return (
 		<HashRouter basename={'/feldman'}>
-			<div className="animated fadeIn">
+			<div>
 				<NavControls
 					basePath={props.match}
 					currentPath={props.currentPath}
