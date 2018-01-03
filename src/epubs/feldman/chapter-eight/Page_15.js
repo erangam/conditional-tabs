@@ -12,12 +12,12 @@ const PageFifteen = props => {
 					data-chaucer-element-id="5cb22e4f-f2d5-4eba-8b19-84956a72893b"
 					id="P7001013171000000000000000003F89"
 					data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F89"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="a35ae2c0-8a08-4631-bae3-8a76d9b37ad8">
 						<h1
 							data-chaucer-element-id="dd42f192-1fcc-4c3b-8eb8-410cf8a26673"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013D30"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D30"
 						>
@@ -40,7 +40,7 @@ const PageFifteen = props => {
 						normative-crisis models of personality development.{' '}
 						<a
 							data-chaucer-element-id="cfd60d8f-e9db-470b-973d-401abc19b420"
-							class="keyword"
+							className="keyword"
 							id="P7001013171000000000000000003F90"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F90"
 							href="bm01_pg0001.xhtml#P7001013171000000000000000006813"
@@ -76,21 +76,21 @@ const PageFifteen = props => {
 						children altogether. In sum, social changes have called into
 						question the normative-crisis models closely tied to age (<a
 							data-chaucer-element-id="40fb2135-034a-43dd-8b5e-b7814b7baa65"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005333"
 						>
 							Fugate &amp; Mitchell, 1997
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="48bdb013-1a55-4a59-994c-bcd650f2bb96"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004CA7"
 						>
 							Barnett &amp; Hyde, 2001
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="5c938dc6-9c75-41f8-ba17-7f9dd7246e32"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000052EB"
 						>
 							Fraenkel, 2003
@@ -100,18 +100,18 @@ const PageFifteen = props => {
 						data-chaucer-element-id="ddaf7f4f-7041-435b-a993-fc8e80f5f41e"
 						id="P7001013171000000000000000003F93"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F93"
-						class="sidebar sidebar_4"
+						className="sidebar sidebar_4"
 					>
 						<header data-chaucer-element-id="528415df-eda8-4a64-a23d-6f1ce183db1d">
 							<h1
 								data-chaucer-element-id="225ed148-7e3f-44c4-9246-153a37ea6d6c"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013D35"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D35"
 							>
 								<span
 									data-chaucer-element-id="aa9fe7a5-b8b7-40d8-8e82-61a718215835"
-									class="label"
+									className="label"
 								>
 									From a social worker’s perspective:{' '}
 								</span>
@@ -135,7 +135,7 @@ const PageFifteen = props => {
 						focus on{' '}
 						<a
 							data-chaucer-element-id="e769e54c-5593-48f1-abd7-c747341ed3d2"
-							class="keyword"
+							className="keyword"
 							id="P7001013171000000000000000003F9A"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F9A"
 							href="bm01_pg0001.xhtml#P70010131710000000000000000067A6"
@@ -148,21 +148,21 @@ const PageFifteen = props => {
 						women, despite their very different ages, share certain
 						commonalities of personality development (<a
 							data-chaucer-element-id="dd381c67-2ee8-4969-80a4-a11cb36c17ac"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005E77"
 						>
 							Roberts, Helson, &amp; Klohnen, 2002
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="4bba6d06-733f-4ff0-82ae-6bd1fba63c52"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000596D"
 						>
 							Luhmann et al., 2013
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="8d98e452-8c06-41f5-ae40-949502b17406"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004C0F"
 						>
 							Arnarson et al., 2016
@@ -183,12 +183,12 @@ const PageFifteen = props => {
 						data-chaucer-element-id="98f47639-b017-4a7c-8644-575b80fa718a"
 						id="P7001013171000000000000000003F9C"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F9C"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="9d5de5cb-e2ed-44e4-872d-f9d18aae4b52">
 							<h1
 								data-chaucer-element-id="314791dd-a146-4dcd-84b3-afdbc368d1a9"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013D3C"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D3C"
 							>
@@ -204,7 +204,7 @@ const PageFifteen = props => {
 							midlife as a period of{' '}
 							<a
 								data-chaucer-element-id="10d090a9-95f7-4ff5-9792-5d9996157d5a"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000003F9F"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F9F"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000066F6"
@@ -222,21 +222,21 @@ const PageFifteen = props => {
 							as one looks toward the continuation of one’s own life through
 							others (<a
 								data-chaucer-element-id="746f111e-1600-478b-863c-e75ea2790916"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005D0D"
 							>
 								Penningroth &amp; Scott, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e03de4f7-c8bc-4110-9f61-9e174a8adc7a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005FA5"
 							>
 								Schoklitsch &amp; Baumann, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1a8ee8eb-0761-4d3e-9d2c-f6c844184eae"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006449"
 							>
 								Wink &amp; Staudinger, 2016
@@ -268,12 +268,12 @@ const PageFifteen = props => {
 						data-chaucer-element-id="1ce509be-326a-458d-a795-f23abd4ad2c9"
 						id="P7001013171000000000000000003FA2"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003FA2"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="95b3caaa-e2ce-4815-8d01-2781fc9a7b41">
 							<h1
 								data-chaucer-element-id="898c1628-9ed1-4663-8d71-1528ae842034"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013D40"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D40"
 							>
@@ -288,7 +288,7 @@ const PageFifteen = props => {
 							Developmentalist{' '}
 							<a
 								data-chaucer-element-id="1e8f7e20-0111-48b1-b362-3043484a0c7d"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006311"
 							>
 								George Vaillant (1977)
@@ -311,7 +311,7 @@ const PageFifteen = props => {
 							Psychiatrist{' '}
 							<a
 								data-chaucer-element-id="08ef29c3-1981-455b-b417-915d769b6419"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005435"
 							>
 								Roger Gould (1978)
@@ -322,18 +322,18 @@ const PageFifteen = props => {
 							with specific age periods (see{' '}
 							<a
 								data-chaucer-element-id="a22add94-3e2c-4897-9016-94ec31149ae8"
-								class="xref"
+								className="xref"
 								href="#P7001013171000000000000000003FA6"
 							>
 								<span
 									data-chaucer-element-id="439394e1-7401-4b45-be50-a6cffd05a76b"
-									class="label"
+									className="label"
 								>
 									Table{' '}
 								</span>
 								<span
 									data-chaucer-element-id="fbaf14da-d3cb-41f3-805b-4d35df936a68"
-									class="number"
+									className="number"
 								>
 									8-2
 								</span>
@@ -344,35 +344,35 @@ const PageFifteen = props => {
 						</p>
 						<figure
 							data-chaucer-element-id="46ee1935-9301-430d-96be-2217c22e0090"
-							class="gadget"
+							className="gadget"
 							id="P7001013171000000000000000003FA6"
 						>
 							<header data-chaucer-element-id="9706a14e-75d6-41b5-877a-1f5ca491bac8">
 								<h1
 									data-chaucer-element-id="a0430cdc-a524-4171-9b10-7f6f7f448add"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="716bcdd4-d93b-48f6-be2d-a127d8bec683"
-										class="label"
+										className="label"
 									>
 										Table 8-2
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="28a71084-b6aa-4266-928e-694b79112aff"
-									class="subtitle"
+									className="subtitle"
 								>
 									Summary of Gould's Transformations in Adult Development
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="bd2f35c7-181e-4061-b690-7e4abb337824"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="0db5e1b1-b8ea-4a74-a6a0-19a5e0be08fe"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-tabs_accordions_v2-03/index.html"
 									height="580"
 									width="770"
@@ -389,12 +389,12 @@ const PageFifteen = props => {
 							<figcaption data-chaucer-element-id="3724e350-677e-44fa-9b83-98c04bd350cc">
 								<div
 									data-chaucer-element-id="4891dffc-83ee-419e-b91c-91c5cbf658d7"
-									class="source"
+									className="source"
 								>
 									<p data-chaucer-element-id="50e4ddcc-5c96-48b8-823d-faa914e3efec">
 										<span
 											data-chaucer-element-id="4ffd2099-00a8-44b6-9371-a6c8baf0c967"
-											class="label"
+											className="label"
 											data-chaucer-note-id="269031"
 										>
 											Source:
@@ -410,7 +410,7 @@ const PageFifteen = props => {
 						</figure>
 						<div
 							data-chaucer-element-id="39fd5828-745b-45ff-a023-83754e53f29e"
-							class="longdesc"
+							className="longdesc"
 						>
 							<p data-chaucer-element-id="5cd92c53-29f4-4950-bf59-b7195a9eb34f">
 								Table shows summary of Gould’s transformations in adult
@@ -516,14 +516,14 @@ const PageFifteen = props => {
 							theory. According to{' '}
 							<a
 								data-chaucer-element-id="b3765fbf-3374-4e8f-9108-5559d255d138"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000058D1"
 							>
 								Levinson (1986
 							</a>,{' '}
 							<a
 								data-chaucer-element-id="9244a655-6604-4209-80f4-d91bb4b55cbf"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000058CF"
 							>
 								1992)
@@ -556,7 +556,7 @@ const PageFifteen = props => {
 							In Levinson’s view, this assessment may lead to a{' '}
 							<a
 								data-chaucer-element-id="6a7c2154-c3e2-4330-896c-dddb2d966e34"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000003FCB"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003FCB"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000067DE"
@@ -583,21 +583,21 @@ const PageFifteen = props => {
 							found. In fact, the notion of a universal midlife crisis has come
 							under considerable criticism (<a
 								data-chaucer-element-id="da5c4e50-d07d-4500-82e0-04a01cc070df"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005A75"
 							>
 								McFadden &amp; Rawson Swan, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6bf4820b-5d02-42e5-8b64-6d9e7b8071f8"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000501F"
 							>
 								Cousins, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b164e0d5-2a1a-4c1c-97f7-590279bd4f36"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000623F"
 							>
 								Thorpe et al., 2014
@@ -608,12 +608,12 @@ const PageFifteen = props => {
 						data-chaucer-element-id="dddd5f68-81d0-47f1-99a6-9a723a5d76e8"
 						id="P7001013171000000000000000003FCD"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003FCD"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="184cf711-3e10-4b20-a1f5-0795b9bfbfe8">
 							<h1
 								data-chaucer-element-id="3961a89b-8eff-45fa-a070-7a7b0d1154e4"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013D67"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D67"
 							>
@@ -649,21 +649,21 @@ const PageFifteen = props => {
 							course of their lives may be motivated to change directions, and
 							those who do change end up better off psychologically (<a
 								data-chaucer-element-id="23d11be7-36a6-48a8-9f87-7d304c5e62f1"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000063F5"
 							>
 								Wethington, Cooper, &amp; Holmes, 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="cea4c04a-a6fd-482f-bd4b-e82ccf818fdc"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006157"
 							>
 								Stewart &amp; Vandewater, 1999
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="467acfc9-a202-48d4-966d-c30f7f6e9087"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006439"
 							>
 								Willis, Martin, &amp; Rocke, 2010
@@ -683,32 +683,32 @@ const PageFifteen = props => {
 							felt (see{' '}
 							<a
 								data-chaucer-element-id="cf8ec6e3-5f3a-40ad-b5db-d995faa0536e"
-								class="xref"
+								className="xref"
 								href="#P7001013171000000000000000003FD2"
 							>
 								<span
 									data-chaucer-element-id="de9f87c4-c272-441a-9a3c-9f4d8cc6394b"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="6c406e77-29a9-4b64-9914-a1ff7e6abd68"
-									class="number"
+									className="number"
 								>
 									8-6
 								</span>
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a239f73d-0385-4e95-9c63-4e63f680237f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005AE9"
 							>
 								Miche et al., 2014
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="444369b4-5255-4703-bdfc-724eaf9996b4"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E65"
 							>
 								Rippon &amp; Steptoe, 2015
@@ -717,32 +717,32 @@ const PageFifteen = props => {
 						<figure
 							data-chaucer-element-id="b6f19dcd-e07a-4724-9d18-d3de0286f093"
 							id="P7001013171000000000000000003FD2"
-							class="figure"
+							className="figure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003FD2"
 						>
 							<header data-chaucer-element-id="15ca2706-a53c-4a31-b6b5-06ec3cd298da">
 								<h1
 									data-chaucer-element-id="6c005011-535d-4560-8317-ed9bc6be1f25"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013D6C"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D6C"
 								>
 									<span
 										data-chaucer-element-id="c767e17f-e69b-4174-b13c-3d32bfbd4beb"
-										class="label"
+										className="label"
 									>
 										Figure{' '}
 									</span>
 									<span
 										data-chaucer-element-id="b4aa666e-cc79-4152-8c47-775be4f84bc6"
-										class="number"
+										className="number"
 									>
 										8-6{' '}
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="c03cacef-b021-4139-bef4-500a02ea6426"
-									class="subtitle"
+									className="subtitle"
 									id="P7001013171000000000000000013D6D"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D6D"
 								>
@@ -765,7 +765,7 @@ const PageFifteen = props => {
 							>
 								<div
 									data-chaucer-element-id="38b2ce7f-bf88-4d09-9479-6d83958cbcba"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013D6F"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D6F"
 								>
@@ -786,7 +786,7 @@ const PageFifteen = props => {
 								</div>
 								<div
 									data-chaucer-element-id="8a833137-586d-4b19-bef4-8ecad0955afb"
-									class="source"
+									className="source"
 									id="P7001013171000000000000000013D72"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D72"
 								>
@@ -797,13 +797,13 @@ const PageFifteen = props => {
 									>
 										<span
 											data-chaucer-element-id="f33471e0-5921-43f7-a106-4f6065de95a2"
-											class="label"
+											className="label"
 										>
 											Source:{' '}
 										</span>
 										<a
 											data-chaucer-element-id="c508312e-cb01-419c-86d7-8f6b5d9c0f97"
-											class="biblioref"
+											className="biblioref"
 											href="bm01_pg0002.xhtml#P7001013171000000000000000005E65"
 										>
 											Rippon &amp; Steptoe, 2015
@@ -814,7 +814,7 @@ const PageFifteen = props => {
 						</figure>
 						<div
 							data-chaucer-element-id="bffb9082-7c29-4e7c-812e-abedd4008f01"
-							class="longdesc"
+							className="longdesc"
 						>
 							<p data-chaucer-element-id="bf6f6b8d-8a3e-4f49-a926-7dfd35ce3656">
 								Bar graph shows ratio of people feeling younger and age of
@@ -870,7 +870,7 @@ const PageFifteen = props => {
 						<figure
 							data-chaucer-element-id="070c3221-6103-4210-bcf2-f933aee2fc44"
 							id="P7001013171000000000000000003FDE"
-							class="informalfigure"
+							className="informalfigure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003FDE"
 						>
 							<img
@@ -889,7 +889,7 @@ const PageFifteen = props => {
 							>
 								<div
 									data-chaucer-element-id="8417146c-a0c3-4764-aa38-24636d1ecade"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013D78"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D78"
 								>
@@ -913,26 +913,26 @@ const PageFifteen = props => {
 						<aside
 							data-chaucer-element-id="9d6f57fb-cb20-4421-ad27-33dd34726b29"
 							id="P7001013171000000000000000003FE4"
-							class="sidebar sidebar_1"
+							className="sidebar sidebar_1"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003FE4"
 						>
 							<header data-chaucer-element-id="0fc431a4-40e4-4f77-8c55-3ae9022413cd">
 								<h1
 									data-chaucer-element-id="09b277d3-9d25-4922-aea8-f77f4e0a97cf"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013D7B"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D7B"
 								>
 									<span
 										data-chaucer-element-id="2daf9901-935d-4ad5-b9c5-eb9cb4edb575"
-										class="label"
+										className="label"
 									>
 										Cultural Dimensions{' '}
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="8a1731bf-d050-4765-9fbb-17ab7240b404"
-									class="subtitle"
+									className="subtitle"
 								>
 									Middle Age: In Some Cultures It Doesn’t Exist
 								</p>
@@ -958,14 +958,14 @@ const PageFifteen = props => {
 								responsibility, family management issues, and moral sense at a
 								given time (<a
 									data-chaucer-element-id="bbef07e2-3965-4b80-9008-e0cb8b39b5de"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000006047"
 								>
 									Shweder, 1998
 								</a>,{' '}
 								<a
 									data-chaucer-element-id="a625b8cf-eb4b-4aef-9572-f913f3beb273"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000006049"
 								>
 									2003

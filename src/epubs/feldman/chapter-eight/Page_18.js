@@ -11,12 +11,12 @@ const PageEighteen = props => {
 					data-chaucer-element-id="c6bff034-bc92-48cb-821f-75e9c36586d1"
 					id="P7001013171000000000000000004029"
 					data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004029"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="9859a14b-9ab7-415b-972c-9616e6f8075a">
 						<h1
 							data-chaucer-element-id="d1155c19-43f3-439f-9684-d02d529aee8f"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013DB5"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DB5"
 						>
@@ -58,12 +58,12 @@ const PageEighteen = props => {
 						data-chaucer-element-id="9c729f82-276a-4cc7-9d79-2bcd1e86aac6"
 						id="P7001013171000000000000000004031"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004031"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="e28b7a9b-168b-4cd2-be10-05ffbf11763d">
 							<h1
 								data-chaucer-element-id="0e27dc89-339e-49ff-9b43-c87f0e5753d1"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013DB9"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DB9"
 							>
@@ -81,25 +81,25 @@ const PageEighteen = props => {
 							follows the U-shaped configuration shown in{' '}
 							<a
 								data-chaucer-element-id="2d54d1df-9be3-4223-b9b6-4af83ec43420"
-								class="xref"
+								className="xref"
 								href="#P7001013171000000000000000004034"
 							>
 								<span
 									data-chaucer-element-id="6a8cc481-a672-4cf7-aacd-d55656bd1c31"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="fb2004b9-42fd-4cc5-8eeb-a3214c878a5f"
-									class="number"
+									className="number"
 								>
 									8-8
 								</span>
 							</a>{' '}
 							(<a
 								data-chaucer-element-id="0b7343d7-7152-4e29-8cf2-1c3e61564bdf"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005293"
 							>
 								Figley, 1973
@@ -109,21 +109,21 @@ const PageEighteen = props => {
 							satisfaction begins to grow, eventually returning to the same
 							level as before the marriage (<a
 								data-chaucer-element-id="9dede39d-18c9-4f6e-82f3-effb9ce81fce"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005421"
 							>
 								Gorchoff, John, &amp; Helson, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="c14afd28-46d8-4127-a08f-f583cc87689e"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005AAB"
 							>
 								Medina, Lederhos, &amp; Lillis, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ce05e1a4-f942-4532-b08c-2643e263f8b1"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006185"
 							>
 								Stroope, McFarland, &amp; Uecker, 2015
@@ -132,32 +132,32 @@ const PageEighteen = props => {
 						<figure
 							data-chaucer-element-id="196cb580-dd38-4b3f-b74e-ed872830d298"
 							id="P7001013171000000000000000004034"
-							class="figure"
+							className="figure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004034"
 						>
 							<header data-chaucer-element-id="37734050-4fe2-4e2c-9370-efc08ac8f20a">
 								<h1
 									data-chaucer-element-id="78823759-1577-4eb8-a3f6-d4853720ff51"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013DBC"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DBC"
 								>
 									<span
 										data-chaucer-element-id="6b1e4603-0419-496a-afdb-6e0f1188271a"
-										class="label"
+										className="label"
 									>
 										Figure{' '}
 									</span>
 									<span
 										data-chaucer-element-id="777aafcc-ac3f-4c61-94e5-1a04514928b1"
-										class="number"
+										className="number"
 									>
 										8-8{' '}
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="7ea9f155-be0e-4f4e-9013-4f269452f9e7"
-									class="subtitle"
+									className="subtitle"
 									id="P7001013171000000000000000013DBD"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DBD"
 								>
@@ -180,7 +180,7 @@ const PageEighteen = props => {
 							>
 								<div
 									data-chaucer-element-id="b79a7895-fe87-4f7d-b464-71d13bc5f16f"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013DBF"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DBF"
 								>
@@ -204,7 +204,7 @@ const PageEighteen = props => {
 								</div>
 								<div
 									data-chaucer-element-id="d8e2cde0-7c7f-47ed-96b8-59f10a03f38e"
-									class="source"
+									className="source"
 									id="P7001013171000000000000000013DC2"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DC2"
 								>
@@ -215,13 +215,13 @@ const PageEighteen = props => {
 									>
 										<span
 											data-chaucer-element-id="d032281d-ec29-4ab0-bf83-f468b5b0233d"
-											class="label"
+											className="label"
 										>
 											Source:{' '}
 										</span>Based on{' '}
 										<a
 											data-chaucer-element-id="543cf914-35b8-4d62-b9c9-466e8d21d867"
-											class="biblioref"
+											className="biblioref"
 											href="bm01_pg0002.xhtml#P7001013171000000000000000005EA9"
 										>
 											Rollins &amp; Cannon, 1974
@@ -232,7 +232,7 @@ const PageEighteen = props => {
 						</figure>
 						<div
 							data-chaucer-element-id="08fdd4cf-2276-4f60-9944-25ad5232087e"
-							class="longdesc"
+							className="longdesc"
 						>
 							<p data-chaucer-element-id="c6db438c-1c5b-402e-b993-ad7944bae2b7">
 								Horizontal axis marked 8 different stages marked as
@@ -256,14 +256,14 @@ const PageEighteen = props => {
 							into question. This research suggests that marital satisfaction
 							actually continues to decline across the life span (<a
 								data-chaucer-element-id="466ffd94-340e-4d0a-8af1-4675c44d2f62"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000062BD"
 							>
 								Umberson et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b91aec93-15b9-4b0b-b099-be2c876188f4"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005923"
 							>
 								Liu, Elliott, &amp; Umberson, 2010
@@ -284,14 +284,14 @@ const PageEighteen = props => {
 							their aims and goals. Finally, most also feel that their spouses
 							have grown more interesting over the course of the marriage (<a
 								data-chaucer-element-id="f40f1fcf-a535-4c75-8b48-a114e6765a9f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005F9D"
 							>
 								Schmitt, Kliegel, &amp; Shapiro, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="164f6b21-9e31-44ee-b4f2-d658c6f9a39a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000583F"
 							>
 								Landis et al., 2013
@@ -310,21 +310,21 @@ const PageEighteen = props => {
 							</i>{' '}
 							about their sex lives (<a
 								data-chaucer-element-id="7c56bf3d-f9d3-446a-b018-a601122cd826"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060FF"
 							>
 								Spence 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8ab6ec29-7431-477c-82aa-f0825b555373"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000591F"
 							>
 								Litzinger &amp; Gordon, 2005
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="82fa4b75-e139-4810-a8d5-650a0e7af855"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004E81"
 							>
 								Butzer &amp; Campbell, 2008
@@ -339,21 +339,21 @@ const PageEighteen = props => {
 							there are proven coping mechanisms that allow couples to remain
 							together happily. Among them (<a
 								data-chaucer-element-id="5e82a92c-868e-4594-816f-f0dbc58c97ee"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005C7B"
 							>
 								Orbuch, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="931c582b-062a-4226-bf67-b4bc29e71938"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004D2D"
 							>
 								Bernstein, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6dbea688-110f-4008-a1d1-8e4e37c35e35"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006433"
 							>
 								Williams, 2016
@@ -376,7 +376,7 @@ const PageEighteen = props => {
 								>
 									<span
 										data-chaucer-element-id="ea589a70-9888-46a6-bd33-143562667174"
-										class="strong"
+										className="strong"
 									>
 										Holding realistic expectations.{' '}
 									</span>Successful couples understand that there are some
@@ -397,7 +397,7 @@ const PageEighteen = props => {
 								>
 									<span
 										data-chaucer-element-id="998e727d-0663-462f-8855-8e79784162ad"
-										class="strong"
+										className="strong"
 									>
 										Focusing on the positive.{' '}
 									</span>Thinking about the things that they like about their
@@ -416,7 +416,7 @@ const PageEighteen = props => {
 								>
 									<span
 										data-chaucer-element-id="9b575f82-58b1-4a60-9a12-44b34e791dac"
-										class="strong"
+										className="strong"
 									>
 										Compromising.{' '}
 									</span>Partners in successful marriages understand that they
@@ -436,7 +436,7 @@ const PageEighteen = props => {
 								>
 									<span
 										data-chaucer-element-id="285e5e5b-0cf4-4a68-acf6-7bb40528a65b"
-										class="strong"
+										className="strong"
 									>
 										Avoiding suffering in silence.{' '}
 									</span>If something does bother them, they let their partner
@@ -451,12 +451,12 @@ const PageEighteen = props => {
 						data-chaucer-element-id="b02ac061-ccfd-45f7-ba2b-e4bad3b1df09"
 						id="P700101317100000000000000000404B"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000404B"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="6b816383-1637-4491-9d34-504c1724b6ce">
 							<h1
 								data-chaucer-element-id="50095167-2564-499f-92e2-fcdc6d3595a2"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013DD0"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DD0"
 							>
@@ -466,7 +466,7 @@ const PageEighteen = props => {
 						<aside
 							data-chaucer-element-id="e6d98979-7348-4c66-97fc-3bb7a91ca277"
 							id="P700101317100000000000000000404D"
-							class="vignette"
+							className="vignette"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000404D"
 						>
 							<p
@@ -501,38 +501,38 @@ const PageEighteen = props => {
 							(see{' '}
 							<a
 								data-chaucer-element-id="41a765ac-ffa2-4809-b717-618964a803e0"
-								class="xref"
+								className="xref"
 								href="#P7001013171000000000000000004050"
 							>
 								<span
 									data-chaucer-element-id="13d67e29-8392-4983-9fcf-3a7f9a8d5a49"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="ff11e011-6f68-4a2c-9998-23d14bb8ac7f"
-									class="number"
+									className="number"
 								>
 									8-9
 								</span>
 							</a>) (<a
 								data-chaucer-element-id="f1c087df-4458-4c69-8b5f-aebbe051b45f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005215"
 							>
 								Enright, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8060b963-d9e5-4553-a443-55e5212b6c1a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004E33"
 							>
 								Brown &amp; Lin, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="aa07b21c-9d7a-43e1-9770-c8b49fc1c83a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000622D"
 							>
 								Thomas, 2012
@@ -540,35 +540,35 @@ const PageEighteen = props => {
 						</p>
 						<figure
 							data-chaucer-element-id="4235a793-c945-4905-96e2-4761c8bd1b4c"
-							class="gadget"
+							className="gadget"
 							id="P7001013171000000000000000004050"
 						>
 							<header data-chaucer-element-id="b8a8c407-ca68-4fc5-8670-3d1a2ebd4bb4">
 								<h1
 									data-chaucer-element-id="fec32f9e-4a86-47bb-a8fa-007bdc0485f7"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="aa84d90b-f8eb-4cb6-b3dd-be0ce94caf72"
-										class="label"
+										className="label"
 									>
 										Figure 8-9
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="3ccd1bc2-011b-4471-9a99-c4295f36d806"
-									class="subtitle"
+									className="subtitle"
 								>
 									Rising Divorces in Middle Adulthood
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="27f3d796-659b-4f6c-88da-9ffa1f486a86"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="6200241d-d6fa-4a96-bfbc-2015eeda5690"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-image_overlay-05/index.html"
 									height="580"
 									width="770"
@@ -586,7 +586,7 @@ const PageEighteen = props => {
 							<figcaption data-chaucer-element-id="a2cd0ed2-f145-477f-86ab-abd75b4f7db5">
 								<div
 									data-chaucer-element-id="eec1e8f9-deda-4a83-807a-6a2fc480f279"
-									class="caption"
+									className="caption"
 								>
 									<p data-chaucer-element-id="d6cde0ae-d660-4e2f-b25d-4de76e382f9e">
 										Both the divorce rate and the number of people that
@@ -597,7 +597,7 @@ const PageEighteen = props => {
 								</div>
 								<div
 									data-chaucer-element-id="f31671a6-5d2c-4e1b-a7fe-0f8a5ded8a1d"
-									class="source"
+									className="source"
 								>
 									<p
 										data-chaucer-element-id="3d685b28-9cd7-4c9d-bc3d-6e1ebfd4b0d9"
@@ -605,7 +605,7 @@ const PageEighteen = props => {
 									>
 										<span
 											data-chaucer-element-id="5d99c7bc-11fa-42e5-8ce9-7636bdf42525"
-											class="label"
+											className="label"
 										>
 											Source:
 										</span>{' '}
@@ -631,21 +631,21 @@ const PageEighteen = props => {
 							opportunities for women grow, wives may feel less dependent on
 							their husbands, both emotionally and economically (<a
 								data-chaucer-element-id="1eaa0289-473a-4e06-86da-011be5f3bde8"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005297"
 							>
 								Fincham, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a22bcf6b-3e51-4a01-aedb-3fbd20af44d5"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004E33"
 							>
 								Brown &amp; Lin, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8a2e4b3b-6b55-4941-a2db-8f35427e84be"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004EAF"
 							>
 								Canham et al., 2014
@@ -668,14 +668,14 @@ const PageEighteen = props => {
 							is now directed toward work and other institutions outside the
 							home (<a
 								data-chaucer-element-id="46f6229e-9195-47ec-85cb-d22fd09bfac1"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000059A7"
 							>
 								Macionis, 2001
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5c72f89c-eb44-4257-a9e5-afde24382adf"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000628B"
 							>
 								Tsapelas, Aron, &amp; Orbuch, 2009
@@ -697,14 +697,14 @@ const PageEighteen = props => {
 							given year, about 12 percent of men and 7 percent of women say
 							they have had sex outside their marriage (<a
 								data-chaucer-element-id="f97b2354-4875-4acb-a8ce-47945ba37969"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004C37"
 							>
 								Atkins &amp; Furrow, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="f8682385-7640-4c9e-924d-580e23003b41"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006135"
 							>
 								Steiner et al., 2015
@@ -724,21 +724,21 @@ const PageEighteen = props => {
 							divorced women, lacking recognized job skills, may remain
 							virtually unemployable (<a
 								data-chaucer-element-id="c96726eb-2e0a-4abb-b9d0-eb750c75fc05"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005A65"
 							>
 								McDaniel &amp; Coleman, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e9c99e7f-ab1a-44f8-9a9a-48cde2ff50dd"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006431"
 							>
 								Williams &amp; Dunne-Bryant, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="bfca1966-2b81-45da-8083-bb5fa59c2477"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000558B"
 							>
 								Hilton &amp; Anderson, 2009
@@ -755,7 +755,7 @@ const PageEighteen = props => {
 							divorce in midlife are also likely to form new relationships, and
 							they typically remarry (<a
 								data-chaucer-element-id="e5753140-dea5-433f-8549-fae38819f181"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005215"
 							>
 								Enright, 2004
@@ -766,12 +766,12 @@ const PageEighteen = props => {
 						data-chaucer-element-id="c76d86b8-b401-49d0-aa63-0dcd21c34ca8"
 						id="P7001013171000000000000000004061"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004061"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="4bff5607-4374-4c91-becc-3e9cc644d513">
 							<h1
 								data-chaucer-element-id="63b2c78b-6b01-4d37-84e7-ae7748270e93"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013DE3"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DE3"
 							>
@@ -791,7 +791,7 @@ const PageEighteen = props => {
 							to be the ones in the available pool, but also because those who
 							have gone through divorce share similar experiences (<a
 								data-chaucer-element-id="357f7b92-bddd-4f1b-8fcd-5d149a12f806"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005D3F"
 							>
 								Pew Research Center, 2014a
@@ -808,14 +808,14 @@ const PageEighteen = props => {
 							women younger than age 25 remarry after divorce, less than
 							one-third of women older than age 40 remarry (<a
 								data-chaucer-element-id="0fc2e55f-8fda-4d2c-bb3c-79b756cb2794"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004E57"
 							>
 								Bumpass, Sweet, &amp; Martin, 1990
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a1519bdc-be8d-437a-94ea-3fde35738175"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004D3D"
 							>
 								Besharov &amp; West, 2002
@@ -839,21 +839,21 @@ const PageEighteen = props => {
 							attractiveness. Older women may be perceived as unattractive,
 							whereas older men may be seen as “distinguished” and “mature” (<a
 								data-chaucer-element-id="95e4fe2d-506e-48bd-94f1-dacaf39b43e3"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004D27"
 							>
 								Bernard, 1982
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="42432a97-56ff-442d-b9dd-5efb3c16dc08"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004E75"
 							>
 								Buss, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7f4d9463-2b1e-492e-889b-0f63ee582713"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000517F"
 							>
 								Doyle, 2004
@@ -871,7 +871,7 @@ const PageEighteen = props => {
 							addition, divorced people overall report less satisfaction with
 							life than married people (<a
 								data-chaucer-element-id="d308947a-c0e4-4445-8ee7-0f8f5730d21f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000595F"
 							>
 								Lucas, 2005
@@ -888,14 +888,14 @@ const PageEighteen = props => {
 							provides clear economic benefits, such as sharing the cost of a
 							house and medical benefits reserved for spouses (<a
 								data-chaucer-element-id="4dd058e2-1dff-4ac1-b3fa-1641573b0d29"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005EC1"
 							>
 								Ross, Microwsky, &amp; Goldsteen, 1991
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="adb99744-1131-4ec5-853b-120dd0916e00"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006155"
 							>
 								Stewart et al., 1997
@@ -913,7 +913,7 @@ const PageEighteen = props => {
 							about roles and duties; they share household chores and decision
 							making more equitably (<a
 								data-chaucer-element-id="d8bd654b-92d2-4ee6-84bc-2941190b25bc"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005B09"
 							>
 								Mirecki et al., 2013
@@ -934,21 +934,21 @@ const PageEighteen = props => {
 							may have personality and emotional characteristics that don’t make
 							them easy to live with (<a
 								data-chaucer-element-id="7dc7249f-86fe-474b-9e3a-37146ca89011"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004F47"
 							>
 								Cherlin, 1993
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d5e19001-f474-42f9-b867-2558b567143f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000063AF"
 							>
 								Warshak, 2000
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1a15f3ac-29f0-468d-b240-026f6f5d8d45"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004FBB"
 							>
 								Coleman, Ganong, &amp; Weaver, 2001
@@ -957,7 +957,7 @@ const PageEighteen = props => {
 						<figure
 							data-chaucer-element-id="2579952f-0598-47fe-ae85-ec583dc8a22b"
 							id="P700101317100000000000000000406A"
-							class="informalfigure"
+							className="informalfigure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000406A"
 						>
 							<img
@@ -976,7 +976,7 @@ const PageEighteen = props => {
 							>
 								<div
 									data-chaucer-element-id="78ead616-9f4e-4151-b3b0-b71bef51764c"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013DED"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DED"
 								>
@@ -1006,21 +1006,21 @@ const PageEighteen = props => {
 							a degree of satisfaction as those who are in successful first
 							marriages (<a
 								data-chaucer-element-id="829ae338-b17f-4d62-aef8-d31874efefbb"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004D57"
 							>
 								Bird &amp; Melville, 1994
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="512bbcc7-1b5f-4f8e-b2ca-383989ce169b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005AE7"
 							>
 								Michaels, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1a41802c-e1c9-498b-b7c5-91bfee8d2273"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004C47"
 							>
 								Ayalon &amp; Koren, 2015

@@ -21,6 +21,7 @@
 }
 
 .revel .ls_audio {
+	height: 40px;
 	align-items: flex-start !important;
 }
 
@@ -49,8 +50,39 @@
 	background: none;
 }
 
+.revel figure {
+	margin-bottom: 2em;
+}
 .longdesc {
 	display: none;
+}
+
+.player-container {
+	height: 40px;
+}
+
+.revel button svg {
+	margin-left: 0.5em !important;
+}
+figure.gadget {
+	margin: auto 0;
+	border: 1px solid #ccc;
+}
+
+figure.gadget h1 {
+	margin: auto 1em !important;
+}
+.revel figure header {
+	border-top: 0;
+	border-bottom: 1px solid #ccc;
+}
+
+iframe {
+	border: 0;
+	margin-bottom: 1em;
+}
+.lc_iframeinner iframe {
+	max-width: 766px !important;
 }
 @media (max-width: 640px) {
 	.bodymatter {

@@ -9,12 +9,12 @@ const PageTwelve = props => {
 				<section
 					data-chaucer-element-id="6d10fee9-3f21-439e-82c5-f4e916af0d9e"
 					id="P7001013171000000000000000003EF9"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="16c76958-6a14-493a-8aa1-988bb22d0789">
 						<h1
 							data-chaucer-element-id="9595c441-8d93-444c-9d63-257234721761"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013CC4"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013CC4"
 							data-chaucer-note-id="336636"
@@ -26,19 +26,19 @@ const PageTwelve = props => {
 					<section
 						data-chaucer-element-id="8d85cc95-7572-4794-96f6-63456d3c51d0"
 						id="P7001013171000000000000000003EFB"
-						class="objectiveset"
+						className="objectiveset"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003EFB"
 					>
 						<ol
 							data-chaucer-element-id="a2ea08d4-4ae1-4e69-b586-61b8d82a992b"
 							id="P7001013171000000000000000003EFC"
-							class="objectivelist dynamiclist"
+							className="objectivelist dynamiclist"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003EFC"
 						>
 							<li
 								data-chaucer-element-id="dfb501fa-db7a-4e1f-a909-c8e73db1396d"
 								id="P7001013171000000000000000003EFD"
-								class="objective"
+								className="objective"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003EFD"
 							>
 								<p
@@ -48,17 +48,17 @@ const PageTwelve = props => {
 								>
 									<span
 										data-chaucer-element-id="8aff82ed-fcee-4a9e-995d-a28ecdd11618"
-										class="lc_labelnum"
+										className="lc_labelnum"
 									>
 										<span
 											data-chaucer-element-id="aac45f10-253f-4caa-a21f-d64d260a0767"
-											class="label"
+											className="label"
 										>
 											LO{' '}
 										</span>
 										<span
 											data-chaucer-element-id="776fbde4-1dfe-4c42-aa4c-1900e0580d4b"
-											class="number"
+											className="number"
 										>
 											8.5{' '}
 										</span>
@@ -86,21 +86,21 @@ const PageTwelve = props => {
 						their lives. It is the meaning they give to their forgetfulness that
 						changes, rather than their actual ability to remember (<a
 							data-chaucer-element-id="154ea980-a84d-4c58-bc4d-f50194307f6d"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004F31"
 						>
 							Chasteen et al., 2005
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="56bd2c18-97b0-4689-97a6-8dfe69135061"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000559B"
 						>
 							Hoessler &amp; Chasteen, 2008
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="2aed65f0-a3a2-4c4f-9321-b9a04ad70d56"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005573"
 						>
 							Hess, Hinson, &amp; Hodges, 2009
@@ -110,12 +110,12 @@ const PageTwelve = props => {
 						data-chaucer-element-id="fbdd8e6f-4bdd-42db-a119-9852074e787f"
 						id="P7001013171000000000000000003F00"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F00"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="de4278dd-d315-4aed-8ee6-0e3fe16b27fc">
 							<h1
 								data-chaucer-element-id="967326aa-c9a8-4936-ade5-c5a90c46d89b"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013CC7"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013CC7"
 							>
@@ -161,14 +161,14 @@ const PageTwelve = props => {
 							stored in long-term memory, it may become more difficult to locate
 							or isolate it (<a
 								data-chaucer-element-id="4e631832-4a6c-4ba1-a53e-9aff9dd6c720"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005F1D"
 							>
 								Salthouse, 2006
 							</a>,{' '}
 							<a
 								data-chaucer-element-id="fc249459-e2f9-4304-9a0f-f58e32f7df27"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005F21"
 							>
 								2010
@@ -204,12 +204,12 @@ const PageTwelve = props => {
 						data-chaucer-element-id="1c94958f-4502-49ec-935d-3cf038ef95f4"
 						id="P7001013171000000000000000003F06"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F06"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="0c1b85dd-c069-4d17-8c15-d89afc694cf8">
 							<h1
 								data-chaucer-element-id="3c634b0b-155f-42c3-ab70-0721f1a582c5"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013CCC"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013CCC"
 							>
@@ -224,7 +224,7 @@ const PageTwelve = props => {
 							To recall information, people often use{' '}
 							<a
 								data-chaucer-element-id="d18db8ef-343f-478f-8e0e-bd5beb44b8aa"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000003F09"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F09"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000068E4"
@@ -240,7 +240,7 @@ const PageTwelve = props => {
 							server, what sorts of food to eat first, and that we should leave
 							a tip (<a
 								data-chaucer-element-id="faa097a1-525f-4275-9cd5-947b13ae1796"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000552F"
 							>
 								Hebscher &amp; Gilboa, 2016
@@ -268,7 +268,7 @@ const PageTwelve = props => {
 							Schemas also convey cultural information. Psychologists Susan
 							Fiske and Shelley Taylor (<a
 								data-chaucer-element-id="ad1472f9-65ca-44b6-8885-b84339ffba90"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000052B5"
 							>
 								1991
@@ -302,7 +302,7 @@ const PageTwelve = props => {
 							doesn’t recall putting them on the counter. It’s not the “usual
 							place” (<a
 								data-chaucer-element-id="cef8b4fe-22a0-4827-9e7b-227e2aa43cb2"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000628D"
 							>
 								Tse &amp; Altarriba, 2007
@@ -314,17 +314,17 @@ const PageTwelve = props => {
 
 						<figure
 							data-chaucer-element-id="744db60a-39a3-49dd-93ce-008ab7798273"
-							class="gadget"
+							className="gadget"
 							id="P7001013171000000000000000003F10"
 						>
 							<header data-chaucer-element-id="1823fc9f-99f8-489f-9005-42d735f664fa">
 								<h1
 									data-chaucer-element-id="ca9528f6-405f-4d32-9ac2-8555ca63e05a"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="c1682133-31a6-4312-b921-63f2b2fed7ec"
-										class="label"
+										className="label"
 										data-chaucer-note-id="269165 269170"
 									>
 										Becoming an Informed Consumer of Development
@@ -332,18 +332,18 @@ const PageTwelve = props => {
 								</h1>
 								<p
 									data-chaucer-element-id="3ca77363-3df0-4843-8891-0e42044356eb"
-									class="subtitle"
+									className="subtitle"
 								>
 									Effective Strategies for Remembering
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="6dd6dc32-968a-433c-b2ff-b9b5762b23cb"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="eb48bc6b-1431-4cb2-8de8-6302d2c36884"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-adaptive_scenarios-01/index.html"
 									height="620"
 									width="770"
@@ -361,40 +361,40 @@ const PageTwelve = props => {
 
 						<figure
 							data-chaucer-element-id="05ca1d3d-b12f-4f25-8388-1f4d30edd76e"
-							class="video"
+							className="video"
 						>
 							<header data-chaucer-element-id="0b089a97-a41f-438d-bbb2-65a01df93302">
 								<h1
 									data-chaucer-element-id="f2833164-2881-4792-b283-795416c1eb60"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="33385bb5-6923-472b-b244-386f6e6fecca"
-										class="label"
+										className="label"
 									>
 										Watch
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="4c06a3f8-ac99-44a7-a3be-0c64576057bb"
-									class="subtitle"
+									className="subtitle"
 								>
 									Making It Stick
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="82ee3145-f1db-4967-8413-4c9f9de20bb3"
-								class="lc_ec_videoinner"
+								className="lc_ec_videoinner"
 							>
 								<iframe
 									title="video"
 									data-chaucer-element-id="a27e1809-9198-4e26-842b-06587514eaa0"
 									id="player1"
 									name="player1"
-									class="__embedpearsonvideoplayer__"
+									className="__embedpearsonvideoplayer__"
 									src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_011_E08_S06_ALT"
 									scrolling="no"
-									allowfullscreen="yes"
+									allowFullScreen="yes"
 									width="640"
 									height="480"
 									seamless="seamless"
@@ -406,35 +406,35 @@ const PageTwelve = props => {
 				<section
 					data-chaucer-element-id="cdb39034-3b21-41f1-9924-5f682f67fd3b"
 					id="P7001013171000000000000000003F28"
-					class="level1"
+					className="level1"
 				>
 					<figure
 						data-chaucer-element-id="2f566705-901a-4b5c-9566-1c4f8fe04bf4"
-						class="gadget"
+						className="gadget"
 					>
 						<header data-chaucer-element-id="8ae98c0f-2861-4473-9f91-65ee6895188d">
 							<h1
 								data-chaucer-element-id="b8a6a391-d4e1-4540-9fdd-e5ed018df9ff"
-								class="title"
+								className="title"
 							>
 								<span
 									data-chaucer-element-id="ed7c0471-1625-412b-b1e4-82532dd5a15b"
-									class="label"
+									className="label"
 								>
 									Module 8.2 Review
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="b9aac588-76f2-43c4-b99d-98d1522877af"
-								class="subtitle"
+								className="subtitle"
 							/>
 						</header>
 						<div
 							data-chaucer-element-id="fdca23e0-1ffa-435c-8cfa-dd883e7806ee"
-							class="lc_iframeinner"
+							className="lc_iframeinner"
 						>
 							<iframe
-								class="gadget"
+								className="gadget"
 								src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-tabs_accordion_v1.0.1-02/index.html"
 								height="580"
 								width="770"
@@ -453,7 +453,7 @@ const PageTwelve = props => {
 				<section
 					data-chaucer-element-id="01aa4585-3019-4355-831c-81fb50921dbd"
 					id="P7001013171000000000000000003F37"
-					class="level2"
+					className="level2"
 				>
 					<script
 						type="text/javascript"
@@ -461,11 +461,11 @@ const PageTwelve = props => {
 					/>
 					<section
 						data-is-assessment="true"
-						class="lc_embedded_quiz practice level2 card"
+						className="lc_embedded_quiz practice level2 card"
 					>
 						<div
 							id="journal1-cntr"
-							class="brix"
+							className="brix"
 							data-brix-chapter-for-fallback="8: Middle Adulthood"
 							data-brix-assignment-for-fallback="Journal 8.2: Applying the Lifespan Development"
 							data-assignmenturl="http://repo.paf.pearsoncmg.com/paf-repo/resources/activities/ea561369-54f5-45fa-99c2-b128c931141c"
@@ -477,7 +477,7 @@ const PageTwelve = props => {
 					</section>
 
 					<div
-						class="knowledge-check"
+						className="knowledge-check"
 						data-alignment-id=""
 						id="urn:pearson:educationalgoal:5b9448a2-bacc-4b8e-bb3a-f02cab1d3130"
 					/>

@@ -9,12 +9,12 @@ const PageTwentyThree = props => {
 				<section
 					data-chaucer-element-id="1903b847-f604-4d37-86c7-8d13a0424dec"
 					id="P700101317100000000000000000415B"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="7ef880c8-de83-40b9-af8d-d9dca2545caa">
 						<h1
 							data-chaucer-element-id="e7d3a24b-fc16-4c76-82f2-5a277b437abb"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013EAE"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013EAE"
 							data-chaucer-note-id="336641"
@@ -34,7 +34,7 @@ const PageTwentyThree = props => {
 						becoming shorter for most people—most middle-aged adults have some
 						70 waking hours per week of leisure time (<a
 							data-chaucer-element-id="b338054a-87a3-402d-9359-029de2e796bf"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000056D3"
 						>
 							Kacapyr, 1997
@@ -54,14 +54,14 @@ const PageTwentyThree = props => {
 						Middle-aged adults in the United States spend about 6 hours each
 						week socializing (<a
 							data-chaucer-element-id="041de732-53ac-4135-88f5-aaccdb24c07b"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005E87"
 						>
 							Robinson &amp; Godbey, 1997
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="48b3f273-d4dd-42b8-a5e7-b456b0a97ed5"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000590F"
 						>
 							Lindstrom et al., 2005
@@ -78,14 +78,14 @@ const PageTwentyThree = props => {
 						be quite gratifying. Early retirees tend to be in good health, and
 						they may take up a variety of new activities (<a
 							data-chaucer-element-id="c7127cf0-a5be-4984-bf94-dd094b2e9c75"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004F91"
 						>
 							Cliff, 1991
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="fc8ae58f-b0ff-4905-8d71-ce5c124c26b2"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000056BD"
 						>
 							Jopp &amp; Hertzog, 2010
@@ -104,7 +104,7 @@ const PageTwentyThree = props => {
 						since 1965, many people feel they have no more free time than they
 						did previously (<a
 							data-chaucer-element-id="801aad42-ec62-4ff0-a2a5-a1319408f72a"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005E87"
 						>
 							Robinson &amp; Godbey, 1997
@@ -127,14 +127,14 @@ const PageTwentyThree = props => {
 						Western European countries and Japan move more quickly than the
 						United States, with Switzerland ranking first (<a
 							data-chaucer-element-id="ce50b76f-d6dc-4703-84e1-372c21e4492e"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000058C9"
 						>
 							Levine, 1997a
 						</a>,{' '}
 						<a
 							data-chaucer-element-id="5e001209-44f0-4e08-a22d-d443624ca07a"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000058CB"
 						>
 							1997b

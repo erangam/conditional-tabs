@@ -1,7 +1,9 @@
 import React from 'react';
+import { linkPath } from '../pathVariables';
 import AudioControl from '../AudioControl';
 
 const PageOne = props => {
+	console.log(props);
 	return (
 		<div className="animated fadeIn">
 			<section className="bodymatter">
@@ -227,7 +229,7 @@ const PageOne = props => {
 											<a
 												data-chaucer-element-id="cc19d943-3990-473f-829a-eb3ad024ad1f"
 												className="xref"
-												href="ch08_pg0002.xhtml#P7001013171000000000000000003CEE"
+												href={linkPath + '2#P7001013171000000000000000003CEE'}
 											>
 												<span
 													data-chaucer-element-id="7c92fd04-f40d-4ef6-ab20-35956c173736"
@@ -302,7 +304,7 @@ const PageOne = props => {
 											<a
 												data-chaucer-element-id="d5bd0592-913e-42df-92d6-5d46a3f1e8b0"
 												className="xref"
-												href="ch08_pg0009.xhtml#P7001013171000000000000000003EA2"
+												href={linkPath + '9#P7001013171000000000000000003EA2'}
 											>
 												<span
 													data-chaucer-element-id="da39c646-4d7a-47bd-83b5-baa4c5265726"
@@ -377,7 +379,7 @@ const PageOne = props => {
 											<a
 												data-chaucer-element-id="8bbc1ccc-98c0-4f9c-b661-b4c1a2274654"
 												className="xref"
-												href="ch08_pg0013.xhtml#P7001013171000000000000000003F77"
+												href={linkPath + '13#P7001013171000000000000000003F77'}
 											>
 												<span
 													data-chaucer-element-id="d626a104-f7bb-4794-9717-2ade89345e4c"

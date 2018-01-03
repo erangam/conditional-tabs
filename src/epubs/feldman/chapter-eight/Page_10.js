@@ -9,12 +9,12 @@ const PageTen = props => {
 				<section
 					data-chaucer-element-id="438698f8-5e5f-4e75-a300-ebb6abab110e"
 					id="P7001013171000000000000000003EAB"
-					class="level1"
+					className="level1"
 				>
 					<header data-chaucer-element-id="0e781bd9-ce2a-419d-afe8-f3e41d450553">
 						<h1
 							data-chaucer-element-id="04564a6e-7493-4763-8cf2-62861c302b3e"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013C88"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013C88"
 						>
@@ -22,13 +22,13 @@ const PageTen = props => {
 						</h1>
 					</header>
 
-					<section class="objectiveset">
-						<ol class="objectivelist dynamiclist">
-							<li class="objective">
+					<section className="objectiveset">
+						<ol className="objectivelist dynamiclist">
+							<li className="objective">
 								<p>
-									<span class="lc_labelnum">
-										<span class="label">LO</span>{' '}
-										<span class="number">8.4</span>
+									<span className="lc_labelnum">
+										<span className="label">LO</span>{' '}
+										<span className="number">8.4</span>
 									</span>{' '}
 									Analyze cognitive development in middle adulthood.
 								</p>
@@ -40,7 +40,7 @@ const PageTen = props => {
 					<aside
 						data-chaucer-element-id="6019fd14-5d9f-448f-ae3b-aeeff07e6a23"
 						id="P7001013171000000000000000003EAD"
-						class="vignette"
+						className="vignette"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003EAD"
 					>
 						<p

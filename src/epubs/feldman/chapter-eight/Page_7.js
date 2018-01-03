@@ -11,12 +11,12 @@ const PageSeven = props => {
 					data-chaucer-element-id="d9606496-b38e-4c96-b021-464515fcd13b"
 					id="P7001013171000000000000000003D8C"
 					data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D8C"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="50563027-e5a4-4f6f-bb5b-a28537c2ee39">
 						<h1
 							data-chaucer-element-id="d21ce9f0-661a-45c8-ad75-4dd1d039e0c0"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013B9D"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B9D"
 						>
@@ -36,18 +36,18 @@ const PageSeven = props => {
 						say they are either “afraid” or “very afraid” of having cancer (see{' '}
 						<a
 							data-chaucer-element-id="d6356720-ffa7-4bdd-bf52-3175ae2d73ef"
-							class="xref"
+							className="xref"
 							href="#P7001013171000000000000000003D93"
 						>
 							<span
 								data-chaucer-element-id="b0b85b3c-273b-4feb-a8c9-810a98fd9f4c"
-								class="label"
+								className="label"
 							>
 								Figure{' '}
 							</span>
 							<span
 								data-chaucer-element-id="98a90401-275f-4081-84b6-fa9b7cf64426"
-								class="number"
+								className="number"
 							>
 								8-3
 							</span>
@@ -56,33 +56,33 @@ const PageSeven = props => {
 					<figure
 						data-chaucer-element-id="649cf3ce-bd14-4571-b542-0ebd46b54d0e"
 						id="P7001013171000000000000000003D93"
-						class="figure"
+						className="figure"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D93"
 						data-chaucer-note-id="274752"
 					>
 						<header data-chaucer-element-id="aff8f591-d438-485b-b27e-24e5d971026b">
 							<h1
 								data-chaucer-element-id="fe4b7a4a-c267-4080-9a50-18cbfd514322"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013BA1"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BA1"
 							>
 								<span
 									data-chaucer-element-id="abb9cffe-bfc7-4e5b-a5a7-a0684c01d4f4"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="f6977945-8c23-43e2-b73d-57bfb31239ae"
-									class="number"
+									className="number"
 								>
 									8-3{' '}
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="a9260a2f-353f-4a64-ab70-dc583a967f1d"
-								class="subtitle"
+								className="subtitle"
 								id="P7001013171000000000000000013BA2"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BA2"
 							>
@@ -106,7 +106,7 @@ const PageSeven = props => {
 						>
 							<div
 								data-chaucer-element-id="0fa6d22b-a247-4b4b-b53a-530ea24e6995"
-								class="caption"
+								className="caption"
 								id="P7001013171000000000000000013BA4"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BA4"
 							>
@@ -127,7 +127,7 @@ const PageSeven = props => {
 							</div>
 							<div
 								data-chaucer-element-id="4bc57df3-ff78-40dd-933b-0129550230cc"
-								class="source"
+								className="source"
 								id="P7001013171000000000000000013BA7"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BA7"
 							>
@@ -138,7 +138,7 @@ const PageSeven = props => {
 								>
 									<span
 										data-chaucer-element-id="10473ee6-0cdb-4291-af66-5b21e9e280ab"
-										class="label"
+										className="label"
 									>
 										Source:
 									</span>{' '}
@@ -153,7 +153,7 @@ const PageSeven = props => {
 					</figure>
 					<div
 						data-chaucer-element-id="9d06cb17-6437-49f0-baec-5f1fe53275e7"
-						class="longdesc"
+						className="longdesc"
 					>
 						<p data-chaucer-element-id="b453cb04-2524-4b0b-9c34-d4464aebd85d">
 							Horizontal axis shows years ranging from 2007 to 2014 in
@@ -220,20 +220,20 @@ const PageSeven = props => {
 						variety of preventive and diagnostic medical tests are routinely
 						recommended for adults during middle adulthood (<a
 							data-chaucer-element-id="0829032b-bf60-411c-ad0b-cb5ac46227e6"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000006399"
 						>
 							Walters &amp; Rye, 2009
 						</a>) (see{' '}
 						<span
 							data-chaucer-element-id="22af74e3-bbff-449f-95ca-6d37a9462ed4"
-							class="label"
+							className="label"
 						>
 							Table{' '}
 						</span>
 						<span
 							data-chaucer-element-id="8e45a6bc-1fe9-42a1-a3ba-095e7fd2beeb"
-							class="number"
+							className="number"
 						>
 							8-1 and the following video on Jeff
 						</span>).
@@ -241,25 +241,25 @@ const PageSeven = props => {
 					<figure
 						data-chaucer-element-id="2df21abb-086b-4113-9beb-01beda803e50"
 						id="P7001013171000000000000000003DA0"
-						class="table"
+						className="table"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003DA0"
 					>
 						<header data-chaucer-element-id="33fb33e8-7f7e-4495-84d6-916b09af92a3">
 							<h1
 								data-chaucer-element-id="4160b26f-9591-4fcf-8c2a-20a48dfaaf52"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013BAC"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BAC"
 							>
 								<span
 									data-chaucer-element-id="a6e470bc-d3f4-4f0a-a250-69c5f4aacf18"
-									class="label"
+									className="label"
 								>
 									Table{' '}
 								</span>
 								<span
 									data-chaucer-element-id="1d812239-05a7-428a-9758-7d344c5cbde6"
-									class="number"
+									className="number"
 									data-chaucer-note-id="269019"
 								>
 									8-1{' '}
@@ -267,7 +267,7 @@ const PageSeven = props => {
 							</h1>
 							<p
 								data-chaucer-element-id="aa878820-c0e4-448d-91cc-46dde8033d5b"
-								class="subtitle"
+								className="subtitle"
 								id="P7001013171000000000000000013BAD"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BAD"
 								data-chaucer-note-id="269143"
@@ -284,7 +284,7 @@ const PageSeven = props => {
 								<tr data-chaucer-element-id="3c7f2715-5813-4b8d-b32f-eb3ff9ee3e1f">
 									<th
 										data-chaucer-element-id="6e791495-a858-49ce-bc1a-0a9a94d00cfb"
-										colspan="5"
+										colSpan="5"
 										id="P7001013171000000000000000013BAE"
 										data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BAE"
 									>
@@ -387,7 +387,7 @@ const PageSeven = props => {
 									</td>
 									<td
 										data-chaucer-element-id="c30df5ac-b7df-4583-9732-c6c0ff71de6b"
-										colspan="3"
+										colSpan="3"
 										id="P7001013171000000000000000013BBB"
 										data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BBB"
 									>
@@ -698,7 +698,7 @@ const PageSeven = props => {
 						>
 							<div
 								data-chaucer-element-id="fe09a283-f762-4e0a-b071-1965d73e2a9f"
-								class="note"
+								className="note"
 								id="P7001013171000000000000000013BE3"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BE3"
 							>
@@ -709,7 +709,7 @@ const PageSeven = props => {
 								>
 									<span
 										data-chaucer-element-id="b57db7f9-ecaa-4c59-b2ca-7c495f5c234b"
-										class="leadin"
+										className="leadin"
 									>
 										Note:
 									</span>{' '}
@@ -723,7 +723,7 @@ const PageSeven = props => {
 					</figure>
 					<div
 						data-chaucer-element-id="a5e2fad4-2ac1-465f-bfb5-9eebaddb0ce9"
-						class="longdesc"
+						className="longdesc"
 					>
 						<p data-chaucer-element-id="8be5e783-7e4e-425a-8558-442d4fa5e72e">
 							Table shows adult preventive health care screening
@@ -901,16 +901,16 @@ const PageSeven = props => {
 
 					<figure
 						data-chaucer-element-id="b7aa8417-8de4-4515-91b9-e3250e7530ed"
-						class="video"
+						className="video"
 					>
 						<header data-chaucer-element-id="f14a539f-612b-45e0-ab55-9a6b17dcdf5c">
 							<h1
 								data-chaucer-element-id="1fdd45c6-9dc1-4c5c-8bd2-7b1de358d3d0"
-								class="title"
+								className="title"
 							>
 								<span
 									data-chaucer-element-id="0e4e45c2-bee9-4f65-9d41-47da8d807a0d"
-									class="label"
+									className="label"
 									data-chaucer-note-id="273207"
 								>
 									Watch
@@ -918,24 +918,24 @@ const PageSeven = props => {
 							</h1>
 							<p
 								data-chaucer-element-id="fec41d04-db10-4df1-be2b-033899082b26"
-								class="subtitle"
+								className="subtitle"
 							>
 								Middle Adulthood: Health, Jeff
 							</p>
 						</header>
 						<div
 							data-chaucer-element-id="57090cd8-1ddd-414b-9c77-57cc1ec07515"
-							class="lc_ec_videoinner"
+							className="lc_ec_videoinner"
 						>
 							<iframe
 								title="video"
 								data-chaucer-element-id="98da99ef-b894-4bfa-b4dc-c2777534ae61"
 								id="player1"
 								name="player1"
-								class="__embedpearsonvideoplayer__"
+								className="__embedpearsonvideoplayer__"
 								src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_025_Jeff_Health"
 								scrolling="no"
-								allowfullscreen="yes"
+								allowFullScreen="yes"
 								width="640"
 								height="480"
 								seamless="seamless"
@@ -960,7 +960,7 @@ const PageSeven = props => {
 						</em>{' '}
 						box (<a
 							data-chaucer-element-id="20e1eb75-dbc0-4ada-aab8-652937c3a81f"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000060B1"
 						>
 							Smedley &amp; Syme, 2000
@@ -970,26 +970,26 @@ const PageSeven = props => {
 					<aside
 						data-chaucer-element-id="4500635e-e494-4f58-9d34-2617b2dbfab7"
 						id="P7001013171000000000000000003DE5"
-						class="sidebar sidebar_1"
+						className="sidebar sidebar_1"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003DE5"
 					>
 						<header data-chaucer-element-id="afa1b694-c1c9-4d7b-bb16-17b46d570598">
 							<h1
 								data-chaucer-element-id="2c7bcedc-590a-4ae5-8e79-a292d30147a9"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013BEF"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013BEF"
 							>
 								<span
 									data-chaucer-element-id="504739fc-d33a-40e9-b0ad-ea6242dc03d3"
-									class="label"
+									className="label"
 								>
 									Cultural Dimensions{' '}
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="584275dc-2dfb-41b3-9313-0cf16c7ade00"
-								class="subtitle"
+								className="subtitle"
 							>
 								Individual Variation in Health: Ethnic and Gender Differences
 							</p>
@@ -1030,21 +1030,21 @@ const PageSeven = props => {
 							incidence of accidents and health hazards, and thus a higher death
 							rate, are linked to lower levels of income (<a
 								data-chaucer-element-id="4d7f8184-dfa5-4f53-a184-cce5a06b4a9a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000529D"
 							>
 								Fingerhut &amp; Makuc, 1992
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7a31c782-57a6-48f7-98ca-afd7e002f152"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000506D"
 							>
 								Dahl &amp; Birkelund, 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4136f28c-df75-4e13-9613-a46cd739a984"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005541"
 							>
 								Hendren, Humiston, &amp; Fiscella, 2012
@@ -1072,7 +1072,7 @@ const PageSeven = props => {
 							than men, which lowers the incidence of cirrhosis of the liver and
 							auto accidents; and they work at less dangerous jobs (<a
 								data-chaucer-element-id="0e56c32f-6637-4ca9-b8a6-45c1c6a03033"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005A67"
 							>
 								McDonald, 1999
@@ -1095,7 +1095,7 @@ const PageSeven = props => {
 							pattern has been one of gender discrimination by a male-dominated
 							research community (<a
 								data-chaucer-element-id="1a6099cf-3fe0-49b7-8397-e03755685e0e"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006353"
 							>
 								Vidaver et al., 2000
@@ -1106,40 +1106,40 @@ const PageSeven = props => {
 
 					<figure
 						data-chaucer-element-id="1b350f8b-09cc-40e6-9702-16cff73a78b1"
-						class="video"
+						className="video"
 					>
 						<header data-chaucer-element-id="54c26e0c-7916-41a6-bc50-d32a291f6c89">
 							<h1
 								data-chaucer-element-id="4e1ccf6c-7eff-4969-8014-03ffe2e8b648"
-								class="title"
+								className="title"
 							>
 								<span
 									data-chaucer-element-id="2b44fba6-9a20-4c2b-ba7f-ec231f12939c"
-									class="label"
+									className="label"
 								>
 									Watch
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="362d3817-a3e8-4bcd-9107-3c06274c096c"
-								class="subtitle"
+								className="subtitle"
 							>
 								Special Topics: Health Disparities
 							</p>
 						</header>
 						<div
 							data-chaucer-element-id="642680d9-f0c3-4882-8cdc-bdc2eb2a864f"
-							class="lc_ec_videoinner"
+							className="lc_ec_videoinner"
 						>
 							<iframe
 								data-chaucer-element-id="064e6016-a216-4a43-b06c-b525207bd2cd"
 								id="player2"
 								name="player2"
 								title="video"
-								class="__embedpearsonvideoplayer__"
+								className="__embedpearsonvideoplayer__"
 								src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_014_E15_S03_ALT"
 								scrolling="no"
-								allowfullscreen="yes"
+								allowFullScreen="yes"
 								width="640"
 								height="480"
 								seamless="seamless"
@@ -1151,7 +1151,7 @@ const PageSeven = props => {
 						data-chaucer-element-id="16719330-fce5-41f7-9956-5f5a89deb04d"
 						id="P7001013171000000000000000003DF6"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003DF6"
-						class="level3"
+						className="level3"
 					>
 						<p
 							data-chaucer-element-id="5be1c98c-0529-4a15-b0b7-32bc38274655"
@@ -1177,18 +1177,18 @@ const PageSeven = props => {
 							main consequences, summarized in{' '}
 							<a
 								data-chaucer-element-id="e5e54cb6-e3cb-4b02-b9fa-52ceba55e198"
-								class="xref"
+								className="xref"
 								href="#P7001013171000000000000000003DFA"
 							>
 								<span
 									data-chaucer-element-id="992d0c85-eeff-4305-ba39-016b8a3b2e41"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="54bb1cf5-23c8-49cf-bd52-fe424d8b3ba6"
-									class="number"
+									className="number"
 								>
 									8-4
 								</span>
@@ -1202,21 +1202,21 @@ const PageSeven = props => {
 							comply with medical advice. All of these can lead to or affect
 							serious health conditions, including heart disease (<a
 								data-chaucer-element-id="c3a89fbe-0170-4910-af60-4301523d52f6"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000563D"
 							>
 								Ihle et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="3b838400-95ac-4da4-a423-0e75b426c6d7"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005203"
 							>
 								Emery, Anderson, &amp; Goodwin, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d1477737-637a-41fe-aed3-b336833bf41b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000050A3"
 							>
 								de Frias &amp; Whyne, 2015
@@ -1225,36 +1225,36 @@ const PageSeven = props => {
 
 						<figure
 							data-chaucer-element-id="ee95a449-21ef-4f37-83c7-b52f59fe537f"
-							class="gadget"
+							className="gadget"
 							id="P7001013171000000000000000003DFA"
 						>
 							<header data-chaucer-element-id="054e81da-d016-4c41-baec-4727d0a846c5">
 								<h1
 									data-chaucer-element-id="c0163fa4-1d16-4866-8ffa-b9545f41d9c4"
-									class="title"
+									className="title"
 									data-chaucer-note-id="280013"
 								>
 									<span
 										data-chaucer-element-id="abb10442-2563-4eec-9d1a-0f467ac07a10"
-										class="label"
+										className="label"
 									>
 										Figure 8-4
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="215c0b58-51e1-44a7-8ef0-2badf7fa09ab"
-									class="subtitle"
+									className="subtitle"
 								>
 									The Consequences of Stress
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="0cd9ebd0-d33b-4275-9589-a61ab0fab457"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="b257d76c-a70a-47a7-b3f6-e256886d48d4"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-click_to_reveal-01/index.html"
 									height="620"
 									width="770"
@@ -1271,7 +1271,7 @@ const PageSeven = props => {
 							<figcaption data-chaucer-element-id="98b5093e-ff16-4548-b287-28f1239c70a6">
 								<div
 									data-chaucer-element-id="e4eb23f7-95f9-4081-bdbb-1f0ef8166526"
-									class="caption"
+									className="caption"
 								>
 									<p data-chaucer-element-id="217ac1e2-d293-4863-b137-50126f0ee18f">
 										Stress produces three major consequences: direct
@@ -1281,7 +1281,7 @@ const PageSeven = props => {
 								</div>
 								<div
 									data-chaucer-element-id="b547c27e-7693-46f5-a546-0f9ad0338af6"
-									class="source"
+									className="source"
 								>
 									<p
 										data-chaucer-element-id="0d97ce0d-a684-4414-8c96-92de35c3701e"
@@ -1289,7 +1289,7 @@ const PageSeven = props => {
 									>
 										<span
 											data-chaucer-element-id="91febe75-9d55-4aa7-8c17-47484de3acf3"
-											class="label"
+											className="label"
 										>
 											Source:{' '}
 										</span>Adapted from Baum, 1994.{' '}
@@ -1300,40 +1300,40 @@ const PageSeven = props => {
 
 						<figure
 							data-chaucer-element-id="e80d03a7-2b6c-4f05-a762-dbb0cc116a38"
-							class="video"
+							className="video"
 						>
 							<header data-chaucer-element-id="3aa7d1e0-745c-48ee-931d-6362532af63b">
 								<h1
 									data-chaucer-element-id="b71ed777-1f8f-45fd-b050-e2ad94df752c"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="171acebd-ec53-44d0-9dc2-60d1489061a2"
-										class="label"
+										className="label"
 									>
 										Watch
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="8a4d34c7-1fdd-4cd8-8b73-b79f40ba48fc"
-									class="subtitle"
+									className="subtitle"
 								>
 									Thinking Like a Psychologist: Personality and Health
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="6bf35cf9-477f-4046-b936-f584566a3364"
-								class="lc_ec_videoinner"
+								className="lc_ec_videoinner"
 							>
 								<iframe
 									data-chaucer-element-id="38188be2-5312-472e-afe0-a88fb9708375"
 									id="player3"
 									name="player3"
 									title="video two"
-									class="__embedpearsonvideoplayer__"
+									className="__embedpearsonvideoplayer__"
 									src="https://mediaplayer.pearsoncmg.com/assets/_video.true/mypsychlab-2016-feldman4e_0134531868-personality_and_health"
 									scrolling="no"
-									allowfullscreen="yes"
+									allowFullScreen="yes"
 									width="640"
 									height="480"
 									seamless="seamless"

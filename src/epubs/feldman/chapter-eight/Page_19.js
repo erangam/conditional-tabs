@@ -10,12 +10,12 @@ const PageNineteen = props => {
 				<section
 					data-chaucer-element-id="b6abcfe8-4dc4-453d-b7b1-90fba336e065"
 					id="P7001013171000000000000000004071"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="8eba7b88-7a91-4b89-8362-87483f20828a">
 						<h1
 							data-chaucer-element-id="a096af3a-4f36-4ba3-9081-1a0df6d7cd46"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013DF1"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DF1"
 						>
@@ -40,7 +40,7 @@ const PageNineteen = props => {
 						nest syndrome.” The{' '}
 						<a
 							data-chaucer-element-id="1732ac16-420c-4362-b395-8e2d8df36328"
-							class="keyword"
+							className="keyword"
 							id="P7001013171000000000000000004078"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004078"
 							href="bm01_pg0001.xhtml#P700101317100000000000000000668C"
@@ -50,14 +50,14 @@ const PageNineteen = props => {
 						refers to the unhappiness, worry, loneliness, and depression some
 						parents feel when their children leave home (<a
 							data-chaucer-element-id="17df8015-849f-4cd1-a8f9-605f6f66978d"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005861"
 						>
 							Lauer &amp; Lauer, 1999
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="29c5ecab-f416-41f0-aa24-8dbdbb624aa1"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000521D"
 						>
 							Erickson, Martinengo, &amp; Hill, 2010
@@ -88,21 +88,21 @@ const PageNineteen = props => {
 						Such women may now feel liberated from a difficult set of
 						responsibilities (<a
 							data-chaucer-element-id="70bd1754-aa42-440a-89c0-5daf6386894b"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000557B"
 						>
 							Heubusch, 1997
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="e09552a2-db3f-463b-82b3-178183b166a7"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005B45"
 						>
 							Morfei et al., 2004
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="ebcb1161-9797-4249-85c2-63d404ea4802"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004F3D"
 						>
 							Chen, Yang, &amp; Dale Aagard, 2012
@@ -118,14 +118,14 @@ const PageNineteen = props => {
 						more than temporary feelings of sadness and distress. This is
 						especially true for women who have worked outside the home (<a
 							data-chaucer-element-id="1fde5079-164f-4e16-8dbd-37c636b9a507"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005051"
 						>
 							Crowley, Hayslip, &amp; Hobdy, 2003
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="a99e8f1d-2d7e-4b31-9191-663a8b8f9312"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000056D5"
 						>
 							Kadam, 2014
@@ -142,7 +142,7 @@ const PageNineteen = props => {
 						the kids with homework, carpools, and the like. The house stays
 						neater, and the telephone rings less often (<a
 							data-chaucer-element-id="1e63df94-f33f-41ba-9bf2-36a125f31935"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005421"
 						>
 							Gorchoff, John, &amp; Helson, 2008
@@ -169,7 +169,7 @@ const PageNineteen = props => {
 						neutral about the departure of their children, almost a quarter felt
 						unhappy (<a
 							data-chaucer-element-id="cf3d5ccd-1f2f-46a2-b75e-d460bf7444a8"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000058DF"
 						>
 							Lewis, Freneau, &amp; Roberts, 1979
@@ -211,21 +211,21 @@ const PageNineteen = props => {
 						parents even help their children complete work assignments once they
 						get a job (<a
 							data-chaucer-element-id="558da206-94e4-40c1-9e4a-43c7e47b1dc2"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000536F"
 						>
 							Gardner, 2007
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="d0c80e22-4737-4681-afcd-0bef09ca8333"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005967"
 						>
 							Ludden, 2012
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="ab327ba9-62bd-480c-83cb-d94c0c814ef1"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000530D"
 						>
 							Frey &amp; Tatum, 2016
@@ -246,12 +246,12 @@ const PageNineteen = props => {
 						data-chaucer-element-id="64620c08-152d-492c-9fb0-c3cc878d4f89"
 						id="P7001013171000000000000000004082"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004082"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="1f957aaf-c5e2-4976-b068-2ef4b72807bf">
 							<h1
 								data-chaucer-element-id="b8527029-62b6-4135-aa97-47d78d69a3c9"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013DFD"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DFD"
 							>
@@ -261,7 +261,7 @@ const PageNineteen = props => {
 						<aside
 							data-chaucer-element-id="5b03edb5-18c9-4fdc-9033-90042986dd98"
 							id="P7001013171000000000000000004084"
-							class="vignette"
+							className="vignette"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004084"
 						>
 							<p
@@ -305,7 +305,7 @@ const PageNineteen = props => {
 							Known as{' '}
 							<a
 								data-chaucer-element-id="c4e51df8-238c-4890-86ca-a5d66afcc265"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000004089"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004089"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000065BA"
@@ -320,14 +320,14 @@ const PageNineteen = props => {
 							34 are living with their parents. In some European countries, the
 							proportion is even higher (<a
 								data-chaucer-element-id="75891d9c-da55-4246-b6b5-ca3f027cc89a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E7F"
 							>
 								Roberts, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7d6b1f03-04a7-496d-91d8-c66909b0b7fa"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005CD1"
 							>
 								Parker, 2012
@@ -345,25 +345,25 @@ const PageNineteen = props => {
 							children find the arrangement has been bad for their relationship
 							with their parents (<a
 								data-chaucer-element-id="a61aa36c-8c6d-4bf5-bd61-e00c4a60f4e4"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005CD1"
 							>
 								Parker, 2012
 							</a>; see{' '}
 							<a
 								data-chaucer-element-id="e5e8e65c-3184-44eb-90e1-3419b14c6d4c"
-								class="xref"
+								className="xref"
 								href="#P700101317100000000000000000408B"
 							>
 								<span
 									data-chaucer-element-id="a42652d0-4ef9-479e-aba5-f83fe3f8e8c2"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="24058c2c-bf89-4ef6-a8ac-6de08928c86d"
-									class="number"
+									className="number"
 								>
 									8-10
 								</span>
@@ -372,32 +372,32 @@ const PageNineteen = props => {
 						<figure
 							data-chaucer-element-id="63095326-70f5-4167-9cd7-b6a3f2eaef42"
 							id="P700101317100000000000000000408B"
-							class="figure"
+							className="figure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000408B"
 						>
 							<header data-chaucer-element-id="540dd28f-ded0-43ce-98c6-2c4ee80b9c68">
 								<h1
 									data-chaucer-element-id="e18d22e0-6207-43c4-b4ae-f21060204eed"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013E04"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E04"
 								>
 									<span
 										data-chaucer-element-id="24b13e69-30cb-44e6-8a42-678cd4f29542"
-										class="label"
+										className="label"
 									>
 										Figure{' '}
 									</span>
 									<span
 										data-chaucer-element-id="8c70cce2-657e-4443-b057-2a50c58caef3"
-										class="number"
+										className="number"
 									>
 										8-10{' '}
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="74710f7f-2f25-4a0f-8c6d-fe201d7f003a"
-									class="subtitle"
+									className="subtitle"
 									id="P7001013171000000000000000013E05"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E05"
 								>
@@ -420,7 +420,7 @@ const PageNineteen = props => {
 							>
 								<div
 									data-chaucer-element-id="e7e8e665-3f03-4437-ac0d-9ead38980fa0"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013E07"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E07"
 								>
@@ -441,7 +441,7 @@ const PageNineteen = props => {
 								</div>
 								<div
 									data-chaucer-element-id="4286b856-da92-4286-b999-8add71699391"
-									class="source"
+									className="source"
 									id="P7001013171000000000000000013E0A"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E0A"
 								>
@@ -452,13 +452,13 @@ const PageNineteen = props => {
 									>
 										<span
 											data-chaucer-element-id="850b2e44-71f6-42eb-88bf-5b496a68e991"
-											class="label"
+											className="label"
 										>
 											Source:{' '}
 										</span>
 										<a
 											data-chaucer-element-id="aec169ef-1042-448f-9f82-eac80a105e26"
-											class="biblioref"
+											className="biblioref"
 											href="bm01_pg0002.xhtml#P7001013171000000000000000005D3D"
 										>
 											Pew Research Center, 2012
@@ -469,7 +469,7 @@ const PageNineteen = props => {
 						</figure>
 						<div
 							data-chaucer-element-id="1c1d04d4-ac1d-4028-a9e7-10f4e1ee3037"
-							class="longdesc"
+							className="longdesc"
 						>
 							<p data-chaucer-element-id="ffb80786-9ff7-4254-b28b-fc56882abd12">
 								Bar graph shows percentage of children saying that living with
@@ -496,12 +496,12 @@ const PageNineteen = props => {
 						data-chaucer-element-id="53c5399d-ec3b-43af-805b-1abbed9f26c3"
 						id="P7001013171000000000000000004095"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004095"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="f900958f-902d-4972-99f4-12fe07403639">
 							<h1
 								data-chaucer-element-id="91193913-fb4e-4fd4-9a8b-030001e95ecd"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E0C"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E0C"
 							>
@@ -518,7 +518,7 @@ const PageNineteen = props => {
 							challenge: the care of their own aging parents. The term{' '}
 							<a
 								data-chaucer-element-id="c79e402d-1a88-4da8-b817-9b936f95ff93"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000004098"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004098"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000068DE"
@@ -528,21 +528,21 @@ const PageNineteen = props => {
 							refers to these middle adults who are squeezed between the needs
 							of their children and their parents (<a
 								data-chaucer-element-id="3548f0bf-448f-4888-94f6-b20092a52589"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E61"
 							>
 								Riley &amp; Bowen, 2005
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="609b6cad-5891-49f3-8812-08325dcd0f21"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005489"
 							>
 								Grundy &amp; Henretta, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b340ad9d-8330-4d99-80e3-74dd44293237"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004F2F"
 							>
 								Chassin et al., 2009
@@ -573,7 +573,7 @@ const PageNineteen = props => {
 							elderly people who live alone say they do not wish to live with
 							their children (<a
 								data-chaucer-element-id="e3a2ec69-67ef-454b-a182-ccad3c08cdd5"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004F0B"
 							>
 								Commonwealth Fund Commission on Elderly People Living Alone
@@ -581,7 +581,7 @@ const PageNineteen = props => {
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="898f751e-b8e5-4b2f-8a59-b00e32f32b1b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005AD5"
 							>
 								Merrill, 1997
@@ -610,7 +610,7 @@ const PageNineteen = props => {
 							between 1990 and 2000, they represent 4 percent of all households
 							(<a
 								data-chaucer-element-id="322a05bb-6b19-4c51-9a80-aa81e9ccdedb"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005BDB"
 							>
 								Navarro, 2006
@@ -641,14 +641,14 @@ const PageNineteen = props => {
 							the day-to-day care, even when the parent or parents are their
 							in-laws (<a
 								data-chaucer-element-id="e28eeddd-5144-4665-8ae4-462c73593c18"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060DF"
 							>
 								Soldo, 1996
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e0c6eec4-5c48-4a37-931d-378b17aeafb3"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005DC7"
 							>
 								Putney &amp; Bengtson, 2001
@@ -666,21 +666,21 @@ const PageNineteen = props => {
 							familial ties are less central, and caring for the older
 							generation may be seen as a burden (<a
 								data-chaucer-element-id="8e230ab8-1119-4bb2-9d0c-ef33d669c6ab"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005773"
 							>
 								Kim &amp; Lee, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="40ed1cb6-e642-40df-a157-8a68d72e6633"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005EB1"
 							>
 								Ron, 2014
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="c687f787-b8f9-4186-98bd-62ce77adacbc"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005767"
 							>
 								Kiilo, Kasearu, &amp; Kutsar, 2016
@@ -699,7 +699,7 @@ const PageNineteen = props => {
 							grow closer, more accepting of each other’s weaknesses and more
 							appreciative of each other’s strengths (<a
 								data-chaucer-element-id="8716215a-b979-4d12-aa57-d00644bed386"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006359"
 							>
 								Vincent, Phillipson, &amp; Downs, 2006
@@ -710,12 +710,12 @@ const PageNineteen = props => {
 						data-chaucer-element-id="f1dcbf89-a961-49b0-8b9e-c8dd7b234c46"
 						id="P70010131710000000000000000040A1"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040A1"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="883242bc-eed8-4f6c-b586-d19199e0f26a">
 							<h1
 								data-chaucer-element-id="0088d3bd-4b46-4bf4-bc7c-b5489b2d625f"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E16"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E16"
 							>
@@ -760,21 +760,21 @@ const PageNineteen = props => {
 							care of a grandchild while his or her parents work is an example
 							of an involved grandparent (<a
 								data-chaucer-element-id="15daff42-7dd9-4376-b2b4-76578d593cb7"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005B6B"
 							>
 								Mueller, Wilhelm, &amp; Elder, 2002
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1e9634a9-d442-4d86-9678-2721714f5391"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005277"
 							>
 								Fergusson, Maughan, &amp; Golding, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ad871cf0-a5ec-46db-a07f-1797217de11d"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000059D3"
 							>
 								Mansson, 2013
@@ -819,14 +819,14 @@ const PageNineteen = props => {
 							particularly when they have a high level of interaction with
 							younger grandchildren (<a
 								data-chaucer-element-id="0b8611a6-e53f-4b3b-9732-e913fa6eb3d6"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060C5"
 							>
 								Smith, 1995
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1bd9973f-8fd9-4065-9e94-c3dbb2fbc025"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060C7"
 							>
 								Smith &amp; Drew, 2002
@@ -846,28 +846,28 @@ const PageNineteen = props => {
 							everyday child care, and cultural norms tend to be highly
 							supportive of grandparents taking an active role (<a
 								data-chaucer-element-id="97845af5-4fde-4338-9bf8-cfb8f17b3a4e"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006153"
 							>
 								Stevenson, Henderson, &amp; Baugh, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="740ade7b-bd2e-4e5a-b8b9-434152b33477"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005741"
 							>
 								Keene, Prokos, &amp; Held, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5bcae7f4-59ff-4bf7-85fa-ba962d197235"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004D37"
 							>
 								Bertera &amp; Crewe, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="2c071072-5002-4080-9080-8d5f8385bff4"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005027"
 							>
 								Cox &amp; Miner, 2014

@@ -11,12 +11,12 @@ const PageEight = props => {
 				<section
 					data-chaucer-element-id="8d2f4ea4-87f8-49ed-b2e3-53ee67b82285"
 					id="P7001013171000000000000000003E0F"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="14b83c58-a2dc-4af1-b495-f34e5932d580">
 						<h1
 							data-chaucer-element-id="4ddbc9eb-071e-4dc6-8e54-0f1957356b7c"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013C16"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013C16"
 							data-chaucer-note-id="336634"
@@ -39,7 +39,7 @@ const PageEight = props => {
 						are responsible for more loss of work and disability days because of
 						hospitalization than any other cause (<a
 							data-chaucer-element-id="f063b59b-8fd4-48be-a21f-670b9aacde54"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004BD5"
 						>
 							American Heart Association, 2010
@@ -49,12 +49,12 @@ const PageEight = props => {
 						data-chaucer-element-id="416a05a9-241a-4c54-ae4b-c9c91bf4367b"
 						id="P7001013171000000000000000003E16"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003E16"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="aed774df-cb45-4c1c-b033-72e0d7989581">
 							<h1
 								data-chaucer-element-id="bd039afe-f477-4961-bd2d-664b98e81e6f"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013C19"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013C19"
 							>
@@ -97,21 +97,21 @@ const PageEight = props => {
 							diet: The typical Japanese diet is much lower in fat than it is in
 							the United States (<a
 								data-chaucer-element-id="c8b11f20-6e28-49a2-a7c3-3ed1126dfc01"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000050AB"
 							>
 								De Meersman &amp; Stein, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="98b19d51-f5f7-4a42-8b2d-196c6fdbfe2f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005F59"
 							>
 								Scarbourough et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="846745de-5ed1-474b-a31b-2f555e733cda"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005D6B"
 							>
 								Platt et al., 2014
@@ -165,7 +165,7 @@ const PageEight = props => {
 						<figure
 							data-chaucer-element-id="06ac6ff8-861d-4b06-8424-dca4bdf20a59"
 							id="P7001013171000000000000000003E1E"
-							class="informalfigure"
+							className="informalfigure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003E1E"
 							data-chaucer-note-id="274148"
 						>
@@ -185,7 +185,7 @@ const PageEight = props => {
 							>
 								<div
 									data-chaucer-element-id="30c635f7-aa27-4ca9-93d4-f55d811804ab"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013C22"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013C22"
 								>
@@ -219,14 +219,14 @@ const PageEight = props => {
 							fatal heart attacks, and five times as many heart problems as Type
 							B men (<a
 								data-chaucer-element-id="2ffc23ef-5c18-4758-b044-eb768c938b26"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006187"
 							>
 								Strube, 1990
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="27393587-bfcd-4707-bbab-59a173075001"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006417"
 							>
 								Wielgosz &amp; Nolan, 2000
@@ -246,28 +246,28 @@ const PageEight = props => {
 							anger components of Type A behavior are the central link to
 							coronary heart disease (<a
 								data-chaucer-element-id="c69478d3-610f-4e26-ba33-69fdc39f7631"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000050E3"
 							>
 								Demaree &amp; Everhart, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="2f5329fd-2b7e-4734-b5e3-a9d72063047d"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000051B5"
 							>
 								Eaker et al., 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4d9afbff-1565-4eff-b020-7ea5e242a02d"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000056E7"
 							>
 								Kahn, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8f86c50c-7567-471b-b300-976c05934eb2"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005B9F"
 							>
 								Myrtek, 2007
@@ -291,21 +291,21 @@ const PageEight = props => {
 							believes that insecurity, anxiety, and having a negative outlook
 							put people at risk for heart attacks (<a
 								data-chaucer-element-id="3f2afbe7-9b48-40c1-b386-aa4a9ebc181a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005B29"
 							>
 								Mols &amp; Denollet, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="62f98ab9-1973-45f1-ae55-3c362ba53b88"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000057FD"
 							>
 								Kupper et al., 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="39b7989a-0928-4cb6-a473-273ff45b16e0"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006327"
 							>
 								van den Tooren &amp; Rutte, 2016
@@ -316,12 +316,12 @@ const PageEight = props => {
 						data-chaucer-element-id="3c7e6bef-6efb-4a98-8c0e-9252d49932de"
 						id="P7001013171000000000000000003E27"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003E27"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="14f983ba-d32b-44bf-ba3b-44d9537f17e4">
 							<h1
 								data-chaucer-element-id="779d84c5-f04b-435a-97f8-38df719b2777"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013C28"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013C28"
 							>
@@ -341,7 +341,7 @@ const PageEight = props => {
 							that cancer is the second-leading cause of death in the United
 							States (<a
 								data-chaucer-element-id="3d864fb4-b837-4d97-9e3a-a112f6653b11"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004F07"
 							>
 								Centers for Disease Control and Prevention [CDC], 2015
@@ -433,7 +433,7 @@ const PageEight = props => {
 							then becomes increasingly more likely. Ninety-five percent of new
 							cases occur in women aged 40 and older (<a
 								data-chaucer-element-id="1ae30ce5-df39-45c7-94e3-f1e9313dde1b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005FDD"
 							>
 								SEER, 2005
@@ -461,21 +461,21 @@ const PageEight = props => {
 								false-negatives
 							</i>, in which a mammogram does not detect indications of cancer (<a
 								data-chaucer-element-id="ef0eba9b-91aa-4f3c-82b3-2b4ae53d7652"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005103"
 							>
 								Destounis et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a930efbf-2a8d-4ace-ad46-101f611e1796"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005201"
 							>
 								Elmore et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="70df1968-7a5c-4adf-9f98-83103ac704ff"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004C0B"
 							>
 								Armstrong et al., 2013
@@ -498,7 +498,7 @@ const PageEight = props => {
 							that the risks of mammograms could be cut in half while still
 							offering 80 percent of the benefits of annual mammograms (<a
 								data-chaucer-element-id="5a3974a8-41e6-4483-8dbf-df46d34eb915"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005BE5"
 							>
 								Nelson et al., 2009
@@ -514,7 +514,7 @@ const PageEight = props => {
 							American College of Radiology. They argued that women aged 40 and
 							older should receive annual screenings (<a
 								data-chaucer-element-id="816a9778-6830-4151-a65e-1193b3f5d12b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005441"
 							>
 								Grady, 2009
@@ -535,21 +535,21 @@ const PageEight = props => {
 							</i>, the evidence is clear that mammograms starting at age 40 are
 							beneficial (<a
 								data-chaucer-element-id="9c806f72-4245-4b08-a049-85cdf1b23203"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005441"
 							>
 								Grady, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d4f42f30-c62f-4317-b059-0eac37817a1c"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004B99"
 							>
 								Alonso et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="01cef7f3-0a5a-4840-b7ec-708def711400"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060CB"
 							>
 								Smith, Duffy, &amp; Tabár, 2012
@@ -562,26 +562,26 @@ const PageEight = props => {
 						<aside
 							data-chaucer-element-id="8c6f11f5-38af-4fe8-835e-93a1f2e47060"
 							id="P7001013171000000000000000003E35"
-							class="sidebar sidebar_3"
+							className="sidebar sidebar_3"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003E35"
 						>
 							<header data-chaucer-element-id="1686486f-1c1e-4403-8cdf-cb4e66756f7c">
 								<h1
 									data-chaucer-element-id="168e3c0a-4171-4ff2-ace1-295638a12bb9"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013C35"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013C35"
 								>
 									<span
 										data-chaucer-element-id="891b9ac3-c52b-4fad-ad11-25771556e40d"
-										class="label"
+										className="label"
 									>
 										From Research to Practice{' '}
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="de6f8cce-1f76-484c-819c-9a70c97b8dc6"
-									class="subtitle"
+									className="subtitle"
 								>
 									Is Genetic Testing for Serious Diseases a Good Idea?
 								</p>
@@ -608,7 +608,7 @@ const PageEight = props => {
 								personal decision to have a preventative double mastectomy,
 								which reduced her risk of breast cancer to just 5 percent (<a
 									data-chaucer-element-id="96a4f478-4698-4fc5-91a7-ace08d0b635c"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P70010131710000000000000000057A3"
 								>
 									Kluger &amp; Park, 2013
@@ -642,14 +642,14 @@ const PageEight = props => {
 								strategy exists—having the option of a double mastectomy to
 								prevent breast cancer is much more the exception than the rule (<a
 									data-chaucer-element-id="5685d59c-08a3-4994-b6f3-82858c9e29f8"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P700101317100000000000000000633F"
 								>
 									Vassy et al., 2012
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="e058c805-8b12-4755-aee5-66f91182fc1e"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P70010131710000000000000000051BB"
 								>
 									Easton et al., 2015
@@ -673,7 +673,7 @@ const PageEight = props => {
 								test results are interpreted realistically and options are fully
 								understood (<a
 									data-chaucer-element-id="ea8b1aa7-a2a6-4fcd-98f0-87a8486736c8"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000005E5F"
 								>
 									Riley et al., 2012
@@ -682,7 +682,7 @@ const PageEight = props => {
 							<figure
 								data-chaucer-element-id="d725d7d2-89de-42ed-8395-07f14333ebb4"
 								id="P7001013171000000000000000003E3B"
-								class="informalfigure"
+								className="informalfigure"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003E3B"
 							>
 								<img
@@ -701,7 +701,7 @@ const PageEight = props => {
 								>
 									<div
 										data-chaucer-element-id="577a66c8-e983-4da2-b6c4-104720b10d25"
-										class="caption"
+										className="caption"
 										id="P7001013171000000000000000013C3C"
 										data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013C3C"
 									>
@@ -740,14 +740,14 @@ const PageEight = props => {
 								Jolie’s bold decision worked out well for her, but everyone’s
 								case is different (<a
 									data-chaucer-element-id="a3bf1938-d3fd-41ee-aca4-d2f9389416d1"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000005E5F"
 								>
 									Riley et al., 2012
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="884147cb-6d83-43e5-8aa0-1abd3ac0c650"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P70010131710000000000000000057A3"
 								>
 									Kluger &amp; Park, 2013
@@ -756,7 +756,7 @@ const PageEight = props => {
 							<aside
 								data-chaucer-element-id="c64933d1-bb3b-4923-b508-5b7737147403"
 								id="P7001013171000000000000000003E42"
-								class="vignette"
+								className="vignette"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003E42"
 							/>
 						</aside>
@@ -765,20 +765,20 @@ const PageEight = props => {
 				<section
 					data-chaucer-element-id="16bc6916-f50a-4ef2-afe2-02f4a4eeeabc"
 					id="P7001013171000000000000000003E47"
-					class="level1"
+					className="level1"
 				>
 					<figure
 						data-chaucer-element-id="8e857884-8d8c-43c8-94df-c20e519a4971"
-						class="gadget"
+						className="gadget"
 					>
 						<header data-chaucer-element-id="844f9918-008c-4897-be44-d5dfd5bf8c9a">
 							<h1
 								data-chaucer-element-id="a216d71b-2242-4a9f-b5c1-38a356e68e18"
-								class="title"
+								className="title"
 							>
 								<span
 									data-chaucer-element-id="cf7e3b67-76dc-4e9d-baf9-2180abffb032"
-									class="label"
+									className="label"
 								>
 									Module 8.1 Review
 								</span>
@@ -786,10 +786,10 @@ const PageEight = props => {
 						</header>
 						<div
 							data-chaucer-element-id="9536ea95-41b8-40bf-9be1-2720fbd097c7"
-							class="lc_iframeinner"
+							className="lc_iframeinner"
 						>
 							<iframe
-								class="gadget"
+								className="gadget"
 								src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-tabs_accordion_v1.0.1-01/index.html"
 								height="580"
 								width="770"
@@ -808,12 +808,12 @@ const PageEight = props => {
 					<section
 						data-chaucer-element-id="7d8893b5-6205-4423-ba36-a549832b3513"
 						id="P7001013171000000000000000003E60"
-						class="level2"
+						className="level2"
 					>
 						<section
 							data-chaucer-element-id="15266f15-8903-4d50-ab96-eae73e0c488f"
 							id="P7001013171000000000000000003E93"
-							class="level2"
+							className="level2"
 						>
 							<script
 								type="text/javascript"
@@ -821,11 +821,11 @@ const PageEight = props => {
 							/>
 							<section
 								data-is-assessment="true"
-								class="lc_embedded_quiz practice level2 card"
+								className="lc_embedded_quiz practice level2 card"
 							>
 								<div
 									id="journal1-cntr"
-									class="brix"
+									className="brix"
 									data-brix-chapter-for-fallback="8: Middle Adulthood"
 									data-brix-assignment-for-fallback="Journal 8.1: Applying the Lifespan Development"
 									data-assignmenturl="http://repo.paf.pearsoncmg.com/paf-repo/resources/activities/024e3198-b3d6-4d50-bafa-51615c08396e"
@@ -837,7 +837,7 @@ const PageEight = props => {
 							</section>
 
 							<div
-								class="knowledge-check"
+								className="knowledge-check"
 								data-alignment-id=""
 								id="urn:pearson:educationalgoal:607adc5c-549e-45c7-a0ed-44bea6d6a913"
 							/>

@@ -9,12 +9,12 @@ const PageTwentyOne = props => {
 				<section
 					data-chaucer-element-id="8a5ddee8-01c8-44f4-87ce-792b6128161c"
 					id="P70010131710000000000000000040FC"
-					class="level1"
+					className="level1"
 				>
 					<header data-chaucer-element-id="9732b460-ca86-4b28-812f-90210ccccbd3">
 						<h1
 							data-chaucer-element-id="6367aa0c-a297-4fa6-b960-f22c66ce8557"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013E61"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E61"
 						>
@@ -22,13 +22,13 @@ const PageTwentyOne = props => {
 						</h1>
 					</header>
 
-					<section class="objectiveset">
-						<ol class="objectivelist dynamiclist">
-							<li class="objective">
+					<section className="objectiveset">
+						<ol className="objectivelist dynamiclist">
+							<li className="objective">
 								<p>
-									<span class="lc_labelnum">
-										<span class="label">LO</span>{' '}
-										<span class="number">8.8</span>
+									<span className="lc_labelnum">
+										<span className="label">LO</span>{' '}
+										<span className="number">8.8</span>
 									</span>{' '}
 									Analyze the impact of work on middle adulthood.
 								</p>
@@ -40,7 +40,7 @@ const PageTwentyOne = props => {
 					<aside
 						data-chaucer-element-id="0d5de5d6-af04-482c-aa41-547f8196aa1c"
 						id="P70010131710000000000000000040FE"
-						class="vignette"
+						className="vignette"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040FE"
 					>
 						<p

@@ -10,13 +10,13 @@ const PageFive = props => {
 				<section
 					data-chaucer-element-id="9181f4f5-51f5-4e53-bf91-bc476d142343"
 					id="P7001013171000000000000000003D3D"
-					class="level2"
+					className="level2"
 					data-chaucer-note-id="336632"
 				>
 					<header data-chaucer-element-id="7077f273-0141-41c1-9658-14fabee1e935">
 						<h1
 							data-chaucer-element-id="62e584ad-7704-4a8c-9ab2-27f97d3bf49a"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013B61"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B61"
 						>
@@ -28,19 +28,19 @@ const PageFive = props => {
 					<section
 						data-chaucer-element-id="33b872a9-1b8f-4931-ab79-505d9e375d8e"
 						id="P7001013171000000000000000003D3F"
-						class="objectiveset"
+						className="objectiveset"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D3F"
 					>
 						<ol
 							data-chaucer-element-id="0205cc39-15e7-478a-b341-23740fd62ba9"
 							id="P7001013171000000000000000003D40"
-							class="objectivelist dynamiclist"
+							className="objectivelist dynamiclist"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D40"
 						>
 							<li
 								data-chaucer-element-id="2178249b-172b-435c-8096-e991b4f2db95"
 								id="P7001013171000000000000000003D41"
-								class="objective"
+								className="objective"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D41"
 							>
 								<p
@@ -50,17 +50,17 @@ const PageFive = props => {
 								>
 									<span
 										data-chaucer-element-id="b1435bf4-1728-4822-a9bf-141d360a30ce"
-										class="lc_labelnum"
+										className="lc_labelnum"
 									>
 										<span
 											data-chaucer-element-id="b1897403-ba08-494b-a220-11da5f037276"
-											class="label"
+											className="label"
 										>
 											LO
 										</span>{' '}
 										<span
 											data-chaucer-element-id="14813b4d-23ef-4fde-a266-bfc70b246530"
-											class="number"
+											className="number"
 										>
 											8.2
 										</span>
@@ -75,7 +75,7 @@ const PageFive = props => {
 					<aside
 						data-chaucer-element-id="b17e498a-3282-4e22-ae33-a4dae3b57b8b"
 						id="P7001013171000000000000000003D43"
-						class="vignette"
+						className="vignette"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D43"
 					>
 						<p
@@ -128,7 +128,7 @@ const PageFive = props => {
 					<figure
 						data-chaucer-element-id="2e37211a-c4b3-4f62-86ee-a4f3df3538cb"
 						id="P7001013171000000000000000003D47"
-						class="informalfigure"
+						className="informalfigure"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D47"
 					>
 						<img
@@ -148,7 +148,7 @@ const PageFive = props => {
 						>
 							<div
 								data-chaucer-element-id="1d910d9a-7ed6-4bdd-a0bf-982dcaa821f3"
-								class="caption"
+								className="caption"
 								id="P7001013171000000000000000013B68"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B68"
 							>
@@ -174,12 +174,12 @@ const PageFive = props => {
 						data-chaucer-element-id="3c479eb7-91f2-42de-af52-7271030a5e31"
 						id="P7001013171000000000000000003D4D"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D4D"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="a7569391-15c4-4dc9-aaf1-f64629950d14">
 							<h1
 								data-chaucer-element-id="88cfbfe5-b8be-425f-ae4c-a0e35bef620b"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013B6B"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B6B"
 							>
@@ -195,18 +195,18 @@ const PageFive = props => {
 							The frequency of sexual intercourse declines with age (see{' '}
 							<a
 								data-chaucer-element-id="ab6a1f78-fa43-45d7-9239-85223fe89434"
-								class="xref"
+								className="xref"
 								href="#P7001013171000000000000000003D50"
 							>
 								<span
 									data-chaucer-element-id="b6959176-112c-45aa-910c-47a446e72dae"
-									class="label"
+									className="label"
 								>
 									Figure
 								</span>{' '}
 								<span
 									data-chaucer-element-id="2d83cf4c-1d1d-4283-9939-3b56a90f2fea"
-									class="number"
+									className="number"
 								>
 									8-2
 								</span>
@@ -219,14 +219,14 @@ const PageFive = props => {
 							partner in the last year. Similarly, sex remains an important
 							activity for gay and lesbian couples during middle adulthood (<a
 								data-chaucer-element-id="dcd4af49-f004-4f4a-8e28-156b7e41d887"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005553"
 							>
 								Herbenick et al., 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5d5b6ba3-6d9d-4096-bf72-3ed0c1fe1aeb"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000057B5"
 							>
 								Koh &amp; Sewell, 2015
@@ -235,7 +235,7 @@ const PageFive = props => {
 
 						<figure
 							data-chaucer-element-id="47fb909b-79ab-46eb-9975-f9407a817e6a"
-							class="gadget"
+							className="gadget"
 							id="P7001013171000000000000000003D50"
 						>
 							<header
@@ -244,11 +244,11 @@ const PageFive = props => {
 							>
 								<h1
 									data-chaucer-element-id="78844255-1700-4e38-a176-98b715a5b37b"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="c13eb8af-e304-4733-93d5-fc9f7368ebe6"
-										class="label"
+										className="label"
 										data-chaucer-note-id="273195"
 									>
 										Figure 8-2
@@ -257,7 +257,7 @@ const PageFive = props => {
 
 								<p
 									data-chaucer-element-id="174c7533-0ff1-450e-8a64-fd3dd6f1274e"
-									class="subtitle"
+									className="subtitle"
 								>
 									Frequency of Heterosexual Sexual Intercourse in Middle and
 									Late Adulthood
@@ -266,12 +266,12 @@ const PageFive = props => {
 
 							<div
 								data-chaucer-element-id="a93110aa-40e7-4a39-b13b-a34b2329bbb9"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									title="interactive"
 									data-chaucer-element-id="60e5d455-3490-4f6a-8ba8-b817ae67dc85"
-									class="gadget"
+									className="gadget"
 									src="https://charts.socialexplorer.com/charts/ab2927ff-c66f-44e6-9dc9-d3f9b3c9adee.html"
 									height="620"
 									width="770"
@@ -288,16 +288,16 @@ const PageFive = props => {
 
 						<figure
 							data-chaucer-element-id="5ef6b83d-2fa6-4318-8e68-2bc43488744a"
-							class="gadget"
+							className="gadget"
 						>
 							<header data-chaucer-element-id="eef76d74-de9f-44c1-b1c0-f92c6e8ca716">
 								<h1
 									data-chaucer-element-id="3357ee37-994e-459e-90e0-7ce19c9d537f"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="e8d6cf11-2cae-4c0e-98b0-1f52b5f9b755"
-										class="label"
+										className="label"
 										data-chaucer-note-id="280012"
 									>
 										Fill-in-the-Blank Questions
@@ -307,12 +307,12 @@ const PageFive = props => {
 
 							<div
 								data-chaucer-element-id="4f3f6010-9ff5-4f8d-b1e6-c8bc35573fcf"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									title="interactive"
 									data-chaucer-element-id="1c241e2c-aa2b-475f-9094-04eac22260a1"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-fill_in_the_blank-02/index.html"
 									height="580"
 									width="770"
@@ -338,14 +338,14 @@ const PageFive = props => {
 							have gone through menopause no longer fear pregnancy or need to
 							use birth control (<a
 								data-chaucer-element-id="8b60622c-9f96-4af1-910f-9a3da63f6e35"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000583B"
 							>
 								Lamont, 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="c0f6a38b-03f8-43d7-ab15-4ac61b4aeb44"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000050DB"
 							>
 								DeLamater, 2012
@@ -366,7 +366,7 @@ const PageFive = props => {
 								testosterone
 							</i>, the male sex hormone (<a
 								data-chaucer-element-id="9c347be7-dcd3-44da-b692-71d1b622bf30"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005629"
 							>
 								Hyde &amp; Delameter, 2003
@@ -386,28 +386,28 @@ const PageFive = props => {
 							such as topical creams and testosterone patches, designed to
 							increase sexual pleasure (<a
 								data-chaucer-element-id="b769c889-8604-4506-983f-4b8db5150a53"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005863"
 							>
 								Laumann, Paik, &amp; Rosen, 1999
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="09d2bc3b-5d7b-471b-8175-a73e3c7a6510"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000052FD"
 							>
 								Freedman &amp; Ellison, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="27151897-d865-4b14-8956-fa3ef56a4b18"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005BAB"
 							>
 								Nappi &amp; Polatti, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="38a7b813-fd9c-45f0-b696-f9bec5623ff3"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006109"
 							>
 								Spring, 2015
@@ -419,12 +419,12 @@ const PageFive = props => {
 						data-chaucer-element-id="9ecbe554-a491-44cc-835f-291dda2e6868"
 						id="P7001013171000000000000000003D5E"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D5E"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="45b8c669-a6b9-4726-888b-3aa2ca805693">
 							<h1
 								data-chaucer-element-id="73d29c97-4100-4ea3-8fe8-86e935f5d85a"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013B7A"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B7A"
 							>
@@ -441,7 +441,7 @@ const PageFive = props => {
 							lasts for 15 to 20 years. The{' '}
 							<a
 								data-chaucer-element-id="8f8b7c1c-00b3-442b-928e-dc95e656d532"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000003D61"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D61"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000066B8"
@@ -459,7 +459,7 @@ const PageFive = props => {
 							The most notable sign of this transition is menopause.{' '}
 							<a
 								data-chaucer-element-id="29fb3b91-058e-4e59-bbf6-7ca25c39e19c"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000003D63"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D63"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000067CF"
@@ -483,7 +483,7 @@ const PageFive = props => {
 							woman can produce a pregnancy). In addition, estrogen and
 							progesterone levels—the female sex hormones—begin to drop (<a
 								data-chaucer-element-id="d30906d0-12d7-4c8f-a7bf-190d80961e88"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005FC7"
 							>
 								Schwenkhagen, 2007
@@ -516,21 +516,21 @@ const PageFive = props => {
 							severe distress during menopause. Many women—perhaps as many as
 							half—have no significant symptoms at all (<a
 								data-chaucer-element-id="f3089b70-1852-467d-a031-55b962a3ef74"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000543F"
 							>
 								Grady, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7ad4cb8d-93ba-4830-a01a-d4d44f42e96a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000565B"
 							>
 								Ishizuka, Kudo, &amp; Tango, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="be3fdd5d-e198-4ccf-a2a7-4d90f0eead32"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006175"
 							>
 								Strauss, 2013
@@ -552,21 +552,21 @@ const PageFive = props => {
 							in hormone levels, resulting in some of the same symptoms found in
 							menopause (<a
 								data-chaucer-element-id="0b38fff4-5925-43f8-b182-9f6b6ea02ae9"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000644F"
 							>
 								Winterich, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6d544662-4849-48d2-bc24-7e0187028894"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000602B"
 							>
 								Shea, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4bc65ab6-c958-4293-bb5b-72a37aa59e4c"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006045"
 							>
 								Shuster et al., 2010
@@ -588,12 +588,12 @@ const PageFive = props => {
 						data-chaucer-element-id="2b7e7f28-e71d-4c3a-a2cd-e92d6dcddb8c"
 						id="P7001013171000000000000000003D69"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D69"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="7651c0e8-bfa8-4800-b0c9-584379d44291">
 							<h1
 								data-chaucer-element-id="30b15d68-97e8-4bee-bcf2-45b4c6b9693e"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013B82"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B82"
 							>
@@ -604,7 +604,7 @@ const PageFive = props => {
 						<aside
 							data-chaucer-element-id="3360670b-cedd-4ae4-a085-5d9d4b50b371"
 							id="P7001013171000000000000000003D6B"
-							class="vignette"
+							className="vignette"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D6B"
 						>
 							<p
@@ -654,21 +654,21 @@ const PageFive = props => {
 							osteoporosis, which, as we discussed, becomes a problem for many
 							people in late adulthood (<a
 								data-chaucer-element-id="3e4feb01-a68d-41f9-904f-afe13fe58b69"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004B83"
 							>
 								Alexandersen, Karsdal, &amp; Christiansen, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="69648fe6-28ea-453b-975a-a1d0ee62df1f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000591D"
 							>
 								Lisabeth &amp; Bushnell, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="3f11a635-738d-4667-8280-68de093eeb11"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000520F"
 							>
 								Engler-Chiurazzi, Singh, &amp; Simpkins, 2016
@@ -685,21 +685,21 @@ const PageFive = props => {
 							cognitive performance in healthy women and reduce depression.
 							Finally, increased estrogen may lead to a greater sex drive (<a
 								data-chaucer-element-id="73c723e5-9913-4c5e-8c01-10bc6a63e0a5"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000505F"
 							>
 								Cumming et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4341c12c-5c27-4d87-a7df-8890ccf0ce46"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000536B"
 							>
 								Garcia-Portilla, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ffe181b9-b712-4775-a0fa-4423be54fca0"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005837"
 							>
 								Lambrinoudaki &amp; Pérez-López, 2013
@@ -724,7 +724,7 @@ const PageFive = props => {
 							stroke and pulmonary embolism were later found to be associated
 							with estrogen-alone therapy (<a
 								data-chaucer-element-id="4c608ef2-3cd8-4245-9e5e-86e7d3937063"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000592D"
 							>
 								Lobo, 2009
@@ -744,21 +744,21 @@ const PageFive = props => {
 							women in the United States were using HT in 2002; it was down to
 							20 percent a decade later (<a
 								data-chaucer-element-id="fc0971ca-3b1a-4498-8d6a-573cf1b85589"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005BF9"
 							>
 								Newton et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ac6eb611-f2e4-4144-a16e-68c9177cd934"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004F39"
 							>
 								Chelebowski et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="25d26852-0e74-4af3-94bc-57bb8375e9f3"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004CD3"
 							>
 								Beck, 2012
@@ -781,21 +781,21 @@ const PageFive = props => {
 							who are experiencing severe symptoms might still benefit from the
 							therapy, at least on a short-term basis (<a
 								data-chaucer-element-id="9dd15365-7453-4dce-8d1c-2ab7a21aeaaf"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005ECF"
 							>
 								Rossouw et al., 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="63bfc0b4-5e82-4357-ab5c-5824e9542809"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000058E1"
 							>
 								Lewis, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d2c77141-0239-4ce7-87d5-b424b86b13ea"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004CD3"
 							>
 								Beck, 2012
@@ -818,12 +818,12 @@ const PageFive = props => {
 						data-chaucer-element-id="c22197f6-1fd1-4b22-b166-67298d93df2b"
 						id="P7001013171000000000000000003D74"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D74"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="b5d3008f-5461-450d-9fa3-7b7b36a3c38c">
 							<h1
 								data-chaucer-element-id="3026d80e-5cdf-46ce-b332-e8987cb528d5"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013B8B"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B8B"
 							>
@@ -844,14 +844,14 @@ const PageFive = props => {
 							menopausal women’s bodies brought about such disagreeable outcomes
 							(<a
 								data-chaucer-element-id="973a3047-4009-47b2-982a-66bef2c4ef5b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060D7"
 							>
 								Soares &amp; Frey, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="bbb71f99-b6ae-432d-ad17-f5fb4ebaee84"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005A3B"
 							>
 								Mauas, Kopala-Sibley, &amp; Zuroff, 2014
@@ -868,21 +868,21 @@ const PageFive = props => {
 							psychological symptoms. Some women do experience psychological
 							difficulties, but they do so at other times in life as well (<a
 								data-chaucer-element-id="5d6e598b-dcdf-4b97-bc18-78269ffe37d4"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005301"
 							>
 								Freeman, Sammel, &amp; Liu, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6e5e6530-19bd-43fb-8937-499c247988ac"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060E1"
 							>
 								Somerset et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="9e3122a6-8ffb-4d37-aed0-c9d66ef86f32"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006491"
 							>
 								Wroolie &amp; Holcomb, 2010
@@ -902,21 +902,21 @@ const PageFive = props => {
 							symptoms, then, may affect her perception of menopause—and thus
 							her actual experience of the period (<a
 								data-chaucer-element-id="26657ff4-f5a6-4e9a-9c0c-d347c6a99f63"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004DFF"
 							>
 								Breheny &amp; Stephens, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="222155cf-0ac6-48e3-9240-34aaf8833748"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004CBD"
 							>
 								Bauld &amp; Brown, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="87b4244a-4944-4751-a59e-2a9395698004"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006173"
 							>
 								Strauss, 2011
@@ -927,18 +927,18 @@ const PageFive = props => {
 							data-chaucer-element-id="06eee56e-94bb-402c-abee-beefe1a12130"
 							id="P7001013171000000000000000003D79"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D79"
-							class="sidebar sidebar_4"
+							className="sidebar sidebar_4"
 						>
 							<header data-chaucer-element-id="4906a994-1c9d-40ce-a828-bb96acf16b05">
 								<h1
 									data-chaucer-element-id="80a86aee-eae0-4040-9422-05ad5eae53f7"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013B8F"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B8F"
 								>
 									<span
 										data-chaucer-element-id="8bd63c75-04f1-4249-91a5-519248581f4f"
-										class="label"
+										className="label"
 									>
 										From the perspective of a healthcare provider:
 									</span>
@@ -960,12 +960,12 @@ const PageFive = props => {
 						data-chaucer-element-id="588356dc-ce6b-43b0-95f8-45b3054134ee"
 						id="P7001013171000000000000000003D7F"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D7F"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="84459de2-2bf9-40b1-a8a7-69be6455b042">
 							<h1
 								data-chaucer-element-id="f6f362d6-4ef7-4db8-8050-ef2b58708cf4"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013B94"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B94"
 							>
@@ -984,7 +984,7 @@ const PageFive = props => {
 							referred to as the male climacteric. The{' '}
 							<a
 								data-chaucer-element-id="dbf41fd4-21b6-41eb-9a36-6037d02e5f59"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000003D82"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D82"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000067C3"
@@ -1036,21 +1036,21 @@ const PageFive = props => {
 							becomes more common. Drugs such as Viagra®, Levitra®, and Cialis®,
 							often prove an effective treatment (<a
 								data-chaucer-element-id="c60646a9-1280-4ce4-9562-d0e36b526b02"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004B33"
 							>
 								Abdo et al., 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="735780fe-6243-4a7c-a8a1-657cfcda94ce"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000600F"
 							>
 								Shamloul &amp; Ghanem, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4e62025b-bca4-4594-932f-aec518c33548"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000053DF"
 							>
 								Glina, Cohen, &amp; Vieira, 2014
@@ -1059,7 +1059,7 @@ const PageFive = props => {
 					</section>
 
 					<div
-						class="knowledge-check"
+						className="knowledge-check"
 						data-alignment-id=""
 						id="urn:pearson:educationalgoal:9c7a796d-9848-4898-832f-91c492bfa905"
 					/>

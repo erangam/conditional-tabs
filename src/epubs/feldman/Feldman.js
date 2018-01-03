@@ -2,6 +2,7 @@ import React from 'react';
 import { HashRouter, Route, Switch } from 'react-router-dom';
 import NavControls from './NavControls';
 
+import References from './References';
 import Page_1 from './chapter-eight/Page_1';
 import Page_2 from './chapter-eight/Page_2';
 import Page_3 from './chapter-eight/Page_3';
@@ -31,6 +32,10 @@ import '../../assets/css/epub.css';
 import '../../../node_modules/animate.css';
 
 const routes = [
+	{
+		path: '/reference',
+		component: References
+	},
 	{
 		path: '/chapter-eight/1',
 		component: Page_1
@@ -134,6 +139,7 @@ const FeldmanRoutes = routes.map((route, i) => {
 });
 
 const FeldmanRoute = props => {
+	console.log(props);
 	return (
 		<HashRouter basename={'/feldman'}>
 			<div>
@@ -159,6 +165,7 @@ const Feldman = props => {
 					currentPath={props.history.location.pathname}
 					hash={props.location.hash}
 					query={props.location.search}
+					dave={'odey'}
 				/>
 			</div>
 		</div>

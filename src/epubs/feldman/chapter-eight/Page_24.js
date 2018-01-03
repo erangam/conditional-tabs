@@ -15,32 +15,32 @@ const PageTwentyFour = props => {
 				<section
 					data-chaucer-element-id="94fd646f-4e29-4784-ab9f-a7368c65df86"
 					id="P70010131710000000000000000041CE"
-					class="conclusion level1"
+					className="conclusion level1"
 					data-chaucer-note-id="336620"
 				>
 					<header data-chaucer-element-id="1d95b0fa-49df-4102-8c64-55cf48421f1f">
 						<h1
 							data-chaucer-element-id="190e3519-d196-4b64-9dfc-90e136f8f0fe"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013EF8"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013EF8"
 						>
 							<span
 								data-chaucer-element-id="0c5ca011-a82c-46e1-9682-268f7cb5d0da"
-								class="label"
+								className="label"
 							>
 								Summary{' '}
 							</span>
 							<span
 								data-chaucer-element-id="9bff104f-572a-4e38-9517-8dde8dea25d0"
-								class="number"
+								className="number"
 							>
 								8{' '}
 							</span>
 							<br data-chaucer-element-id="b3ccad32-5613-4397-a824-1d72b7e01830" />
 							<span
 								data-chaucer-element-id="ce463916-eb58-4aa8-8601-edbd920b9d5d"
-								class="label"
+								className="label"
 							>
 								Putting It All Together: Middle Adulthood{' '}
 							</span>
@@ -55,11 +55,11 @@ const PageTwentyFour = props => {
 					/>
 					<section
 						data-is-assessment="true"
-						class="lc_embedded_quiz practice level2 card"
+						className="lc_embedded_quiz practice level2 card"
 					>
 						<div
 							id="journal1-cntr"
-							class="brix"
+							className="brix"
 							data-brix-chapter-for-fallback="8: Middle Adulthood"
 							data-brix-assignment-for-fallback="Journal for LO 8.2"
 							data-assignmenturl="http://repo.paf.pearsoncmg.com/paf-repo/resources/activities/7e57d7f0-d16d-4a7a-aaa5-fb15002bf5d6"
@@ -76,11 +76,11 @@ const PageTwentyFour = props => {
 					/>
 					<section
 						data-is-assessment="true"
-						class="lc_embedded_quiz practice level2 card"
+						className="lc_embedded_quiz practice level2 card"
 					>
 						<div
 							id="journal1-cntr"
-							class="brix"
+							className="brix"
 							data-brix-chapter-for-fallback="8: Middle Adulthood"
 							data-brix-assignment-for-fallback="Journal for LO 8.3"
 							data-assignmenturl="http://repo.paf.pearsoncmg.com/paf-repo/resources/activities/7cc77085-2555-4025-a264-bded136f6800"
@@ -97,11 +97,11 @@ const PageTwentyFour = props => {
 					/>
 					<section
 						data-is-assessment="true"
-						class="lc_embedded_quiz practice level2 card"
+						className="lc_embedded_quiz practice level2 card"
 					>
 						<div
 							id="journal1-cntr"
-							class="brix"
+							className="brix"
 							data-brix-chapter-for-fallback="8: Middle Adulthood"
 							data-brix-assignment-for-fallback="Journal for LO 8.6"
 							data-assignmenturl="http://repo.paf.pearsoncmg.com/paf-repo/resources/activities/eff3ebc9-4066-4e06-9c2b-0c72875fef76"
@@ -119,7 +119,7 @@ const PageTwentyFour = props => {
 					>
 						<span
 							data-chaucer-element-id="20613ab1-202f-4b40-8cdb-6e0749da9382"
-							class="leadin"
+							className="leadin"
 						>
 							TERRI DONOVAN
 						</span>, at 50, found the free time that had eluded her for several
@@ -137,7 +137,7 @@ const PageTwentyFour = props => {
 					</p>
 					<figure
 						data-chaucer-element-id="28cbf969-736d-443d-b9ce-fcac859b5aec"
-						class="informalfigure lc_img33"
+						className="informalfigure lc_img33"
 					>
 						<img
 							data-chaucer-element-id="d6732c2d-fed0-4c1d-8316-8cfeff01d9cf"
@@ -153,24 +153,24 @@ const PageTwentyFour = props => {
 					<section
 						data-chaucer-element-id="28e66372-eb30-4132-9eec-77de88a7cfc6"
 						id="P70010131710000000000000000041D3"
-						class="level2"
+						className="level2"
 					>
 						<header data-chaucer-element-id="6478bd47-62a6-4993-96d2-fb467b5c523d">
 							<h1
 								data-chaucer-element-id="93faee46-5f45-4d63-914e-fb947670ab7c"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013EFC"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013EFC"
 							>
 								<span
 									data-chaucer-element-id="be7aeb96-2e62-43e6-93cb-49d6f33b407d"
-									class="label"
+									className="label"
 								>
 									Module{' '}
 								</span>
 								<span
 									data-chaucer-element-id="ca90a430-d7e3-4008-a9b0-6bae3df0ca08"
-									class="number"
+									className="number"
 								>
 									8.1{' '}
 								</span>
@@ -250,24 +250,24 @@ const PageTwentyFour = props => {
 						<section
 							data-chaucer-element-id="9790770f-7f4b-4402-9664-1c347a9017a3"
 							id="P70010131710000000000000000041DE"
-							class="level2"
+							className="level2"
 						>
 							<header data-chaucer-element-id="cb33cc75-b412-4325-9b34-e215f1253563">
 								<h1
 									data-chaucer-element-id="9691c2eb-3ddb-48f8-9f8c-53e47cb4524e"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013F05"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013F05"
 								>
 									<span
 										data-chaucer-element-id="c434ae91-6466-46ba-ae31-732827614e35"
-										class="label"
+										className="label"
 									>
 										Module{' '}
 									</span>
 									<span
 										data-chaucer-element-id="fbfe4705-5241-4cfe-b85c-d69841e83c4e"
-										class="number"
+										className="number"
 									>
 										8.2{' '}
 									</span>
@@ -331,24 +331,24 @@ const PageTwentyFour = props => {
 							<section
 								data-chaucer-element-id="135e7650-88d4-48c3-af7d-fcdd91c3d8e8"
 								id="P70010131710000000000000000041E7"
-								class="level2"
+								className="level2"
 							>
 								<header data-chaucer-element-id="c69dc2cb-c590-42c0-991f-36e6244e602f">
 									<h1
 										data-chaucer-element-id="f923df39-b4a0-4338-aab9-5bf7359ebbda"
-										class="title"
+										className="title"
 										id="P7001013171000000000000000013F0C"
 										data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013F0C"
 									>
 										<span
 											data-chaucer-element-id="23727261-3a42-436f-9746-d88d65c2b620"
-											class="label"
+											className="label"
 										>
 											Module{' '}
 										</span>
 										<span
 											data-chaucer-element-id="9e098f55-be01-448f-9895-39cbc0e3a906"
-											class="number"
+											className="number"
 										>
 											8.3{' '}
 										</span>
@@ -415,18 +415,18 @@ const PageTwentyFour = props => {
 									data-chaucer-element-id="93c33d6c-fb04-4539-9383-453f0c6c2222"
 									id="P70010131710000000000000000041F0"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000041F0"
-									class="level3"
+									className="level3"
 								>
 									<header data-chaucer-element-id="f17967c6-bf7c-44b1-b939-7079feda4038">
 										<h1
 											data-chaucer-element-id="f62e6975-ba02-4d28-bfbb-f31315d1fab3"
-											class="title"
+											className="title"
 											id="P7001013171000000000000000013F13"
 											data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013F13"
 										>
 											<span
 												data-chaucer-element-id="8e9e65a2-4df5-4bda-98af-ab197e79d4f8"
-												class="label"
+												className="label"
 											>
 												What would YOU do?{' '}
 											</span>
@@ -434,7 +434,7 @@ const PageTwentyFour = props => {
 									</header>
 									<figure
 										data-chaucer-element-id="a1c34a09-eac0-4610-af13-d194d0edb4d8"
-										class="informalfigure lc_img33"
+										className="informalfigure lc_img33"
 									>
 										<img
 											data-chaucer-element-id="f10bcaeb-8eb5-44e7-87e4-eb6a55a90309"
@@ -460,18 +460,18 @@ const PageTwentyFour = props => {
 									data-chaucer-element-id="c40b080f-cbbc-4c04-9eeb-6f7b36b5dee8"
 									id="P70010131710000000000000000041F8"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000041F8"
-									class="level3"
+									className="level3"
 								>
 									<header data-chaucer-element-id="2ca85fc1-ee52-4c8b-8b8c-1e1a595dbc90">
 										<h1
 											data-chaucer-element-id="4348042d-a06a-4dcb-941a-d97dbb86360a"
-											class="title"
+											className="title"
 											id="P7001013171000000000000000013F18"
 											data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013F18"
 										>
 											<span
 												data-chaucer-element-id="869f04bd-dc9e-4f5b-94e9-f7aa5a85a630"
-												class="label"
+												className="label"
 											>
 												What would a MARRIAGE COUNSELOR do?{' '}
 											</span>
@@ -479,7 +479,7 @@ const PageTwentyFour = props => {
 									</header>
 									<figure
 										data-chaucer-element-id="c7baf36a-ee8c-4451-974a-45d2edbad171"
-										class="informalfigure lc_img33"
+										className="informalfigure lc_img33"
 									>
 										<img
 											data-chaucer-element-id="6ef55ae5-d5c9-4840-bc36-517ddc55be9e"
@@ -505,7 +505,7 @@ const PageTwentyFour = props => {
 									</p>
 									<aside
 										data-chaucer-element-id="e3abd889-8213-4581-89f3-01a3464b8027"
-										class="marginalia"
+										className="marginalia"
 									>
 										<a
 											data-chaucer-element-id="2b57cb1e-5509-4e9c-92c9-b15531189701"
@@ -514,7 +514,7 @@ const PageTwentyFour = props => {
 											<p data-chaucer-element-id="bb52a966-74c3-45ab-80b6-462abbf66507">
 												<span
 													data-chaucer-element-id="614cb0f0-8d4e-44f4-86be-d24d5634a5e9"
-													class="design-icon design-icon_2"
+													className="design-icon design-icon_2"
 												>
 													View Sample Answer
 												</span>
@@ -526,18 +526,18 @@ const PageTwentyFour = props => {
 									data-chaucer-element-id="0202f17e-dedb-4c30-9e77-511a8fa71153"
 									id="P7001013171000000000000000004202"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004202"
-									class="level3"
+									className="level3"
 								>
 									<header data-chaucer-element-id="987f6896-9d2f-47ba-a474-7e758a09b1f8">
 										<h1
 											data-chaucer-element-id="e047a2e1-1107-4bbb-8809-10e1044c6d0e"
-											class="title"
+											className="title"
 											id="P7001013171000000000000000013F1F"
 											data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013F1F"
 										>
 											<span
 												data-chaucer-element-id="550af01c-e33e-4e02-9b58-daa81c26ce4f"
-												class="label"
+												className="label"
 											>
 												What would a HEALTHCARE PROVIDER do?{' '}
 											</span>
@@ -545,7 +545,7 @@ const PageTwentyFour = props => {
 									</header>
 									<figure
 										data-chaucer-element-id="270d9835-69d9-4e18-9428-7fd10186bf10"
-										class="informalfigure lc_img33"
+										className="informalfigure lc_img33"
 									>
 										<img
 											data-chaucer-element-id="0a2151da-af62-4219-aa91-ac5e7b055de7"
@@ -570,7 +570,7 @@ const PageTwentyFour = props => {
 									</p>
 									<aside
 										data-chaucer-element-id="309ce650-59af-4c32-a49b-ed3e3ff927ad"
-										class="marginalia"
+										className="marginalia"
 									>
 										<a
 											data-chaucer-element-id="0137638c-bd80-466f-925b-c4b97f1c5a7a"
@@ -579,7 +579,7 @@ const PageTwentyFour = props => {
 											<p data-chaucer-element-id="b1f7454d-a7ec-4842-86e2-23646932d402">
 												<span
 													data-chaucer-element-id="539ee52f-a81d-4427-9e0f-e0f189d9a4ec"
-													class="design-icon design-icon_2"
+													className="design-icon design-icon_2"
 												>
 													View Sample Answer
 												</span>
@@ -591,19 +591,19 @@ const PageTwentyFour = props => {
 									data-chaucer-element-id="90601094-933c-4a4b-908e-830204bc7bf2"
 									id="P700101317100000000000000000420C"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000420C"
-									class="level3"
+									className="level3"
 									data-chaucer-note-id="273806"
 								>
 									<header data-chaucer-element-id="cfb62eed-aa3b-460b-8802-6007936e5ef1">
 										<h1
 											data-chaucer-element-id="9dcb55d7-55c1-4eec-a0dd-0ae78e769053"
-											class="title"
+											className="title"
 											id="P7001013171000000000000000013F26"
 											data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013F26"
 										>
 											<span
 												data-chaucer-element-id="4ccbafa1-39ef-44a6-b69a-d6184484130e"
-												class="label"
+												className="label"
 											>
 												What would a CAREER COUNSELOR do?{' '}
 											</span>
@@ -611,7 +611,7 @@ const PageTwentyFour = props => {
 									</header>
 									<figure
 										data-chaucer-element-id="0fac32bc-40ea-4a57-bdfb-422cc12065ea"
-										class="informalfigure lc_img33"
+										className="informalfigure lc_img33"
 									>
 										<img
 											data-chaucer-element-id="697929dc-397b-4999-a813-a3b1994820c8"
@@ -637,7 +637,7 @@ const PageTwentyFour = props => {
 									</p>
 									<aside
 										data-chaucer-element-id="05063801-e746-450f-bde8-bc4f0832b91d"
-										class="marginalia"
+										className="marginalia"
 									>
 										<a
 											data-chaucer-element-id="f93e910a-b77c-440c-b102-4d8fe7039a8d"
@@ -646,7 +646,7 @@ const PageTwentyFour = props => {
 											<p data-chaucer-element-id="8d07a8c8-3859-4c1a-a4ad-c3a4232db05e">
 												<span
 													data-chaucer-element-id="d581a35a-1934-4784-ad62-27891e3409f4"
-													class="design-icon design-icon_2"
+													className="design-icon design-icon_2"
 												>
 													View Sample Answer
 												</span>
@@ -656,23 +656,23 @@ const PageTwentyFour = props => {
 
 									<figure
 										data-chaucer-element-id="b0b8a238-cfdb-4be9-98ec-055f0aab2170"
-										class="video"
+										className="video"
 									>
 										<header data-chaucer-element-id="ccb1c09d-f9af-4240-956b-292d7901125d">
 											<h1
 												data-chaucer-element-id="195cdd67-0cee-4068-8018-e2341d8c8803"
-												class="title"
+												className="title"
 											>
 												<span
 													data-chaucer-element-id="75036f99-30e5-4dd9-a45a-8729bc7f5073"
-													class="label"
+													className="label"
 												>
 													Watch
 												</span>
 											</h1>
 											<p
 												data-chaucer-element-id="a905a546-dca3-47e8-84ad-f8ccfba451c8"
-												class="subtitle"
+												className="subtitle"
 											>
 												Student Interview: Middle Adulthood
 											</p>
@@ -680,17 +680,17 @@ const PageTwentyFour = props => {
 
 										<div
 											data-chaucer-element-id="c58a1a08-8f0e-4cee-b795-3881166e2bb8"
-											class="lc_ec_videoinner"
+											className="lc_ec_videoinner"
 										>
 											<iframe
 												title="video"
 												data-chaucer-element-id="39b06944-e007-422e-b181-4f30f7dacc5a"
 												id="player1"
 												name="player1"
-												class="__embedpearsonvideoplayer__"
+												className="__embedpearsonvideoplayer__"
 												src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_057_job_burnout"
 												scrolling="no"
-												allowfullscreen="yes"
+												allowFullScreen="yes"
 												width="640"
 												height="480"
 												seamless="seamless"
@@ -700,16 +700,16 @@ const PageTwentyFour = props => {
 
 									<figure
 										data-chaucer-element-id="d698cb19-2c04-4e1e-b21d-7ec4b0d3e497"
-										class="gadget"
+										className="gadget"
 									>
 										<header data-chaucer-element-id="7f422cf9-00c7-421a-964f-623404a153e5">
 											<h1
 												data-chaucer-element-id="80a14549-9f7c-4509-a5bb-916478351af2"
-												class="title"
+												className="title"
 											>
 												<span
 													data-chaucer-element-id="98759844-ba07-47fd-a934-b27dab076afd"
-													class="label"
+													className="label"
 												>
 													Key Terms
 												</span>
@@ -717,11 +717,11 @@ const PageTwentyFour = props => {
 										</header>
 										<div
 											data-chaucer-element-id="05816afa-8267-4896-b8bf-74768885ef07"
-											class="lc_iframeinner"
+											className="lc_iframeinner"
 										>
 											<iframe
 												data-chaucer-element-id="8761bf5d-a652-4adc-a3a8-2d066e6025c7"
-												class="gadget"
+												className="gadget"
 												src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-advanced_flashcards_v3-01/index.html"
 												height="580"
 												width="770"
@@ -739,17 +739,17 @@ const PageTwentyFour = props => {
 
 									<figure
 										data-chaucer-element-id="3e56d6dd-29bb-44a7-adaf-39362e2d5c9b"
-										class="gadget"
+										className="gadget"
 									>
 										<header data-chaucer-element-id="9cc119e6-a9fb-443c-bcda-2a5705f0884f">
 											<h1
 												data-chaucer-element-id="2e73bbc1-c39c-4c8d-aeb9-a40121d45eb2"
-												class="title"
+												className="title"
 												data-chaucer-note-id="269181"
 											>
 												<span
 													data-chaucer-element-id="b6d40a9c-5987-4718-b037-9f00f9c4dc6b"
-													class="label"
+													className="label"
 													data-chaucer-note-id="273804"
 												>
 													Timeline
@@ -758,11 +758,11 @@ const PageTwentyFour = props => {
 										</header>
 										<div
 											data-chaucer-element-id="0568c579-e531-4ec4-b87b-7f83cc9031b9"
-											class="lc_iframeinner"
+											className="lc_iframeinner"
 										>
 											<iframe
 												data-chaucer-element-id="b8db9ad5-8162-4f07-9866-0048d2f480e3"
-												class="gadget"
+												className="gadget"
 												src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch04-tabs_accordions_v2-05/index.html"
 												height="660"
 												width="770"

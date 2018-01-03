@@ -10,13 +10,13 @@ const PageFourteen = props => {
 				<section
 					data-chaucer-element-id="88d2f2de-ee8b-4922-bafc-fcdc1734a4ed"
 					id="P7001013171000000000000000003F82"
-					class="level1"
+					className="level1"
 					data-chaucer-note-id="329201"
 				>
 					<header data-chaucer-element-id="83b459f6-57e7-413b-aeef-28c440142a90">
 						<h1
 							data-chaucer-element-id="f6e37c2c-edc4-4c95-acf2-44e0c9b98f04"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013D2B"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D2B"
 						>
@@ -24,13 +24,13 @@ const PageFourteen = props => {
 						</h1>
 					</header>
 
-					<section class="objectiveset">
-						<ol class="objectivelist dynamiclist">
-							<li class="objective">
+					<section className="objectiveset">
+						<ol className="objectivelist dynamiclist">
+							<li className="objective">
 								<p>
-									<span class="lc_labelnum">
-										<span class="label">LO</span>{' '}
-										<span class="number">8.6</span>
+									<span className="lc_labelnum">
+										<span className="label">LO</span>{' '}
+										<span className="number">8.6</span>
 									</span>{' '}
 									Analyze personality development in middle adulthood.
 								</p>
@@ -42,7 +42,7 @@ const PageFourteen = props => {
 					<aside
 						data-chaucer-element-id="98bb7228-083d-420e-9629-43ac0619b192"
 						id="P7001013171000000000000000003F84"
-						class="vignette"
+						className="vignette"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F84"
 					>
 						<p
@@ -69,7 +69,7 @@ const PageFourteen = props => {
 					</aside>
 					<figure
 						data-chaucer-element-id="39ffe95b-834a-43b5-ac95-b0020f2df96e"
-						class="informalfigure lc_img33"
+						className="informalfigure lc_img33"
 					>
 						<img
 							data-chaucer-element-id="09c919ba-d430-4ae1-a983-ef5451c2d35b"

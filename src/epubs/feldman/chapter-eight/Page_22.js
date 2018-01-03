@@ -12,12 +12,12 @@ const PageTwentyTwo = props => {
 					data-chaucer-element-id="70ee97f8-3211-4c75-861e-6ec3430eff7f"
 					id="P7001013171000000000000000004101"
 					data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004101"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="681f50b7-3205-42db-a52b-4248073d0fe9">
 						<h1
 							data-chaucer-element-id="0ad6c222-54ba-48c6-a952-398234c74265"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013E64"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E64"
 						>
@@ -39,14 +39,14 @@ const PageTwentyTwo = props => {
 						family and other off-the-job interests become more important than
 						work (<a
 							data-chaucer-element-id="3444c085-6c25-40bc-8ff6-eacc5cea62a3"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000055D7"
 						>
 							Howard, 1992
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="ad25ada6-6687-4cdc-a210-b4bbabc90c6f"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000606F"
 						>
 							Simonton, 1997
@@ -56,12 +56,12 @@ const PageTwentyTwo = props => {
 						data-chaucer-element-id="45db719a-0df8-4b7a-9a0a-48404ca63cb6"
 						id="P7001013171000000000000000004108"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004108"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="f422eb9b-99fa-4b30-8d02-a60e6ef74d25">
 							<h1
 								data-chaucer-element-id="58c044fb-f1b4-43cb-a0d5-cbdbbfd6e9f9"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E67"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E67"
 							>
@@ -83,28 +83,28 @@ const PageTwentyTwo = props => {
 							changes in overall job quality are associated with changes in
 							stress levels for both men and women (<a
 								data-chaucer-element-id="159b4f5e-f326-4854-81af-a31ba2d5be2a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005D33"
 							>
 								Peterson &amp; Wilson, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="32c7c1e6-44f7-461f-9d66-7298c1a7d3cc"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004FAD"
 							>
 								Cohrs, Abele, &amp; Dette, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ccd1e33a-fbfe-4c7a-87e7-fa128acd4ea8"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E01"
 							>
 								Rantanen et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="3e265d6f-3601-4539-8db4-796624922842"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000054DD"
 							>
 								Hamlet &amp; Herrick, 2014
@@ -125,7 +125,7 @@ const PageTwentyTwo = props => {
 							likely to get. Such acceptance may ultimately translate into
 							satisfaction (<a
 								data-chaucer-element-id="f8c14f6e-0ad2-4cfc-84dd-9c293661544d"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000061CF"
 							>
 								Tangri, Thomas, &amp; Mednick, 2003
@@ -136,12 +136,12 @@ const PageTwentyTwo = props => {
 						data-chaucer-element-id="19c461f4-94d1-44e8-9bf5-80cde60b8ddf"
 						id="P700101317100000000000000000410C"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000410C"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="86ba4d87-22ae-4dad-8380-21a6a5e933bc">
 							<h1
 								data-chaucer-element-id="be68edcf-5880-418b-a995-917f10518948"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E6A"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E6A"
 							>
@@ -162,7 +162,7 @@ const PageTwentyTwo = props => {
 						<aside
 							data-chaucer-element-id="ef977f82-3f04-45f4-bc2e-f1ee2a91f7ad"
 							id="P700101317100000000000000000410F"
-							class="vignette"
+							className="vignette"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000410F"
 						>
 							<p
@@ -190,7 +190,7 @@ const PageTwentyTwo = props => {
 							Augarten’s response probably reflects the phenomenon of burnout.{' '}
 							<a
 								data-chaucer-element-id="3bcd7f26-07ff-41bc-8760-8dddc5e169e0"
-								class="keyword"
+								className="keyword"
 								id="P7001013171000000000000000004112"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004112"
 								href="bm01_pg0001.xhtml#P70010131710000000000000000065C6"
@@ -205,28 +205,28 @@ const PageTwentyTwo = props => {
 							can make only minor dents in huge social problems such as poverty
 							and medical care can be disappointing and demoralizing (<a
 								data-chaucer-element-id="1a7518c3-2c88-459f-9948-f9f7343e61c8"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000061DD"
 							>
 								Taris, van Horn, &amp; Schaufeli, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e4c60108-6354-48b3-be8d-8bc1fedba77f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004C75"
 							>
 								Bakker &amp; Heuven, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="f20a0a00-9527-46dd-8ac2-beefafdef391"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000519D"
 							>
 								Dunford et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="116962f3-efb7-4dbc-9c11-d07f16a86bd3"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005ECB"
 							>
 								Rössler et al., 2015
@@ -235,7 +235,7 @@ const PageTwentyTwo = props => {
 						<figure
 							data-chaucer-element-id="55b1762b-2360-4b3e-bb05-8bcf6deb320b"
 							id="P7001013171000000000000000004113"
-							class="informalfigure"
+							className="informalfigure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004113"
 						>
 							<img
@@ -254,7 +254,7 @@ const PageTwentyTwo = props => {
 							>
 								<div
 									data-chaucer-element-id="fc9308cc-2a81-49f9-bba1-5a7f2acac66d"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013E70"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E70"
 								>
@@ -288,7 +288,7 @@ const PageTwentyTwo = props => {
 							give way to pessimism and the attitude that no meaningful solution
 							to a problem exists (<a
 								data-chaucer-element-id="c3e07b63-cc02-409d-ad6d-1dd89943c6b1"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000592F"
 							>
 								Lock, 1992
@@ -312,28 +312,28 @@ const PageTwentyTwo = props => {
 							look gloomy. In addition, it is important to mentally disengage
 							from work during leisure time (<a
 								data-chaucer-element-id="0eb9a292-702e-4d06-98c2-354134f4b2e8"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000050BF"
 							>
 								de Jonge et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a16cd238-5798-4c66-acd5-0084d88b365a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000060E7"
 							>
 								Sonnentag, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="41da3880-9ab6-4aab-a1f1-a13716865588"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004C61"
 							>
 								Bährer-Kohler, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7fd7988d-8e38-43b6-8bb7-7d306ad39f36"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000504D"
 							>
 								Crowe, 2016
@@ -341,23 +341,23 @@ const PageTwentyTwo = props => {
 						</p>
 						<figure
 							data-chaucer-element-id="fe832786-07a7-4aa7-9aba-bc8e015483ad"
-							class="video"
+							className="video"
 						>
 							<header data-chaucer-element-id="018ecd1b-cd4e-4952-8c03-c45a2c52d5d5">
 								<h1
 									data-chaucer-element-id="77f4e1dc-bc36-4857-9baa-3d9b39b98eb6"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="a4493eca-db4e-4ac0-a10b-80dcb0a6d0ca"
-										class="label"
+										className="label"
 									>
 										Watch
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="23ffb743-8bb4-40b4-abaf-8bdaf3b3cebf"
-									class="subtitle"
+									className="subtitle"
 								>
 									Job Burnout
 								</p>
@@ -365,17 +365,17 @@ const PageTwentyTwo = props => {
 
 							<div
 								data-chaucer-element-id="23c3af50-8519-4478-a810-2d4fb7446076"
-								class="lc_ec_videoinner"
+								className="lc_ec_videoinner"
 							>
 								<iframe
 									title="video"
 									data-chaucer-element-id="5afc4596-42a6-4524-b669-2ee942329cb0"
 									id="player1"
 									name="player1"
-									class="__embedpearsonvideoplayer__"
+									className="__embedpearsonvideoplayer__"
 									src="https://mediaplayer.pearsoncmg.com/assets/_video.true/mypsychlab-2016-feldman4e_0134531868-job_burnout"
 									scrolling="no"
-									allowfullscreen="yes"
+									allowFullScreen="yes"
 									width="640"
 									height="480"
 									seamless="seamless"
@@ -387,12 +387,12 @@ const PageTwentyTwo = props => {
 						data-chaucer-element-id="8eefd96d-b003-4984-adce-e55bcc233fe6"
 						id="P7001013171000000000000000004124"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004124"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="85a709a6-4d1f-434e-b65c-37569c4aa679">
 							<h1
 								data-chaucer-element-id="6dd2ccee-7a86-46c3-94e9-aa3b07b8cf21"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E7E"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E7E"
 							>
@@ -410,7 +410,7 @@ const PageTwentyTwo = props => {
 							technological advances, being out of work can be psychologically
 							and even physically devastating (<a
 								data-chaucer-element-id="4d764c17-da57-4df1-86e2-8529927e5b03"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006019"
 							>
 								Sharf, 1992
@@ -428,21 +428,21 @@ const PageTwentyTwo = props => {
 							suicide, and admissions to psychiatric facilities go up by some 4
 							percent for men and 2 percent for women (<a
 								data-chaucer-element-id="68979774-775d-4071-8a12-8732461e1be3"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004FEF"
 							>
 								Connor, 1992
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="34c2eb52-4c59-4fd6-a428-03cec62566b7"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005647"
 							>
 								Inoue et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="fd476a4f-b2f2-4d0a-b0ac-d2959d508575"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005CF3"
 							>
 								Paul &amp; Moser, 2009
@@ -460,14 +460,14 @@ const PageTwentyTwo = props => {
 							employed people. They are more likely to be late for appointments
 							and even for meals (<a
 								data-chaucer-element-id="20c6f411-90fc-4d5b-979c-d864e0251f40"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004C7F"
 							>
 								Ball &amp; Orford, 2002
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="89896fd5-cebb-479b-b7e4-c0f06ff0ad5a"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000062B1"
 							>
 								Tyre &amp; McGinn, 2003
@@ -487,7 +487,7 @@ const PageTwentyTwo = props => {
 							fewer work days, hold their jobs longer, are more reliable, and
 							are more willing to learn new skills (<a
 								data-chaucer-element-id="4d96be43-9364-4c11-ac06-f8db0490fd78"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004FEF"
 							>
 								Connor, 1992
@@ -509,14 +509,14 @@ const PageTwentyTwo = props => {
 							</i>{' '}
 							find a new career, too (<a
 								data-chaucer-element-id="d662b22b-bd55-4d01-a17e-068470b3f194"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000063B9"
 							>
 								Waters &amp; Moore, 2002
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b4516265-a0d7-49e8-a903-f06594fca3f0"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005D09"
 							>
 								Pelzer, Schaffrath, &amp; Vernaleken, 2014
@@ -525,7 +525,7 @@ const PageTwentyTwo = props => {
 						<figure
 							data-chaucer-element-id="892c9554-813a-4a6e-8cce-f17ad149ed8e"
 							id="P700101317100000000000000000412B"
-							class="informalfigure"
+							className="informalfigure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000412B"
 						>
 							<img
@@ -544,7 +544,7 @@ const PageTwentyTwo = props => {
 							>
 								<div
 									data-chaucer-element-id="2136f0d2-eb43-4057-9a19-9e0760f42910"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013E86"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E86"
 								>
@@ -569,12 +569,12 @@ const PageTwentyTwo = props => {
 						data-chaucer-element-id="4a48f9b7-abd8-4977-8077-c4fb64306a10"
 						id="P7001013171000000000000000004131"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004131"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="d65bef6e-939d-4b13-a9cb-ad02dc7fe7a4">
 							<h1
 								data-chaucer-element-id="37fe43b0-7322-496d-b14f-589d8aa32177"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E89"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E89"
 							>
@@ -639,14 +639,14 @@ const PageTwentyTwo = props => {
 							entry-level positions. Thus, their peers on the job may be
 							considerably younger than they are (<a
 								data-chaucer-element-id="433bec3c-c432-49d2-bccc-0b65724d852b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006019"
 							>
 								Sharf, 1992
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="09101aa4-c139-4b0f-a9a9-45ae242c247d"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004CA7"
 							>
 								Barnett &amp; Hyde, 2001
@@ -661,21 +661,21 @@ const PageTwentyTwo = props => {
 							invigorating. Those who switch or begin new careers may be
 							especially valued employees (<a
 								data-chaucer-element-id="e2e84833-28e1-4efe-b8b8-4e6214c9d582"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004E19"
 							>
 								Bromberger &amp; Matthews, 1994
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7177d5b6-9b7b-43c8-b4a1-f48777f10a74"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005C99"
 							>
 								Otto, Dette-Hagenmeyer, &amp; Dalbert, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="23c6e7a4-d63a-4dae-8c52-360c14d8278c"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005267"
 							>
 								Feldman &amp; Ng, 2013
@@ -702,26 +702,26 @@ const PageTwentyTwo = props => {
 						<aside
 							data-chaucer-element-id="81cc228e-0058-464d-b207-83ac2e747936"
 							id="P7001013171000000000000000004140"
-							class="sidebar sidebar_1"
+							className="sidebar sidebar_1"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004140"
 						>
 							<header data-chaucer-element-id="12ae2d8e-c4dd-45b2-b6ba-ccb665b697ba">
 								<h1
 									data-chaucer-element-id="cce3690d-d0e6-467f-a0f3-0578bbe8befd"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013E96"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E96"
 								>
 									<span
 										data-chaucer-element-id="0bab8f32-0a7b-4dcf-8148-ce6b10dd2cdc"
-										class="label"
+										className="label"
 									>
 										Cultural Dimensions{' '}
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="a6e883c4-1b1f-4d67-a8f0-11f71f2654ef"
-									class="subtitle"
+									className="subtitle"
 								>
 									Immigrants on the Job: Making It in America
 								</p>
@@ -763,7 +763,7 @@ const PageTwentyTwo = props => {
 								</i>
 								<a
 									data-chaucer-element-id="a3804828-2784-412f-b194-d5102a028322"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000005771"
 								>
 									Kim, 1995
@@ -784,25 +784,25 @@ const PageTwentyTwo = props => {
 								the population of the United States (see{' '}
 								<a
 									data-chaucer-element-id="80cddee9-e650-4dda-abaf-34c10e5e5c3f"
-									class="xref"
+									className="xref"
 									href="#P7001013171000000000000000004145"
 								>
 									<span
 										data-chaucer-element-id="9df8478b-a5aa-4014-bac3-f758148ada3d"
-										class="label"
+										className="label"
 									>
 										Figure{' '}
 									</span>
 									<span
 										data-chaucer-element-id="7617dfa9-9a80-4111-bac3-5c4ed6fccf98"
-										class="number"
+										className="number"
 									>
 										8-13
 									</span>
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="16015119-276c-4b35-b30c-57059374becf"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000004FE7"
 								>
 									Congressional Budget Office, 2013
@@ -830,21 +830,21 @@ const PageTwentyTwo = props => {
 								fundamental respects. For instance, consider the following data
 								(<a
 									data-chaucer-element-id="fd621589-ed7a-4c9d-9265-5a1134550a76"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000004E9F"
 								>
 									Camarota, 2001
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="4d1cc332-8c82-413f-993b-71566c9749a9"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P70010131710000000000000000052BF"
 								>
 									Flanigan, 2005
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="09695229-4ef5-4625-bebc-4190b9cd31c7"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000005429"
 								>
 									Gorman, 2010
@@ -867,7 +867,7 @@ const PageTwentyTwo = props => {
 									>
 										<span
 											data-chaucer-element-id="6a1c5838-7541-4777-8a70-3ee44c998554"
-											class="strong"
+											className="strong"
 										>
 											Most legal and illegal immigrants ultimately succeed
 											financially.{' '}
@@ -891,7 +891,7 @@ const PageTwentyTwo = props => {
 									>
 										<span
 											data-chaucer-element-id="ea6c6dab-20e5-4642-919a-1da54d396d19"
-											class="strong"
+											className="strong"
 										>
 											Only a few immigrants come to the United States to get on
 											welfare.{' '}
@@ -912,7 +912,7 @@ const PageTwentyTwo = props => {
 									>
 										<span
 											data-chaucer-element-id="904c7a08-f00e-4489-b0b8-3cd0c6cf282b"
-											class="strong"
+											className="strong"
 										>
 											Given time, immigrants contribute more to the economy than
 											they take away.{' '}
@@ -936,35 +936,35 @@ const PageTwentyTwo = props => {
 						</aside>
 						<figure
 							data-chaucer-element-id="a64bbba0-9bd8-4789-a4ef-2ffe579e9ce9"
-							class="gadget"
+							className="gadget"
 							id="P7001013171000000000000000004145"
 						>
 							<header data-chaucer-element-id="14951d5d-a1cb-4e57-872f-8d4ec0fc172f">
 								<h1
 									data-chaucer-element-id="762d398c-124e-43fd-a3a5-9ad05c3f9a00"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="dc7c231a-9489-4d8f-b66f-1756d7e62d60"
-										class="label"
+										className="label"
 									>
 										Figure 8-13
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="f1d94882-6ece-4253-90b1-eb6b3f2c3724"
-									class="subtitle"
+									className="subtitle"
 								>
 									Immigrants in the United States
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="77d5dcf4-163a-464c-98c6-b7b463972a80"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="80831bd4-6d56-4f8e-ab40-0b550b097b07"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-image_overlay-04/index.html"
 									height="580"
 									width="770"
@@ -982,7 +982,7 @@ const PageTwentyTwo = props => {
 							<figcaption data-chaucer-element-id="020a596b-d04f-4ad9-b2d0-fd0bee347b4c">
 								<div
 									data-chaucer-element-id="b9cbf3f1-b3ab-4afe-b5e0-ecb01bc7763c"
-									class="caption"
+									className="caption"
 								>
 									<p
 										data-chaucer-element-id="e88fbf9a-d4e0-4131-b45f-a0d9c13f7186"
@@ -996,7 +996,7 @@ const PageTwentyTwo = props => {
 								</div>
 								<div
 									data-chaucer-element-id="a6d1adc4-1f9a-4a13-a1ac-8f677e0dddd8"
-									class="source"
+									className="source"
 								>
 									<p
 										data-chaucer-element-id="285e8328-839a-47a6-8f6a-4f836349f452"
@@ -1004,7 +1004,7 @@ const PageTwentyTwo = props => {
 									>
 										<span
 											data-chaucer-element-id="05da0b22-6a6a-4a40-9e61-6aa160cbde87"
-											class="label"
+											className="label"
 										>
 											Source:
 										</span>{' '}
@@ -1017,18 +1017,18 @@ const PageTwentyTwo = props => {
 							data-chaucer-element-id="6cb46899-84d7-4610-a0e3-2dfa9814f400"
 							id="P700101317100000000000000000413A"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P700101317100000000000000000413A"
-							class="sidebar sidebar_4"
+							className="sidebar sidebar_4"
 						>
 							<header data-chaucer-element-id="1dfa17f5-5345-40c8-a077-85935637d96e">
 								<h1
 									data-chaucer-element-id="2ed810af-6f3e-4883-82bb-91e4fca9c528"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013E91"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E91"
 								>
 									<span
 										data-chaucer-element-id="c923d187-724c-4bb4-bcd6-181b87d8907a"
-										class="label"
+										className="label"
 										data-chaucer-note-id="273802"
 									>
 										From the perspective of a social worker:{' '}

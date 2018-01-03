@@ -9,12 +9,12 @@ const PageSixteen = props => {
 				<section
 					data-chaucer-element-id="b308d08b-810b-425b-86f0-ffed280a9f12"
 					id="P7001013171000000000000000003FEC"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="15fa24f3-870e-4573-b9ac-b91d493f5798">
 						<h1
 							data-chaucer-element-id="541db32f-4384-4297-a73b-3fac332b185c"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013D82"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D82"
 							data-chaucer-note-id="336638"
@@ -64,39 +64,39 @@ const PageSixteen = props => {
 						good indication of self-concept at age 80. In fact, traits may
 						become more ingrained as people age (<a
 							data-chaucer-element-id="557b8c9d-82d1-4088-9dd8-3a35fd4d60d5"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000061FF"
 						>
 							Terracciano, McCrae, &amp; Costa, 2009
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="1f0daf89-dfa0-4dd7-a2fa-f177ae2cda9b"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005B5F"
 						>
 							Mõttus, Johnson, &amp; Deary, 2012
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="f278d943-e52a-4783-a89b-d393ee7c5ba7"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005065"
 						>
 							Curtis, Windsor, &amp; Soubelet, 2015
 						</a>; also see{' '}
 						<a
 							data-chaucer-element-id="6d28f4f7-b780-4a80-9e81-e03a54d04564"
-							class="xref"
+							className="xref"
 							href="#P7001013171000000000000000003FF5"
 						>
 							<span
 								data-chaucer-element-id="744dcf44-a6d7-4971-bfdb-bf7a92eaaccb"
-								class="label"
+								className="label"
 							>
 								Figure{' '}
 							</span>
 							<span
 								data-chaucer-element-id="df8dcfcb-dbc9-4217-907b-a59d5067335e"
-								class="number"
+								className="number"
 							>
 								8-7
 							</span>
@@ -104,24 +104,24 @@ const PageSixteen = props => {
 					</p>
 					<figure
 						data-chaucer-element-id="2e40b8cf-f897-432f-989e-445301286782"
-						class="gadget"
+						className="gadget"
 						id="P7001013171000000000000000003FF5"
 					>
 						<header data-chaucer-element-id="1892b09c-a9a3-4cea-9c5d-88c35dcbb7ff">
 							<h1
 								data-chaucer-element-id="16a631af-1be2-4049-a664-f8ec575dadd4"
-								class="title"
+								className="title"
 							>
 								<span
 									data-chaucer-element-id="3fbf1711-a21e-4626-a5f4-3a36d7b25a3a"
-									class="label"
+									className="label"
 								>
 									Figure 8-7
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="b9fa403e-43c5-4712-9380-351b12a8370a"
-								class="subtitle"
+								className="subtitle"
 								data-chaucer-note-id="274170"
 							>
 								The Stability of Personality
@@ -129,11 +129,11 @@ const PageSixteen = props => {
 						</header>
 						<div
 							data-chaucer-element-id="4e7e0bbc-1bff-4e09-b6e6-a5a9addcb3b8"
-							class="lc_iframeinner"
+							className="lc_iframeinner"
 						>
 							<iframe
 								data-chaucer-element-id="3fd9855b-cb7c-4b5c-9c79-ac2d3eb7b648"
-								class="gadget"
+								className="gadget"
 								src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-image_overlay-07/index.html"
 								height="580"
 								width="770"
@@ -151,7 +151,7 @@ const PageSixteen = props => {
 						<figcaption data-chaucer-element-id="dbc65a0f-4503-4c36-b4e9-b945ad1199c3">
 							<div
 								data-chaucer-element-id="2a717b36-09ee-403a-a744-cdfac7625ad4"
-								class="caption"
+								className="caption"
 							>
 								<p data-chaucer-element-id="7f923124-8c6e-4a12-895f-cca280f32246">
 									According to Paul Costa and Robert McCrae, basic personality
@@ -161,7 +161,7 @@ const PageSixteen = props => {
 							</div>
 							<div
 								data-chaucer-element-id="5ef42914-cda9-4ece-a32e-5c4a046ccabb"
-								class="source"
+								className="source"
 							>
 								<p
 									data-chaucer-element-id="f90540c6-0373-48f8-9c7e-c68b62bb9c03"
@@ -169,7 +169,7 @@ const PageSixteen = props => {
 								>
 									<span
 										data-chaucer-element-id="23065269-4a4d-441e-b710-ddb6250deca5"
-										class="label"
+										className="label"
 									>
 										Source:
 									</span>{' '}
@@ -180,7 +180,7 @@ const PageSixteen = props => {
 					</figure>
 					<div
 						data-chaucer-element-id="e08fd3bf-f83c-402d-9fa1-f32507476771"
-						class="longdesc"
+						className="longdesc"
 					>
 						<p data-chaucer-element-id="4c454d15-6ff4-4f84-b62b-3b410aa5f83b">
 							Graph shows stability of personality such as neuroticism,
@@ -234,12 +234,12 @@ const PageSixteen = props => {
 						data-chaucer-element-id="a6061b21-efd4-497b-a48d-64cf87d91b86"
 						id="P7001013171000000000000000004001"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004001"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="2ad5f6e2-186f-4ec0-b1b1-2a44164d3632">
 							<h1
 								data-chaucer-element-id="3a2e6abc-a558-4625-88eb-b63998f7b9c7"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013D92"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D92"
 							>
@@ -257,32 +257,32 @@ const PageSixteen = props => {
 						</p>
 						<figure
 							data-chaucer-element-id="46e2bb5b-f293-4349-9a6c-60b1b279afa1"
-							class="gadget"
+							className="gadget"
 						>
 							<header data-chaucer-element-id="1036075a-0723-4ecc-b97a-ac98fa03af65">
 								<h1
 									data-chaucer-element-id="e92d35b8-cf3e-4f95-8df0-a3402e79dcf3"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="bf8a57c3-d398-4728-bccc-41bdbaa1ce05"
-										class="label"
+										className="label"
 									/>
 								</h1>
 								<p
 									data-chaucer-element-id="3a6a5796-adf7-4315-a793-22b1c2036703"
-									class="subtitle"
+									className="subtitle"
 								>
 									The Big Five
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="4a279cc3-5797-4f7f-9f54-a755e38c32b5"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="07b7924f-20c0-49db-9ec8-05d6dca25b19"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-assessable_table_v1.0.0-01/index.html"
 									height="580"
 									width="770"
@@ -311,28 +311,28 @@ const PageSixteen = props => {
 							increase—findings that are consistent across cultures. The basic
 							pattern, however, is one of stability through adulthood (<a
 								data-chaucer-element-id="fca2597a-5ab2-430a-87c3-17f37208ba9f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005A5B"
 							>
 								McCrae &amp; Costa, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a8ef112a-65c8-48ea-8411-2be416b7d180"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000610F"
 							>
 								Srivastava, John, &amp; Gosling, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="0b031a6f-e35f-4e9c-927b-c2524fd7b655"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E25"
 							>
 								Renner, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b700a77d-df30-4c06-8f17-efe001bb0e0c"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000054BB"
 							>
 								Hahn, Gottschling, &amp; Spinath, 2012
@@ -361,14 +361,14 @@ const PageSixteen = props => {
 							span also can spur changes in how people view themselves and the
 							world at large (<a
 								data-chaucer-element-id="228278fb-b658-407a-be42-050328a439cf"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000057E5"
 							>
 								Krueger &amp; Heckhausen, 1993
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ae72fed0-1adf-4bec-b823-bd902853b8af"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E79"
 							>
 								Roberts, Walton, &amp; Viechtbauer, 2006
@@ -388,12 +388,12 @@ const PageSixteen = props => {
 						data-chaucer-element-id="419a11d6-7c31-49b8-a346-4b6b328b853d"
 						id="P7001013171000000000000000004015"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004015"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="06aafac4-7f90-4c52-b9e6-6cf5307908d8">
 							<h1
 								data-chaucer-element-id="4bb50083-9ddb-4b02-81ca-a7b3eaad5aec"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013DA4"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DA4"
 							>
@@ -416,14 +416,14 @@ const PageSixteen = props => {
 							year later, people’s happiness tends to return to pre-lottery
 							levels (<a
 								data-chaucer-element-id="4e6a723f-59ff-450e-aeab-b9b7878d8b55"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000512D"
 							>
 								Diener, 2000
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="59400b19-40a6-4704-bf31-1f38eb8f36d4"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006163"
 							>
 								Stone et al., 2010
@@ -453,14 +453,14 @@ const PageSixteen = props => {
 							unemployment, and disability. Furthermore, people differ in the
 							extent to which they can adapt to events (<a
 								data-chaucer-element-id="bd02ee31-cff7-4654-8c11-fafb0aa54310"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005961"
 							>
 								Lucas, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5217b2ee-6f77-406d-9e75-4cd1d5f6a1f6"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000512F"
 							>
 								Diener, Lucas, &amp; Scollon, 2009
@@ -481,28 +481,28 @@ const PageSixteen = props => {
 							their economic situation, residents of countries across the world
 							have similar levels of happiness (<a
 								data-chaucer-element-id="6b69bcde-d538-422d-be57-ef92b9d1cc10"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000512D"
 							>
 								Diener, 2000
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b89d2362-b4d7-43dd-b05d-234437e0ed9b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005131"
 							>
 								Diener, Oishi, &amp; Lucas, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8d94923a-fe0c-4494-9f74-32a17f6ad4f4"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000056EB"
 							>
 								Kahneman et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1bc44d88-7b53-442a-8cca-79f334e21f3d"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000050DF"
 							>
 								Delle Fave et al., 2013
@@ -511,23 +511,23 @@ const PageSixteen = props => {
 						</p>
 						<figure
 							data-chaucer-element-id="345e2dbc-a0fa-47c9-a6e1-6fd4843f5e2e"
-							class="video"
+							className="video"
 						>
 							<header data-chaucer-element-id="56d55b0e-51b2-4415-aaee-90ec73ecc8a1">
 								<h1
 									data-chaucer-element-id="618ee126-9382-43dc-8fd8-fda7862d41ed"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="923aef7c-c59e-434e-9c43-932b064fd508"
-										class="label"
+										className="label"
 									>
 										Watch
 									</span>
 								</h1>
 								<p
 									data-chaucer-element-id="ca4cdfff-e13b-4fb9-859f-a6cfb5330588"
-									class="subtitle"
+									className="subtitle"
 								>
 									Middle Adulthood: Happiness, Mary
 								</p>
@@ -535,17 +535,17 @@ const PageSixteen = props => {
 
 							<div
 								data-chaucer-element-id="719d6fe5-1b1a-4fd7-adc0-d6cbc80c0b55"
-								class="lc_ec_videoinner"
+								className="lc_ec_videoinner"
 							>
 								<iframe
 									title="video"
 									data-chaucer-element-id="fb5987ac-0d0f-47a9-97a0-a263285617a5"
 									id="player1"
 									name="player1"
-									class="__embedpearsonvideoplayer__"
+									className="__embedpearsonvideoplayer__"
 									src="https://mediaplayer.pearsoncmg.com/assets/_video.true/20140523_f3e_024_Mary_Happiness"
 									scrolling="no"
-									allowfullscreen="yes"
+									allowFullScreen="yes"
 									width="640"
 									height="480"
 									seamless="seamless"
@@ -555,7 +555,7 @@ const PageSixteen = props => {
 					</section>
 
 					<div
-						class="knowledge-check"
+						className="knowledge-check"
 						data-alignment-id=""
 						id="urn:pearson:educationalgoal:769a1fcf-a244-4360-9d0e-dcd10a27a56e"
 					/>

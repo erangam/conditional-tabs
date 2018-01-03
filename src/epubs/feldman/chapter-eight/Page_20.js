@@ -12,12 +12,12 @@ const PageTwenty = props => {
 				<section
 					data-chaucer-element-id="f9eff3c8-e45a-47fd-982f-2949b297f3b7"
 					id="P70010131710000000000000000040AA"
-					class="level2"
+					className="level2"
 				>
 					<header data-chaucer-element-id="f6b49dec-3b0e-41c0-b154-721f6aeb028f">
 						<h1
 							data-chaucer-element-id="0a828616-db78-47a7-af9e-baa142e3221d"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013E1E"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E1E"
 							data-chaucer-note-id="336639"
@@ -49,32 +49,32 @@ const PageTwenty = props => {
 						worldwide problem. Estimates suggest that one in three women around
 						the globe experience violent victimization during their lives (<a
 							data-chaucer-element-id="05a82385-ffe3-468d-9efd-19ffac191a3b"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000638D"
 						>
 							Walker, 1999
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="531713bf-3de7-4e4a-bd21-bba01c1abe74"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005369"
 						>
 							Garcia-Moreno et al., 2005
 						</a>; also see{' '}
 						<a
 							data-chaucer-element-id="54ae795c-9c11-4a27-95d5-b7570cce3af7"
-							class="xref"
+							className="xref"
 							href="#P70010131710000000000000000040B1"
 						>
 							<span
 								data-chaucer-element-id="0475626c-1d5a-4843-9ab5-0b8893eaa9ae"
-								class="label"
+								className="label"
 							>
 								Figure{' '}
 							</span>
 							<span
 								data-chaucer-element-id="fb753903-f8b0-4b29-b753-c7f746f53451"
-								class="number"
+								className="number"
 							>
 								8-11
 							</span>
@@ -83,33 +83,33 @@ const PageTwenty = props => {
 					<figure
 						data-chaucer-element-id="bf3e8ce4-db0f-4556-9f9c-89cf3f28767d"
 						id="P70010131710000000000000000040B1"
-						class="figure"
+						className="figure"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040B1"
 						data-chaucer-note-id="274173"
 					>
 						<header data-chaucer-element-id="bd18d129-1b51-41ec-962d-82874fd13d41">
 							<h1
 								data-chaucer-element-id="e9a72bda-239d-4b15-9262-23fe9c5268b6"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E22"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E22"
 							>
 								<span
 									data-chaucer-element-id="634aabbb-55b7-4c06-a16f-270bc256e0dc"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="3aaf7a9c-1b0c-45de-9862-a34661619e90"
-									class="number"
+									className="number"
 								>
 									8-11{' '}
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="6ba0be9e-e2b8-4b23-bcb7-e99ab0685b76"
-								class="subtitle"
+								className="subtitle"
 								id="P7001013171000000000000000013E23"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E23"
 							>
@@ -133,7 +133,7 @@ const PageTwenty = props => {
 						>
 							<div
 								data-chaucer-element-id="e194436b-f80a-47fc-9cd7-68c0880aedcc"
-								class="source"
+								className="source"
 								id="P7001013171000000000000000013E28"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E28"
 							>
@@ -144,13 +144,13 @@ const PageTwenty = props => {
 								>
 									<span
 										data-chaucer-element-id="666c1538-d589-4b0c-ba91-c71e9d9ac6b7"
-										class="label"
+										className="label"
 									>
 										Source:{' '}
 									</span>
 									<a
 										data-chaucer-element-id="7a1ac247-77ca-4a07-a51d-d1b4cdbb0e49"
-										class="biblioref"
+										className="biblioref"
 										href="bm01_pg0002.xhtml#P7001013171000000000000000006287"
 									>
 										Truman &amp; Morgan, 2014
@@ -161,7 +161,7 @@ const PageTwenty = props => {
 					</figure>
 					<div
 						data-chaucer-element-id="da71c870-ac67-4b17-a073-36cd36653290"
-						class="longdesc"
+						className="longdesc"
 					>
 						<p data-chaucer-element-id="e318b57e-5529-40bb-9845-4d8e7548c1cd">
 							Bar graph violent victimization by “Victim—Offender Relationship”
@@ -197,21 +197,21 @@ const PageTwenty = props => {
 						is the abuser, in about 8 percent of the cases wives physically
 						abuse their husbands (<a
 							data-chaucer-element-id="11ef7f0f-f943-4d35-85e0-b4b07601e529"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005513"
 						>
 							Harway, 2000
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="7182baf1-c39c-4dad-870f-c932e62507bc"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004EA1"
 						>
 							Cameron, 2003
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="7ee35232-ab03-47d5-8344-55d24dee5e25"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005147"
 						>
 							Dixon &amp; Browne, 2003
@@ -228,21 +228,21 @@ const PageTwenty = props => {
 						up in families where violence was present are also more likely to be
 						violent themselves (<a
 							data-chaucer-element-id="854edc3c-a7e6-437f-984e-2e53d8c2560b"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000006171"
 						>
 							Straus &amp; Yodanis, 1996
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="d7ae49c5-3d31-435a-a845-24e976ed3c4e"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P70010131710000000000000000051D9"
 						>
 							Ehrensaft, Cohen, &amp; Brown, 2003
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="e92639f5-b837-40c6-a41a-d5b2d49cfa09"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P700101317100000000000000000581D"
 						>
 							Lackey, 2003
@@ -263,14 +263,14 @@ const PageTwenty = props => {
 						all types of abuse are higher in poorer families: Incest is more
 						likely to occur in affluent families (<a
 							data-chaucer-element-id="70bf8dc1-cb38-4586-ac9a-39fdd30291f1"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000004BD9"
 						>
 							American Psychological Association [APA], 1996
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="3123bde3-f63d-442c-849e-79799af6bf10"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005029"
 						>
 							Cox, Kotch, &amp; Everson, 2003
@@ -280,12 +280,12 @@ const PageTwenty = props => {
 						data-chaucer-element-id="884dce1f-2f00-4d33-a12b-37d5e4c4b324"
 						id="P70010131710000000000000000040BE"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040BE"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="35b2e2e4-3ea6-4460-8a33-40f596d25acf">
 							<h1
 								data-chaucer-element-id="cc3bb54d-d4c7-45c5-97d1-87bb15fb5ce8"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E2D"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E2D"
 							>
@@ -299,25 +299,25 @@ const PageTwenty = props => {
 						>
 							Marital aggression by a husband typically occurs in three stages (<a
 								data-chaucer-element-id="7573d4cf-f21d-461c-a22a-c4d3804c1ea5"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000638D"
 							>
 								Walker, 1999
 							</a>) (see{' '}
 							<a
 								data-chaucer-element-id="945ec83d-7943-460d-9831-6ae7d626ac09"
-								class="xref"
+								className="xref"
 								href="#P70010131710000000000000000040C1"
 							>
 								<span
 									data-chaucer-element-id="06c9ffb7-efa0-4ad2-8e2a-8e19cacf6475"
-									class="label"
+									className="label"
 								>
 									Figure{' '}
 								</span>
 								<span
 									data-chaucer-element-id="87f2c48d-0469-42f6-a3bf-13a85c7405f1"
-									class="number"
+									className="number"
 								>
 									8-12
 								</span>
@@ -335,17 +335,17 @@ const PageTwenty = props => {
 						</p>
 						<figure
 							data-chaucer-element-id="2e072554-cc5d-42b8-801c-8159f185a3d1"
-							class="gadget"
+							className="gadget"
 							id="P70010131710000000000000000040C1"
 						>
 							<header data-chaucer-element-id="62c01f13-3ee6-4fc0-ad7f-daa460fadcd3">
 								<h1
 									data-chaucer-element-id="6e75d25c-5452-45b6-bf7e-a34bd33bf8bb"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="8b3d5b95-925b-437f-b798-c0a3a52f9344"
-										class="label"
+										className="label"
 										data-chaucer-note-id="280016"
 									>
 										Figure 8-12
@@ -353,18 +353,18 @@ const PageTwenty = props => {
 								</h1>
 								<p
 									data-chaucer-element-id="c87c10f6-bca4-4470-b5ce-562929487f42"
-									class="subtitle"
+									className="subtitle"
 								>
 									The Stages of Violence
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="4f0948de-047c-40a8-9410-610049a8dfe5"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="23163547-9136-410d-ad0b-416d17036514"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-click_to_reveal-02/index.html"
 									height="580"
 									width="770"
@@ -381,12 +381,12 @@ const PageTwenty = props => {
 							<figcaption data-chaucer-element-id="118a7196-d462-4213-b170-e484d98df997">
 								<div
 									data-chaucer-element-id="f0a7c36d-de82-4af6-b059-89690e1ed738"
-									class="source"
+									className="source"
 								>
 									<p data-chaucer-element-id="4b27da3f-20b9-4a51-8173-8eb9fbe06435">
 										<span
 											data-chaucer-element-id="d160ca64-b27f-48d1-ac62-890a1c14cd78"
-											class="label"
+											className="label"
 											data-chaucer-note-id="269046"
 										>
 											Source:
@@ -446,12 +446,12 @@ const PageTwenty = props => {
 						data-chaucer-element-id="cc222178-ad3b-4516-9ca6-e58ee6a3e9cf"
 						id="P70010131710000000000000000040CD"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040CD"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="3a1f3d78-3e2e-4b6e-a23f-177981582aac">
 							<h1
 								data-chaucer-element-id="06d367ff-3fc5-4b52-a5a7-aa588bfadc26"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E3A"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E3A"
 							>
@@ -477,13 +477,13 @@ const PageTwenty = props => {
 							victims of abuse themselves. According to the{' '}
 							<span
 								data-chaucer-element-id="a59152d7-35cd-4bdd-9ccf-250afa9f6688"
-								class="keyword"
+								className="keyword"
 								id="P70010131710000000000000000040D1"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040D1"
 							>
 								<a
 									data-chaucer-element-id="74f4948c-2d7e-49b9-a7b1-d64913f3c648"
-									class="keyword"
+									className="keyword"
 									href="bm01_pg0001.xhtml#P700101317100000000000000000663D"
 								>
 									cycle of violence hypothesis
@@ -496,28 +496,28 @@ const PageTwenty = props => {
 							home as children, just as parents who abuse their children
 							frequently were the victims of abuse as children (<a
 								data-chaucer-element-id="1d569250-9a50-467e-8c76-4c75c3d018ad"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005FFB"
 							>
 								Serbin &amp; Karp, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="52ad7027-9cab-4d9d-9fa1-7c26876a850f"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E27"
 							>
 								Renner &amp; Slack, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="08fc8334-1304-4dba-8a74-f50cf2bdba39"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000640F"
 							>
 								Whiting et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="56f85225-930b-4e31-b5cb-bc9c3a75b7bc"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P700101317100000000000000000521F"
 							>
 								Eriksson &amp; Mazerolle, 2015
@@ -527,18 +527,18 @@ const PageTwenty = props => {
 							data-chaucer-element-id="3fd2456d-6ef2-4cc9-9c30-86ce017287e2"
 							id="P70010131710000000000000000040D2"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040D2"
-							class="sidebar sidebar_4"
+							className="sidebar sidebar_4"
 						>
 							<header data-chaucer-element-id="99c05eaa-f301-48a4-a573-c6a79fae7076">
 								<h1
 									data-chaucer-element-id="763fa2e2-d5bb-421d-84f0-a44b4bd96cea"
-									class="title"
+									className="title"
 									id="P7001013171000000000000000013E3D"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E3D"
 								>
 									<span
 										data-chaucer-element-id="f5546724-b333-4f4d-a2fb-eecdb9e6b910"
-										class="label"
+										className="label"
 									>
 										From the perspective of a healthcare provider:{' '}
 									</span>
@@ -565,7 +565,7 @@ const PageTwenty = props => {
 							children. The cycle of violence, then, does not tell the full
 							story of abuse (<a
 								data-chaucer-element-id="6f202698-67d4-477b-a288-c3cd9f148e6e"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005667"
 							>
 								Jacobson &amp; Gottman, 1998
@@ -582,7 +582,7 @@ const PageTwenty = props => {
 						<figure
 							data-chaucer-element-id="d827e137-8f16-4a36-93d5-ae34b7e2c428"
 							id="P70010131710000000000000000040DA"
-							class="informalfigure"
+							className="informalfigure"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040DA"
 						>
 							<img
@@ -601,7 +601,7 @@ const PageTwenty = props => {
 							>
 								<div
 									data-chaucer-element-id="98060871-6d3b-45de-b354-3f12c0dd2221"
-									class="caption"
+									className="caption"
 									id="P7001013171000000000000000013E46"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E46"
 								>
@@ -627,12 +627,12 @@ const PageTwenty = props => {
 						data-chaucer-element-id="0333ed56-da47-4119-af79-717c0da8e367"
 						id="P70010131710000000000000000040E0"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040E0"
-						class="level3"
+						className="level3"
 					>
 						<header data-chaucer-element-id="73044e0b-c89f-42cc-a8ff-026743591510">
 							<h1
 								data-chaucer-element-id="225e3ab0-ce8b-4b26-a146-c29f29877d0a"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013E49"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013E49"
 							>
@@ -642,7 +642,7 @@ const PageTwenty = props => {
 						<aside
 							data-chaucer-element-id="c033a349-691e-4412-b41d-4ddc82a5de4e"
 							id="P70010131710000000000000000040E2"
-							class="vignette"
+							className="vignette"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P70010131710000000000000000040E2"
 						>
 							<p
@@ -687,7 +687,7 @@ const PageTwenty = props => {
 								</i>
 								<a
 									data-chaucer-element-id="3b00824c-c6be-497b-9977-70ab4a272c8c"
-									class="biblioref"
+									className="biblioref"
 									href="bm01_pg0002.xhtml#P7001013171000000000000000005299"
 								>
 									Findlen, 1990
@@ -706,7 +706,7 @@ const PageTwenty = props => {
 							particularly North American phenomenon, other cultures have
 							traditions that regard violence as acceptable (<a
 								data-chaucer-element-id="108a131c-b4c4-42e0-b673-e4957bcf4cc7"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005E03"
 							>
 								Rao, 1997
@@ -728,7 +728,7 @@ const PageTwenty = props => {
 							century that this law was removed from the books in the United
 							States (<a
 								data-chaucer-element-id="7f7656b0-c9e7-4ab3-82d3-ef18dc5feed0"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000005093"
 							>
 								Davidson, 1977
@@ -759,21 +759,21 @@ const PageTwenty = props => {
 							husbands feel threatened and thus more likely to behave abusively
 							(<a
 								data-chaucer-element-id="e4a0f708-6ae4-4a07-894f-072424c3c277"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P70010131710000000000000000051A9"
 							>
 								Dutton, 1994
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ebeb6f9d-edc9-4523-8461-074f02090e30"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000006339"
 							>
 								Vandello &amp; Cohen, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="0865ffcc-308a-40dd-9218-660048e1570b"
-								class="biblioref"
+								className="biblioref"
 								href="bm01_pg0002.xhtml#P7001013171000000000000000004C95"
 							>
 								Banks, 2016
@@ -785,17 +785,17 @@ const PageTwenty = props => {
 						</p>
 						<figure
 							data-chaucer-element-id="c73e340c-6b11-4c07-8b76-7a857b5b544d"
-							class="gadget"
+							className="gadget"
 							id="P70010131710000000000000000040EC"
 						>
 							<header data-chaucer-element-id="dc6ea9fe-e8e5-4b47-b9be-bf1a933328c8">
 								<h1
 									data-chaucer-element-id="04c43bf5-6b5f-43eb-aa56-1df9a8adaddb"
-									class="title"
+									className="title"
 								>
 									<span
 										data-chaucer-element-id="b33c4769-0ed2-473b-9bac-9867bca0993d"
-										class="label"
+										className="label"
 										data-chaucer-note-id="269176"
 									>
 										Becoming an Informed Consumer of Development
@@ -803,18 +803,18 @@ const PageTwenty = props => {
 								</h1>
 								<p
 									data-chaucer-element-id="ae05ecf7-5508-4f61-a8b1-1f4bc1ebb593"
-									class="subtitle"
+									className="subtitle"
 								>
 									Dealing With Spousal Abuse
 								</p>
 							</header>
 							<div
 								data-chaucer-element-id="ce48a02c-397d-415b-bdbc-0acf1e273755"
-								class="lc_iframeinner"
+								className="lc_iframeinner"
 							>
 								<iframe
 									data-chaucer-element-id="15f5f917-56ed-4b78-bd18-7a2e7e850748"
-									class="gadget"
+									className="gadget"
 									src="https://revelpreview.pearson.com/epubs/ME10-82_83_a/OPS/components/metrodigi/ch08-adaptive_scenarios-02/index.html"
 									height="580"
 									width="770"
@@ -832,7 +832,7 @@ const PageTwenty = props => {
 					</section>
 
 					<div
-						class="knowledge-check"
+						className="knowledge-check"
 						data-alignment-id=""
 						id="urn:pearson:educationalgoal:5479539b-7311-4f2a-9d44-0539e4c5c4ce"
 					/>

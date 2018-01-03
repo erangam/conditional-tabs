@@ -9,31 +9,31 @@ const PageThirteen = props => {
 				<section
 					data-chaucer-element-id="e26408fd-f383-4f5a-836b-fe076ca172ca"
 					id="P7001013171000000000000000013D22"
-					class="level1"
+					className="level1"
 				>
 					<aside
 						data-chaucer-element-id="8c7a269f-c564-4364-8417-7fe648598b37"
 						id="P7001013171000000000000000003F77"
-						class="sidebar sidebar_7"
+						className="sidebar sidebar_7"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F77"
 					>
 						<header data-chaucer-element-id="a105c464-7317-40cd-b3ee-06874b0ba93b">
 							<h1
 								data-chaucer-element-id="051c3f35-25c2-427d-b870-83ff12c06752"
-								class="title"
+								className="title"
 								id="P7001013171000000000000000013D23"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D23"
 							>
 								<span
 									data-chaucer-element-id="d50cdca6-dc76-4f4d-a938-754186afcc4c"
-									class="label"
+									className="label"
 								>
 									Module 8.3
 								</span>
 							</h1>
 							<p
 								data-chaucer-element-id="0f1f5d49-1e51-451a-a7f4-f8e3f7f6ff99"
-								class="subtitle"
+								className="subtitle"
 								id="P7001013171000000000000000013D24"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D24"
 							>
@@ -46,7 +46,7 @@ const PageThirteen = props => {
 
 						<div
 							data-chaucer-element-id="bf125fc9-afc6-49d7-b601-0abaafdfe20c"
-							class="vignette"
+							className="vignette"
 						>
 							<section
 								data-chaucer-element-id="82f75c64-be23-4c14-aa31-dfa96f7f6805"
@@ -56,7 +56,7 @@ const PageThirteen = props => {
 								<header data-chaucer-element-id="62075c81-abdb-42ee-99ff-5a8fa0e3e0e2">
 									<h1
 										data-chaucer-element-id="08014d96-2209-471b-a0ea-1960dd86ac17"
-										class="title"
+										className="title"
 										id="P7001013171000000000000000013D25"
 										data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013D25"
 									>
@@ -66,7 +66,7 @@ const PageThirteen = props => {
 								<section
 									data-chaucer-element-id="ef2dac42-5f48-49d9-88c9-98d269890fba"
 									id="P7001013171000000000000000003F7C"
-									class="introduction"
+									className="introduction"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F7C"
 								>
 									<p

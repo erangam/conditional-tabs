@@ -25,10 +25,6 @@ class NavControls extends Component {
 		this.setState({ currentPage: this.pageNumber });
 	}
 
-	componentDidMount() {
-		console.log('mounted');
-	}
-
 	handleOnClick(event) {
 		const currentPageNumber = parseInt(
 				event.currentTarget.getAttribute('data-current'),
@@ -53,6 +49,7 @@ class NavControls extends Component {
 	}
 
 	render() {
+		console.log(this.state);
 		const prevPath =
 				this.subPath +
 				parseInt(this.state.currentPage - 1, 10) +

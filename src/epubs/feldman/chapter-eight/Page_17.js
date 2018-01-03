@@ -9,12 +9,12 @@ const PageSeventeen = props => {
 				<section
 					data-chaucer-element-id="62a9e7dd-0ed8-40fb-82b0-fd1675e2d80a"
 					id="P7001013171000000000000000004024"
-					class="level1"
+					className="level1"
 				>
 					<header data-chaucer-element-id="2da39d2c-d939-4904-867b-249446358766">
 						<h1
 							data-chaucer-element-id="e78e3540-e762-44cd-b97e-ab81582d8845"
-							class="title"
+							className="title"
 							id="P7001013171000000000000000013DB2"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013DB2"
 							data-chaucer-note-id="335529"
@@ -23,13 +23,13 @@ const PageSeventeen = props => {
 						</h1>
 					</header>
 
-					<section class="objectiveset">
-						<ol class="objectivelist dynamiclist">
-							<li class="objective">
+					<section className="objectiveset">
+						<ol className="objectivelist dynamiclist">
+							<li className="objective">
 								<p>
-									<span class="lc_labelnum">
-										<span class="label">LO</span>{' '}
-										<span class="number">8.7</span>
+									<span className="lc_labelnum">
+										<span className="label">LO</span>{' '}
+										<span className="number">8.7</span>
 									</span>{' '}
 									Analyze the characteristics of relationships in middle
 									adulthood.
@@ -43,7 +43,7 @@ const PageSeventeen = props => {
 					<aside
 						data-chaucer-element-id="d36dcb5c-c159-45f9-85b5-8a3e0316ed14"
 						id="P7001013171000000000000000004026"
-						class="vignette"
+						className="vignette"
 						data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004026"
 					>
 						<p
@@ -84,7 +84,7 @@ const PageSeventeen = props => {
 						changes over this period, and then consider some of the many
 						alternative forms of family life today (<a
 							data-chaucer-element-id="803d1908-93cd-4693-8fb7-d79c31077b27"
-							class="biblioref"
+							className="biblioref"
 							href="bm01_pg0002.xhtml#P7001013171000000000000000005723"
 						>
 							Kaslow, 2001

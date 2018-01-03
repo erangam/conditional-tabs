@@ -49,17 +49,23 @@ const PageTwo = props => {
 							data-chaucer-element-id="fdc25853-7888-4080-a0d3-b31749df8396"
 							id="P7001013171000000000000000003CF1"
 						>
-							<header data-chaucer-element-id="b79c5ba5-d606-45d4-92c3-e376052a23c1">
-								<h1
-									data-chaucer-element-id="a146f08f-b43f-4e44-83b0-7c7a55806c5e"
-									className="title"
-									id="P7001013171000000000000000013B28"
-									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B28"
-									srcLang="title"
-								>
-									Fighting Against Time
-								</h1>
-							</header>
+							<div
+								data-chaucer-element-id="52448f29-cbfb-4144-b867-91086978323f"
+								className="vignette"
+							>
+								<header data-chaucer-element-id="b79c5ba5-d606-45d4-92c3-e376052a23c1">
+									<h1
+										data-chaucer-element-id="a146f08f-b43f-4e44-83b0-7c7a55806c5e"
+										className="title"
+										id="P7001013171000000000000000013B28"
+										data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000013B28"
+										srcLang="title"
+									>
+										Fighting Against Time
+									</h1>
+								</header>
+							</div>
+
 							<section
 								data-chaucer-element-id="2f2679f0-fcf8-4b52-8678-6d69e5b5285c"
 								id="P7001013171000000000000000003CF3"
