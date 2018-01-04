@@ -1,5 +1,6 @@
 import React from 'react';
 import { HashRouter, Route, Switch } from 'react-router-dom';
+
 import NavControls from './NavControls';
 
 import References from './References';
@@ -134,12 +135,51 @@ const routes = [
 	}
 ];
 
+function click(props) {
+	document.onload = window.scrollTo(0, 0);
+	const anchors = document.querySelectorAll('a');
+	anchors.forEach(anchor => {
+		anchor.addEventListener('click', event => {
+			const classNames = event.currentTarget.getAttribute('class');
+			if (classNames === 'xref') {
+				const hrefs = event.currentTarget.getAttribute('href'),
+					element = document.getElementById(hrefs.substr(1));
+				event.preventDefault();
+				element.scrollIntoView();
+			}
+
+			if (classNames === 'biblioref') {
+				let hrefs = event.currentTarget.getAttribute('href');
+				hrefs = hrefs.substring(hrefs.indexOf('#'));
+				event.preventDefault();
+				console.log(hrefs);
+				window.location.href = './#/feldman/reference/' + hrefs;
+			}
+		});
+	});
+
+	if (props.match.path === '/reference') {
+		const element = document.getElementById(props.location.hash.substr(1));
+		console.log(element);
+		if (element !== null) {
+			setTimeout(function() {
+				element.scrollIntoView();
+			}, 2000);
+		}
+	}
+}
+
 const FeldmanRoutes = routes.map((route, i) => {
-	return <Route key={i} path={route.path} render={route.component} />;
+	return (
+		<Route
+			key={i}
+			path={route.path}
+			render={props => <route.component {...props} onClick={click(props)} />}
+		/>
+	);
 });
 
 const FeldmanRoute = props => {
-	console.log(props);
 	return (
 		<HashRouter basename={'/feldman'}>
 			<div>
