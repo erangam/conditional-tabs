@@ -40,7 +40,7 @@ const PageEight = props => {
 						hospitalization than any other cause (<a
 							data-chaucer-element-id="f063b59b-8fd4-48be-a21f-670b9aacde54"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004BD5"
+							href="./#/feldman/reference#P7001013171000000000000000004BD5"
 						>
 							American Heart Association, 2010
 						</a>).
@@ -98,21 +98,21 @@ const PageEight = props => {
 							the United States (<a
 								data-chaucer-element-id="c8b11f20-6e28-49a2-a7c3-3ed1126dfc01"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050AB"
+								href="./#/feldman/reference#P70010131710000000000000000050AB"
 							>
 								De Meersman &amp; Stein, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="98b19d51-f5f7-4a42-8b2d-196c6fdbfe2f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F59"
+								href="./#/feldman/reference#P7001013171000000000000000005F59"
 							>
 								Scarbourough et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="846745de-5ed1-474b-a31b-2f555e733cda"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005D6B"
+								href="./#/feldman/reference#P7001013171000000000000000005D6B"
 							>
 								Platt et al., 2014
 							</a>).
@@ -220,14 +220,14 @@ const PageEight = props => {
 							B men (<a
 								data-chaucer-element-id="2ffc23ef-5c18-4758-b044-eb768c938b26"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006187"
+								href="./#/feldman/reference#P7001013171000000000000000006187"
 							>
 								Strube, 1990
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="27393587-bfcd-4707-bbab-59a173075001"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006417"
+								href="./#/feldman/reference#P7001013171000000000000000006417"
 							>
 								Wielgosz &amp; Nolan, 2000
 							</a>).
@@ -247,28 +247,28 @@ const PageEight = props => {
 							coronary heart disease (<a
 								data-chaucer-element-id="c69478d3-610f-4e26-ba33-69fdc39f7631"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050E3"
+								href="./#/feldman/reference#P70010131710000000000000000050E3"
 							>
 								Demaree &amp; Everhart, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="2f5329fd-2b7e-4734-b5e3-a9d72063047d"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000051B5"
+								href="./#/feldman/reference#P70010131710000000000000000051B5"
 							>
 								Eaker et al., 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4d9afbff-1565-4eff-b020-7ea5e242a02d"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000056E7"
+								href="./#/feldman/reference#P70010131710000000000000000056E7"
 							>
 								Kahn, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8f86c50c-7567-471b-b300-976c05934eb2"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005B9F"
+								href="./#/feldman/reference#P7001013171000000000000000005B9F"
 							>
 								Myrtek, 2007
 							</a>).
@@ -292,21 +292,21 @@ const PageEight = props => {
 							put people at risk for heart attacks (<a
 								data-chaucer-element-id="3f2afbe7-9b48-40c1-b386-aa4a9ebc181a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005B29"
+								href="./#/feldman/reference#P7001013171000000000000000005B29"
 							>
 								Mols &amp; Denollet, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="62f98ab9-1973-45f1-ae55-3c362ba53b88"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000057FD"
+								href="./#/feldman/reference#P70010131710000000000000000057FD"
 							>
 								Kupper et al., 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="39b7989a-0928-4cb6-a473-273ff45b16e0"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006327"
+								href="./#/feldman/reference#P7001013171000000000000000006327"
 							>
 								van den Tooren &amp; Rutte, 2016
 							</a>).
@@ -342,7 +342,7 @@ const PageEight = props => {
 							States (<a
 								data-chaucer-element-id="3d864fb4-b837-4d97-9e3a-a112f6653b11"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004F07"
+								href="./#/feldman/reference#P7001013171000000000000000004F07"
 							>
 								Centers for Disease Control and Prevention [CDC], 2015
 							</a>).
@@ -434,7 +434,7 @@ const PageEight = props => {
 							cases occur in women aged 40 and older (<a
 								data-chaucer-element-id="1ae30ce5-df39-45c7-94e3-f1e9313dde1b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005FDD"
+								href="./#/feldman/reference#P7001013171000000000000000005FDD"
 							>
 								SEER, 2005
 							</a>).
@@ -462,21 +462,21 @@ const PageEight = props => {
 							</i>, in which a mammogram does not detect indications of cancer (<a
 								data-chaucer-element-id="ef0eba9b-91aa-4f3c-82b3-2b4ae53d7652"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005103"
+								href="./#/feldman/reference#P7001013171000000000000000005103"
 							>
 								Destounis et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a930efbf-2a8d-4ace-ad46-101f611e1796"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005201"
+								href="./#/feldman/reference#P7001013171000000000000000005201"
 							>
 								Elmore et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="70df1968-7a5c-4adf-9f98-83103ac704ff"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C0B"
+								href="./#/feldman/reference#P7001013171000000000000000004C0B"
 							>
 								Armstrong et al., 2013
 							</a>).
@@ -499,7 +499,7 @@ const PageEight = props => {
 							offering 80 percent of the benefits of annual mammograms (<a
 								data-chaucer-element-id="5a3974a8-41e6-4483-8dbf-df46d34eb915"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005BE5"
+								href="./#/feldman/reference#P7001013171000000000000000005BE5"
 							>
 								Nelson et al., 2009
 							</a>).
@@ -515,7 +515,7 @@ const PageEight = props => {
 							older should receive annual screenings (<a
 								data-chaucer-element-id="816a9778-6830-4151-a65e-1193b3f5d12b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005441"
+								href="./#/feldman/reference#P7001013171000000000000000005441"
 							>
 								Grady, 2009
 							</a>).
@@ -536,21 +536,21 @@ const PageEight = props => {
 							beneficial (<a
 								data-chaucer-element-id="9c806f72-4245-4b08-a049-85cdf1b23203"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005441"
+								href="./#/feldman/reference#P7001013171000000000000000005441"
 							>
 								Grady, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d4f42f30-c62f-4317-b059-0eac37817a1c"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004B99"
+								href="./#/feldman/reference#P7001013171000000000000000004B99"
 							>
 								Alonso et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="01cef7f3-0a5a-4840-b7ec-708def711400"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060CB"
+								href="./#/feldman/reference#P70010131710000000000000000060CB"
 							>
 								Smith, Duffy, &amp; Tabár, 2012
 							</a>). (Also see the{' '}
@@ -609,7 +609,7 @@ const PageEight = props => {
 								which reduced her risk of breast cancer to just 5 percent (<a
 									data-chaucer-element-id="96a4f478-4698-4fc5-91a7-ace08d0b635c"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000057A3"
+									href="./#/feldman/reference#P70010131710000000000000000057A3"
 								>
 									Kluger &amp; Park, 2013
 								</a>).
@@ -643,14 +643,14 @@ const PageEight = props => {
 								prevent breast cancer is much more the exception than the rule (<a
 									data-chaucer-element-id="5685d59c-08a3-4994-b6f3-82858c9e29f8"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P700101317100000000000000000633F"
+									href="./#/feldman/reference#P700101317100000000000000000633F"
 								>
 									Vassy et al., 2012
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="e058c805-8b12-4755-aee5-66f91182fc1e"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000051BB"
+									href="./#/feldman/reference#P70010131710000000000000000051BB"
 								>
 									Easton et al., 2015
 								</a>).
@@ -674,7 +674,7 @@ const PageEight = props => {
 								understood (<a
 									data-chaucer-element-id="ea8b1aa7-a2a6-4fcd-98f0-87a8486736c8"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005E5F"
+									href="./#/feldman/reference#P7001013171000000000000000005E5F"
 								>
 									Riley et al., 2012
 								</a>).
@@ -741,14 +741,14 @@ const PageEight = props => {
 								case is different (<a
 									data-chaucer-element-id="a3bf1938-d3fd-41ee-aca4-d2f9389416d1"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005E5F"
+									href="./#/feldman/reference#P7001013171000000000000000005E5F"
 								>
 									Riley et al., 2012
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="884147cb-6d83-43e5-8aa0-1abd3ac0c650"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000057A3"
+									href="./#/feldman/reference#P70010131710000000000000000057A3"
 								>
 									Kluger &amp; Park, 2013
 								</a>).

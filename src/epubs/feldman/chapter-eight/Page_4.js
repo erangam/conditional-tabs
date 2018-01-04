@@ -69,14 +69,14 @@ const PageFour = props => {
 						satisfaction with their body images than younger adults (<a
 							data-chaucer-element-id="0e1feebb-26e9-4599-94ec-fc3066f0d4a6"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005589"
+							href="./#/feldman/reference#P7001013171000000000000000005589"
 						>
 							Hillman, 2012
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="7f0fcd48-d5b5-496c-911e-1da3cacc4310"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005B93"
+							href="./#/feldman/reference#P7001013171000000000000000005B93"
 						>
 							Murray &amp; Lewis, 2014
 						</a>).
@@ -95,14 +95,14 @@ const PageFour = props => {
 						“mature” (<a
 							data-chaucer-element-id="e9232098-c50d-4142-9624-8601095bbfab"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004BEB"
+							href="./#/feldman/reference#P7001013171000000000000000004BEB"
 						>
 							Andreoni &amp; Petrie, 2008
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="42a448af-3213-42ba-aa7e-5b10eb7ca2d4"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005DB9"
+							href="./#/feldman/reference#P7001013171000000000000000005DB9"
 						>
 							Pruis &amp; Janowsky, 2010
 						</a>).
@@ -136,7 +136,7 @@ const PageFour = props => {
 							rest of the life span (<a
 								data-chaucer-element-id="b694826d-8910-49e1-97a1-dc9af60faba5"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004D07"
+								href="./#/feldman/reference#P7001013171000000000000000004D07"
 							>
 								Bennani et al., 2009
 							</a>).
@@ -166,21 +166,21 @@ const PageFour = props => {
 							products) and by exercising regularly (<a
 								data-chaucer-element-id="7b74880d-b707-4bc9-b7e8-feda1bb531e8"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000063A3"
+								href="./#/feldman/reference#P70010131710000000000000000063A3"
 							>
 								L. Wang et al., 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="bf172eda-17df-41e3-9bb3-d51fbb227334"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E69"
+								href="./#/feldman/reference#P7001013171000000000000000005E69"
 							>
 								Rizzoli &amp; Brandi, 2014
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="bf28d062-6524-40ed-871f-5347ca0028d6"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000056DF126"
+								href="./#/feldman/reference#P70010131710000000000000000056DF126"
 							>
 								Peng et al., 2016
 							</a>).
@@ -210,7 +210,7 @@ const PageFour = props => {
 							are easily able to compensate for it (<a
 								data-chaucer-element-id="ee74c26f-eff6-4cf4-92ef-82b7cefd5a4f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060FD"
+								href="./#/feldman/reference#P70010131710000000000000000060FD"
 							>
 								Spence, 1989
 							</a>). Again, lifestyle choices matter. Regular exercise tends to
@@ -277,7 +277,7 @@ const PageFour = props => {
 								less transparent, so less light passes through the eye (<a
 									data-chaucer-element-id="272c7195-6850-4952-b0d6-10eaf5bf2dc3"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000064B1"
+									href="./#/feldman/reference#P70010131710000000000000000064B1"
 								>
 									Yan, Li, &amp; Liao, 2010
 								</a>).
@@ -304,14 +304,14 @@ const PageFour = props => {
 								bifocals or two sets of glasses (<a
 									data-chaucer-element-id="928dae7a-f23b-482a-96d3-1532b630b300"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000057C9"
+									href="./#/feldman/reference#P70010131710000000000000000057C9"
 								>
 									Koopmans &amp; Kooijman, 2006
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="faa17a15-559e-459f-aa00-d8f0035a39b5"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005751"
+									href="./#/feldman/reference#P7001013171000000000000000005751"
 								>
 									Kemper, 2012
 								</a>).
@@ -329,7 +329,7 @@ const PageFour = props => {
 								navigate a dark room (<a
 									data-chaucer-element-id="3a2159f1-7e1a-41b8-ac3d-c3ded43a926e"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000060F9"
+									href="./#/feldman/reference#P70010131710000000000000000060F9"
 								>
 									Spear, 1993
 								</a>).
@@ -401,7 +401,7 @@ const PageFour = props => {
 								afflicted, and African Americans are particularly susceptible (<a
 									data-chaucer-element-id="a4e947ba-e333-4ba5-83e6-20faa3a4a93a"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P700101317100000000000000000643F"
+									href="./#/feldman/reference#P700101317100000000000000000643F"
 								>
 									Wilson, 1989
 								</a>).
@@ -420,21 +420,21 @@ const PageFour = props => {
 								of eye fluid (<a
 									data-chaucer-element-id="77807c67-319a-4957-962f-682b80edeb55"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005833"
+									href="./#/feldman/reference#P7001013171000000000000000005833"
 								>
 									Lambiase et al., 2009
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="ddc01bfa-038b-4447-aa34-549ab48ca8f4"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005699"
+									href="./#/feldman/reference#P7001013171000000000000000005699"
 								>
 									Jindal, 2013
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="9dfa6249-d8ce-470e-a1b9-61814c82c32b"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005FF7"
+									href="./#/feldman/reference#P7001013171000000000000000005FF7"
 								>
 									Sentis et al., 2016
 								</a>).
@@ -491,7 +491,7 @@ const PageFour = props => {
 								sound (<a
 									data-chaucer-element-id="8fce740b-9c18-4615-92dd-f9853ea61b07"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000006425"
+									href="./#/feldman/reference#P7001013171000000000000000006425"
 								>
 									Wiley et al., 2005
 								</a>).
@@ -516,21 +516,21 @@ const PageFour = props => {
 								starting at around age 55 (<a
 									data-chaucer-element-id="83bd871e-ea9d-4b76-9d95-54d34e17f480"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000006345"
+									href="./#/feldman/reference#P7001013171000000000000000006345"
 								>
 									Veras &amp; Mattos, 2007
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="d962bdca-dabd-4139-ab2b-9b0910a59e8d"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005419"
+									href="./#/feldman/reference#P7001013171000000000000000005419"
 								>
 									Gopinath et al., 2012
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="a48ad4c3-f1f7-45d6-98f5-1e6c787e3f5d"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000057BF"
+									href="./#/feldman/reference#P70010131710000000000000000057BF"
 								>
 									Koike, 2014
 								</a>).
@@ -613,14 +613,14 @@ const PageFour = props => {
 								system processes nerve impulses increase reaction time (<a
 									data-chaucer-element-id="e519f110-585a-4199-95df-8b428285a74a"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005EA5"
+									href="./#/feldman/reference#P7001013171000000000000000005EA5"
 								>
 									Roggeveen, Prime, &amp; Ward, 2007
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="19f3a40b-f2d8-4518-b8d4-c83ca72064a8"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000053E3"
+									href="./#/feldman/reference#P70010131710000000000000000053E3"
 								>
 									Godefroy et al., 2010
 								</a>).
@@ -637,21 +637,21 @@ const PageFour = props => {
 								compensated by their expertise (<a
 									data-chaucer-element-id="aadf4c4c-5fd6-4c43-88bd-2ba53c9a6c90"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000059BB"
+									href="./#/feldman/reference#P70010131710000000000000000059BB"
 								>
 									Makishita &amp; Matsunaga, 2008
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="3f938b27-9d4c-46f3-9a8d-23473685c5be"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000004EB1"
+									href="./#/feldman/reference#P7001013171000000000000000004EB1"
 								>
 									Cantin et al., 2009
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="e6669623-1422-4614-8a49-f0ab60b5aa23"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005209"
+									href="./#/feldman/reference#P7001013171000000000000000005209"
 								>
 									Endrass Schreiber &amp; Kathmann, 2012
 								</a>).
@@ -747,7 +747,7 @@ const PageFour = props => {
 											<a
 												data-chaucer-element-id="c32589bb-a073-4b9f-a86c-21af3d092879"
 												className="biblioref"
-												href="bm01_pg0002.xhtml#P7001013171000000000000000005135"
+												href="./#/feldman/reference#P7001013171000000000000000005135"
 											>
 												DiGiovanna, 1994
 											</a>.

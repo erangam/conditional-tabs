@@ -65,21 +65,21 @@ const PageSixteen = props => {
 						become more ingrained as people age (<a
 							data-chaucer-element-id="557b8c9d-82d1-4088-9dd8-3a35fd4d60d5"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000061FF"
+							href="./#/feldman/reference#P70010131710000000000000000061FF"
 						>
 							Terracciano, McCrae, &amp; Costa, 2009
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="1f0daf89-dfa0-4dd7-a2fa-f177ae2cda9b"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005B5F"
+							href="./#/feldman/reference#P7001013171000000000000000005B5F"
 						>
 							Mõttus, Johnson, &amp; Deary, 2012
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="f278d943-e52a-4783-a89b-d393ee7c5ba7"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005065"
+							href="./#/feldman/reference#P7001013171000000000000000005065"
 						>
 							Curtis, Windsor, &amp; Soubelet, 2015
 						</a>; also see{' '}
@@ -312,28 +312,28 @@ const PageSixteen = props => {
 							pattern, however, is one of stability through adulthood (<a
 								data-chaucer-element-id="fca2597a-5ab2-430a-87c3-17f37208ba9f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005A5B"
+								href="./#/feldman/reference#P7001013171000000000000000005A5B"
 							>
 								McCrae &amp; Costa, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a8ef112a-65c8-48ea-8411-2be416b7d180"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000610F"
+								href="./#/feldman/reference#P700101317100000000000000000610F"
 							>
 								Srivastava, John, &amp; Gosling, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="0b031a6f-e35f-4e9c-927b-c2524fd7b655"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E25"
+								href="./#/feldman/reference#P7001013171000000000000000005E25"
 							>
 								Renner, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b700a77d-df30-4c06-8f17-efe001bb0e0c"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000054BB"
+								href="./#/feldman/reference#P70010131710000000000000000054BB"
 							>
 								Hahn, Gottschling, &amp; Spinath, 2012
 							</a>).
@@ -362,14 +362,14 @@ const PageSixteen = props => {
 							world at large (<a
 								data-chaucer-element-id="228278fb-b658-407a-be42-050328a439cf"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000057E5"
+								href="./#/feldman/reference#P70010131710000000000000000057E5"
 							>
 								Krueger &amp; Heckhausen, 1993
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ae72fed0-1adf-4bec-b823-bd902853b8af"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E79"
+								href="./#/feldman/reference#P7001013171000000000000000005E79"
 							>
 								Roberts, Walton, &amp; Viechtbauer, 2006
 							</a>).
@@ -417,14 +417,14 @@ const PageSixteen = props => {
 							levels (<a
 								data-chaucer-element-id="4e6a723f-59ff-450e-aeab-b9b7878d8b55"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000512D"
+								href="./#/feldman/reference#P700101317100000000000000000512D"
 							>
 								Diener, 2000
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="59400b19-40a6-4704-bf31-1f38eb8f36d4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006163"
+								href="./#/feldman/reference#P7001013171000000000000000006163"
 							>
 								Stone et al., 2010
 							</a>).
@@ -454,14 +454,14 @@ const PageSixteen = props => {
 							extent to which they can adapt to events (<a
 								data-chaucer-element-id="bd02ee31-cff7-4654-8c11-fafb0aa54310"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005961"
+								href="./#/feldman/reference#P7001013171000000000000000005961"
 							>
 								Lucas, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5217b2ee-6f77-406d-9e75-4cd1d5f6a1f6"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000512F"
+								href="./#/feldman/reference#P700101317100000000000000000512F"
 							>
 								Diener, Lucas, &amp; Scollon, 2009
 							</a>).
@@ -482,28 +482,28 @@ const PageSixteen = props => {
 							have similar levels of happiness (<a
 								data-chaucer-element-id="6b69bcde-d538-422d-be57-ef92b9d1cc10"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000512D"
+								href="./#/feldman/reference#P700101317100000000000000000512D"
 							>
 								Diener, 2000
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b89d2362-b4d7-43dd-b05d-234437e0ed9b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005131"
+								href="./#/feldman/reference#P7001013171000000000000000005131"
 							>
 								Diener, Oishi, &amp; Lucas, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8d94923a-fe0c-4494-9f74-32a17f6ad4f4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000056EB"
+								href="./#/feldman/reference#P70010131710000000000000000056EB"
 							>
 								Kahneman et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1bc44d88-7b53-442a-8cca-79f334e21f3d"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050DF"
+								href="./#/feldman/reference#P70010131710000000000000000050DF"
 							>
 								Delle Fave et al., 2013
 							</a>). The conclusion: Money doesn’t buy happiness. (See the

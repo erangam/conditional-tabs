@@ -220,14 +220,14 @@ const PageFive = props => {
 							activity for gay and lesbian couples during middle adulthood (<a
 								data-chaucer-element-id="dcd4af49-f004-4f4a-8e28-156b7e41d887"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005553"
+								href="./#/feldman/reference#P7001013171000000000000000005553"
 							>
 								Herbenick et al., 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5d5b6ba3-6d9d-4096-bf72-3ed0c1fe1aeb"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000057B5"
+								href="./#/feldman/reference#P70010131710000000000000000057B5"
 							>
 								Koh &amp; Sewell, 2015
 							</a>).
@@ -339,14 +339,14 @@ const PageFive = props => {
 							use birth control (<a
 								data-chaucer-element-id="8b60622c-9f96-4af1-910f-9a3da63f6e35"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000583B"
+								href="./#/feldman/reference#P700101317100000000000000000583B"
 							>
 								Lamont, 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="c0f6a38b-03f8-43d7-ab15-4ac61b4aeb44"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050DB"
+								href="./#/feldman/reference#P70010131710000000000000000050DB"
 							>
 								DeLamater, 2012
 							</a>).
@@ -367,7 +367,7 @@ const PageFive = props => {
 							</i>, the male sex hormone (<a
 								data-chaucer-element-id="9c347be7-dcd3-44da-b692-71d1b622bf30"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005629"
+								href="./#/feldman/reference#P7001013171000000000000000005629"
 							>
 								Hyde &amp; Delameter, 2003
 							</a>).
@@ -387,28 +387,28 @@ const PageFive = props => {
 							increase sexual pleasure (<a
 								data-chaucer-element-id="b769c889-8604-4506-983f-4b8db5150a53"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005863"
+								href="./#/feldman/reference#P7001013171000000000000000005863"
 							>
 								Laumann, Paik, &amp; Rosen, 1999
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="09d2bc3b-5d7b-471b-8175-a73e3c7a6510"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000052FD"
+								href="./#/feldman/reference#P70010131710000000000000000052FD"
 							>
 								Freedman &amp; Ellison, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="27151897-d865-4b14-8956-fa3ef56a4b18"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005BAB"
+								href="./#/feldman/reference#P7001013171000000000000000005BAB"
 							>
 								Nappi &amp; Polatti, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="38a7b813-fd9c-45f0-b696-f9bec5623ff3"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006109"
+								href="./#/feldman/reference#P7001013171000000000000000006109"
 							>
 								Spring, 2015
 							</a>).
@@ -484,7 +484,7 @@ const PageFive = props => {
 							progesterone levels—the female sex hormones—begin to drop (<a
 								data-chaucer-element-id="d30906d0-12d7-4c8f-a7bf-190d80961e88"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005FC7"
+								href="./#/feldman/reference#P7001013171000000000000000005FC7"
 							>
 								Schwenkhagen, 2007
 							</a>).
@@ -517,21 +517,21 @@ const PageFive = props => {
 							half—have no significant symptoms at all (<a
 								data-chaucer-element-id="f3089b70-1852-467d-a031-55b962a3ef74"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000543F"
+								href="./#/feldman/reference#P700101317100000000000000000543F"
 							>
 								Grady, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7ad4cb8d-93ba-4830-a01a-d4d44f42e96a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000565B"
+								href="./#/feldman/reference#P700101317100000000000000000565B"
 							>
 								Ishizuka, Kudo, &amp; Tango, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="be3fdd5d-e198-4ccf-a2a7-4d90f0eead32"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006175"
+								href="./#/feldman/reference#P7001013171000000000000000006175"
 							>
 								Strauss, 2013
 							</a>).
@@ -553,21 +553,21 @@ const PageFive = props => {
 							menopause (<a
 								data-chaucer-element-id="0b38fff4-5925-43f8-b182-9f6b6ea02ae9"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000644F"
+								href="./#/feldman/reference#P700101317100000000000000000644F"
 							>
 								Winterich, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6d544662-4849-48d2-bc24-7e0187028894"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000602B"
+								href="./#/feldman/reference#P700101317100000000000000000602B"
 							>
 								Shea, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4bc65ab6-c958-4293-bb5b-72a37aa59e4c"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006045"
+								href="./#/feldman/reference#P7001013171000000000000000006045"
 							>
 								Shuster et al., 2010
 							</a>).
@@ -655,21 +655,21 @@ const PageFive = props => {
 							people in late adulthood (<a
 								data-chaucer-element-id="3e4feb01-a68d-41f9-904f-afe13fe58b69"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004B83"
+								href="./#/feldman/reference#P7001013171000000000000000004B83"
 							>
 								Alexandersen, Karsdal, &amp; Christiansen, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="69648fe6-28ea-453b-975a-a1d0ee62df1f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000591D"
+								href="./#/feldman/reference#P700101317100000000000000000591D"
 							>
 								Lisabeth &amp; Bushnell, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="3f11a635-738d-4667-8280-68de093eeb11"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000520F"
+								href="./#/feldman/reference#P700101317100000000000000000520F"
 							>
 								Engler-Chiurazzi, Singh, &amp; Simpkins, 2016
 							</a>).
@@ -686,21 +686,21 @@ const PageFive = props => {
 							Finally, increased estrogen may lead to a greater sex drive (<a
 								data-chaucer-element-id="73c723e5-9913-4c5e-8c01-10bc6a63e0a5"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000505F"
+								href="./#/feldman/reference#P700101317100000000000000000505F"
 							>
 								Cumming et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4341c12c-5c27-4d87-a7df-8890ccf0ce46"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000536B"
+								href="./#/feldman/reference#P700101317100000000000000000536B"
 							>
 								Garcia-Portilla, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ffe181b9-b712-4775-a0fa-4423be54fca0"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005837"
+								href="./#/feldman/reference#P7001013171000000000000000005837"
 							>
 								Lambrinoudaki &amp; Pérez-López, 2013
 							</a>).
@@ -725,7 +725,7 @@ const PageFive = props => {
 							with estrogen-alone therapy (<a
 								data-chaucer-element-id="4c608ef2-3cd8-4245-9e5e-86e7d3937063"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000592D"
+								href="./#/feldman/reference#P700101317100000000000000000592D"
 							>
 								Lobo, 2009
 							</a>).
@@ -745,21 +745,21 @@ const PageFive = props => {
 							20 percent a decade later (<a
 								data-chaucer-element-id="fc0971ca-3b1a-4498-8d6a-573cf1b85589"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005BF9"
+								href="./#/feldman/reference#P7001013171000000000000000005BF9"
 							>
 								Newton et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ac6eb611-f2e4-4144-a16e-68c9177cd934"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004F39"
+								href="./#/feldman/reference#P7001013171000000000000000004F39"
 							>
 								Chelebowski et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="25d26852-0e74-4af3-94bc-57bb8375e9f3"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004CD3"
+								href="./#/feldman/reference#P7001013171000000000000000004CD3"
 							>
 								Beck, 2012
 							</a>).
@@ -782,21 +782,21 @@ const PageFive = props => {
 							therapy, at least on a short-term basis (<a
 								data-chaucer-element-id="9dd15365-7453-4dce-8d1c-2ab7a21aeaaf"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005ECF"
+								href="./#/feldman/reference#P7001013171000000000000000005ECF"
 							>
 								Rossouw et al., 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="63bfc0b4-5e82-4357-ab5c-5824e9542809"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000058E1"
+								href="./#/feldman/reference#P70010131710000000000000000058E1"
 							>
 								Lewis, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d2c77141-0239-4ce7-87d5-b424b86b13ea"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004CD3"
+								href="./#/feldman/reference#P7001013171000000000000000004CD3"
 							>
 								Beck, 2012
 							</a>).
@@ -845,14 +845,14 @@ const PageFive = props => {
 							(<a
 								data-chaucer-element-id="973a3047-4009-47b2-982a-66bef2c4ef5b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060D7"
+								href="./#/feldman/reference#P70010131710000000000000000060D7"
 							>
 								Soares &amp; Frey, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="bbb71f99-b6ae-432d-ad17-f5fb4ebaee84"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005A3B"
+								href="./#/feldman/reference#P7001013171000000000000000005A3B"
 							>
 								Mauas, Kopala-Sibley, &amp; Zuroff, 2014
 							</a>).
@@ -869,21 +869,21 @@ const PageFive = props => {
 							difficulties, but they do so at other times in life as well (<a
 								data-chaucer-element-id="5d6e598b-dcdf-4b97-bc18-78269ffe37d4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005301"
+								href="./#/feldman/reference#P7001013171000000000000000005301"
 							>
 								Freeman, Sammel, &amp; Liu, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6e5e6530-19bd-43fb-8937-499c247988ac"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060E1"
+								href="./#/feldman/reference#P70010131710000000000000000060E1"
 							>
 								Somerset et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="9e3122a6-8ffb-4d37-aed0-c9d66ef86f32"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006491"
+								href="./#/feldman/reference#P7001013171000000000000000006491"
 							>
 								Wroolie &amp; Holcomb, 2010
 							</a>).
@@ -903,21 +903,21 @@ const PageFive = props => {
 							her actual experience of the period (<a
 								data-chaucer-element-id="26657ff4-f5a6-4e9a-9c0c-d347c6a99f63"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004DFF"
+								href="./#/feldman/reference#P7001013171000000000000000004DFF"
 							>
 								Breheny &amp; Stephens, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="222155cf-0ac6-48e3-9240-34aaf8833748"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004CBD"
+								href="./#/feldman/reference#P7001013171000000000000000004CBD"
 							>
 								Bauld &amp; Brown, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="87b4244a-4944-4751-a59e-2a9395698004"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006173"
+								href="./#/feldman/reference#P7001013171000000000000000006173"
 							>
 								Strauss, 2011
 							</a>).
@@ -1037,21 +1037,21 @@ const PageFive = props => {
 							often prove an effective treatment (<a
 								data-chaucer-element-id="c60646a9-1280-4ce4-9562-d0e36b526b02"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004B33"
+								href="./#/feldman/reference#P7001013171000000000000000004B33"
 							>
 								Abdo et al., 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="735780fe-6243-4a7c-a8a1-657cfcda94ce"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000600F"
+								href="./#/feldman/reference#P700101317100000000000000000600F"
 							>
 								Shamloul &amp; Ghanem, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4e62025b-bca4-4594-932f-aec518c33548"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000053DF"
+								href="./#/feldman/reference#P70010131710000000000000000053DF"
 							>
 								Glina, Cohen, &amp; Vieira, 2014
 							</a>).

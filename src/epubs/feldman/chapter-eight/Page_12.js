@@ -87,21 +87,21 @@ const PageTwelve = props => {
 						changes, rather than their actual ability to remember (<a
 							data-chaucer-element-id="154ea980-a84d-4c58-bc4d-f50194307f6d"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004F31"
+							href="./#/feldman/reference#P7001013171000000000000000004F31"
 						>
 							Chasteen et al., 2005
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="56bd2c18-97b0-4689-97a6-8dfe69135061"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000559B"
+							href="./#/feldman/reference#P700101317100000000000000000559B"
 						>
 							Hoessler &amp; Chasteen, 2008
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="2aed65f0-a3a2-4c4f-9321-b9a04ad70d56"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005573"
+							href="./#/feldman/reference#P7001013171000000000000000005573"
 						>
 							Hess, Hinson, &amp; Hodges, 2009
 						</a>).
@@ -162,14 +162,14 @@ const PageTwelve = props => {
 							or isolate it (<a
 								data-chaucer-element-id="4e631832-4a6c-4ba1-a53e-9aff9dd6c720"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F1D"
+								href="./#/feldman/reference#P7001013171000000000000000005F1D"
 							>
 								Salthouse, 2006
 							</a>,{' '}
 							<a
 								data-chaucer-element-id="fc249459-e2f9-4304-9a0f-f58e32f7df27"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F21"
+								href="./#/feldman/reference#P7001013171000000000000000005F21"
 							>
 								2010
 							</a>).
@@ -241,7 +241,7 @@ const PageTwelve = props => {
 							a tip (<a
 								data-chaucer-element-id="faa097a1-525f-4275-9cd5-947b13ae1796"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000552F"
+								href="./#/feldman/reference#P700101317100000000000000000552F"
 							>
 								Hebscher &amp; Gilboa, 2016
 							</a>).
@@ -269,7 +269,7 @@ const PageTwelve = props => {
 							Fiske and Shelley Taylor (<a
 								data-chaucer-element-id="ad1472f9-65ca-44b6-8885-b84339ffba90"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000052B5"
+								href="./#/feldman/reference#P70010131710000000000000000052B5"
 							>
 								1991
 							</a>) use an example of an old Native American folktale in which
@@ -303,7 +303,7 @@ const PageTwelve = props => {
 							place” (<a
 								data-chaucer-element-id="cef8b4fe-22a0-4827-9e7b-227e2aa43cb2"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000628D"
+								href="./#/feldman/reference#P700101317100000000000000000628D"
 							>
 								Tse &amp; Altarriba, 2007
 							</a>; also see{' '}

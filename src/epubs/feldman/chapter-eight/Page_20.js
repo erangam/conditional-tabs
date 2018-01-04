@@ -50,14 +50,14 @@ const PageTwenty = props => {
 						the globe experience violent victimization during their lives (<a
 							data-chaucer-element-id="05a82385-ffe3-468d-9efd-19ffac191a3b"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000638D"
+							href="./#/feldman/reference#P700101317100000000000000000638D"
 						>
 							Walker, 1999
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="531713bf-3de7-4e4a-bd21-bba01c1abe74"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005369"
+							href="./#/feldman/reference#P7001013171000000000000000005369"
 						>
 							Garcia-Moreno et al., 2005
 						</a>; also see{' '}
@@ -151,7 +151,7 @@ const PageTwenty = props => {
 									<a
 										data-chaucer-element-id="7a1ac247-77ca-4a07-a51d-d1b4cdbb0e49"
 										className="biblioref"
-										href="bm01_pg0002.xhtml#P7001013171000000000000000006287"
+										href="./#/feldman/reference#P7001013171000000000000000006287"
 									>
 										Truman &amp; Morgan, 2014
 									</a>.
@@ -198,21 +198,21 @@ const PageTwenty = props => {
 						abuse their husbands (<a
 							data-chaucer-element-id="11ef7f0f-f943-4d35-85e0-b4b07601e529"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005513"
+							href="./#/feldman/reference#P7001013171000000000000000005513"
 						>
 							Harway, 2000
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="7182baf1-c39c-4dad-870f-c932e62507bc"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004EA1"
+							href="./#/feldman/reference#P7001013171000000000000000004EA1"
 						>
 							Cameron, 2003
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="7ee35232-ab03-47d5-8344-55d24dee5e25"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005147"
+							href="./#/feldman/reference#P7001013171000000000000000005147"
 						>
 							Dixon &amp; Browne, 2003
 						</a>).
@@ -229,21 +229,21 @@ const PageTwenty = props => {
 						violent themselves (<a
 							data-chaucer-element-id="854edc3c-a7e6-437f-984e-2e53d8c2560b"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000006171"
+							href="./#/feldman/reference#P7001013171000000000000000006171"
 						>
 							Straus &amp; Yodanis, 1996
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="d7ae49c5-3d31-435a-a845-24e976ed3c4e"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000051D9"
+							href="./#/feldman/reference#P70010131710000000000000000051D9"
 						>
 							Ehrensaft, Cohen, &amp; Brown, 2003
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="e92639f5-b837-40c6-a41a-d5b2d49cfa09"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000581D"
+							href="./#/feldman/reference#P700101317100000000000000000581D"
 						>
 							Lackey, 2003
 						</a>).
@@ -264,14 +264,14 @@ const PageTwenty = props => {
 						likely to occur in affluent families (<a
 							data-chaucer-element-id="70bf8dc1-cb38-4586-ac9a-39fdd30291f1"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004BD9"
+							href="./#/feldman/reference#P7001013171000000000000000004BD9"
 						>
 							American Psychological Association [APA], 1996
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="3123bde3-f63d-442c-849e-79799af6bf10"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005029"
+							href="./#/feldman/reference#P7001013171000000000000000005029"
 						>
 							Cox, Kotch, &amp; Everson, 2003
 						</a>).
@@ -300,7 +300,7 @@ const PageTwenty = props => {
 							Marital aggression by a husband typically occurs in three stages (<a
 								data-chaucer-element-id="7573d4cf-f21d-461c-a22a-c4d3804c1ea5"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000638D"
+								href="./#/feldman/reference#P700101317100000000000000000638D"
 							>
 								Walker, 1999
 							</a>) (see{' '}
@@ -497,28 +497,28 @@ const PageTwenty = props => {
 							frequently were the victims of abuse as children (<a
 								data-chaucer-element-id="1d569250-9a50-467e-8c76-4c75c3d018ad"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005FFB"
+								href="./#/feldman/reference#P7001013171000000000000000005FFB"
 							>
 								Serbin &amp; Karp, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="52ad7027-9cab-4d9d-9fa1-7c26876a850f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E27"
+								href="./#/feldman/reference#P7001013171000000000000000005E27"
 							>
 								Renner &amp; Slack, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="08fc8334-1304-4dba-8a74-f50cf2bdba39"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000640F"
+								href="./#/feldman/reference#P700101317100000000000000000640F"
 							>
 								Whiting et al., 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="56f85225-930b-4e31-b5cb-bc9c3a75b7bc"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000521F"
+								href="./#/feldman/reference#P700101317100000000000000000521F"
 							>
 								Eriksson &amp; Mazerolle, 2015
 							</a>).
@@ -566,7 +566,7 @@ const PageTwenty = props => {
 							story of abuse (<a
 								data-chaucer-element-id="6f202698-67d4-477b-a288-c3cd9f148e6e"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005667"
+								href="./#/feldman/reference#P7001013171000000000000000005667"
 							>
 								Jacobson &amp; Gottman, 1998
 							</a>).
@@ -688,7 +688,7 @@ const PageTwenty = props => {
 								<a
 									data-chaucer-element-id="3b00824c-c6be-497b-9977-70ab4a272c8c"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005299"
+									href="./#/feldman/reference#P7001013171000000000000000005299"
 								>
 									Findlen, 1990
 								</a>
@@ -707,7 +707,7 @@ const PageTwenty = props => {
 							traditions that regard violence as acceptable (<a
 								data-chaucer-element-id="108a131c-b4c4-42e0-b673-e4957bcf4cc7"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E03"
+								href="./#/feldman/reference#P7001013171000000000000000005E03"
 							>
 								Rao, 1997
 							</a>). Wife battering is especially prevalent in cultures that
@@ -729,7 +729,7 @@ const PageTwenty = props => {
 							States (<a
 								data-chaucer-element-id="7f7656b0-c9e7-4ab3-82d3-ef18dc5feed0"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005093"
+								href="./#/feldman/reference#P7001013171000000000000000005093"
 							>
 								Davidson, 1977
 							</a>).
@@ -760,21 +760,21 @@ const PageTwenty = props => {
 							(<a
 								data-chaucer-element-id="e4a0f708-6ae4-4a07-894f-072424c3c277"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000051A9"
+								href="./#/feldman/reference#P70010131710000000000000000051A9"
 							>
 								Dutton, 1994
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ebeb6f9d-edc9-4523-8461-074f02090e30"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006339"
+								href="./#/feldman/reference#P7001013171000000000000000006339"
 							>
 								Vandello &amp; Cohen, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="0865ffcc-308a-40dd-9218-660048e1570b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C95"
+								href="./#/feldman/reference#P7001013171000000000000000004C95"
 							>
 								Banks, 2016
 							</a>; also see the{' '}

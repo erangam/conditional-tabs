@@ -84,6 +84,9 @@ iframe {
 .lc_iframeinner iframe {
 	max-width: 766px !important;
 }
+.reference-selected {
+	margin-bottom: 200px;
+}
 @media (max-width: 640px) {
 	.bodymatter {
 		padding: 2em;

@@ -221,7 +221,7 @@ const PageSeven = props => {
 						recommended for adults during middle adulthood (<a
 							data-chaucer-element-id="0829032b-bf60-411c-ad0b-cb5ac46227e6"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000006399"
+							href="./#/feldman/reference#P7001013171000000000000000006399"
 						>
 							Walters &amp; Rye, 2009
 						</a>) (see{' '}
@@ -961,7 +961,7 @@ const PageSeven = props => {
 						box (<a
 							data-chaucer-element-id="20e1eb75-dbc0-4ada-aab8-652937c3a81f"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000060B1"
+							href="./#/feldman/reference#P70010131710000000000000000060B1"
 						>
 							Smedley &amp; Syme, 2000
 						</a>).
@@ -1031,21 +1031,21 @@ const PageSeven = props => {
 							rate, are linked to lower levels of income (<a
 								data-chaucer-element-id="4d7f8184-dfa5-4f53-a184-cce5a06b4a9a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000529D"
+								href="./#/feldman/reference#P700101317100000000000000000529D"
 							>
 								Fingerhut &amp; Makuc, 1992
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7a31c782-57a6-48f7-98ca-afd7e002f152"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000506D"
+								href="./#/feldman/reference#P700101317100000000000000000506D"
 							>
 								Dahl &amp; Birkelund, 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="4136f28c-df75-4e13-9613-a46cd739a984"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005541"
+								href="./#/feldman/reference#P7001013171000000000000000005541"
 							>
 								Hendren, Humiston, &amp; Fiscella, 2012
 							</a>).
@@ -1073,7 +1073,7 @@ const PageSeven = props => {
 							auto accidents; and they work at less dangerous jobs (<a
 								data-chaucer-element-id="0e56c32f-6637-4ca9-b8a6-45c1c6a03033"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005A67"
+								href="./#/feldman/reference#P7001013171000000000000000005A67"
 							>
 								McDonald, 1999
 							</a>).
@@ -1096,7 +1096,7 @@ const PageSeven = props => {
 							research community (<a
 								data-chaucer-element-id="1a6099cf-3fe0-49b7-8397-e03755685e0e"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006353"
+								href="./#/feldman/reference#P7001013171000000000000000006353"
 							>
 								Vidaver et al., 2000
 							</a>). See the following video on health disparities to learn
@@ -1203,21 +1203,21 @@ const PageSeven = props => {
 							serious health conditions, including heart disease (<a
 								data-chaucer-element-id="c3a89fbe-0170-4910-af60-4301523d52f6"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000563D"
+								href="./#/feldman/reference#P700101317100000000000000000563D"
 							>
 								Ihle et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="3b838400-95ac-4da4-a423-0e75b426c6d7"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005203"
+								href="./#/feldman/reference#P7001013171000000000000000005203"
 							>
 								Emery, Anderson, &amp; Goodwin, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d1477737-637a-41fe-aed3-b336833bf41b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050A3"
+								href="./#/feldman/reference#P70010131710000000000000000050A3"
 							>
 								de Frias &amp; Whyne, 2015
 							</a>). Watch the following video on personality and health.

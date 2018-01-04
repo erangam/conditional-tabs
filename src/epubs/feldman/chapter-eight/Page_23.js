@@ -35,7 +35,7 @@ const PageTwentyThree = props => {
 						70 waking hours per week of leisure time (<a
 							data-chaucer-element-id="b338054a-87a3-402d-9359-029de2e796bf"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000056D3"
+							href="./#/feldman/reference#P70010131710000000000000000056D3"
 						>
 							Kacapyr, 1997
 						</a>). What do they do with it?
@@ -55,14 +55,14 @@ const PageTwentyThree = props => {
 						week socializing (<a
 							data-chaucer-element-id="041de732-53ac-4135-88f5-aaccdb24c07b"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005E87"
+							href="./#/feldman/reference#P7001013171000000000000000005E87"
 						>
 							Robinson &amp; Godbey, 1997
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="48b3f273-d4dd-42b8-a5e7-b456b0a97ed5"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000590F"
+							href="./#/feldman/reference#P700101317100000000000000000590F"
 						>
 							Lindstrom et al., 2005
 						</a>).
@@ -79,14 +79,14 @@ const PageTwentyThree = props => {
 						they may take up a variety of new activities (<a
 							data-chaucer-element-id="c7127cf0-a5be-4984-bf94-dd094b2e9c75"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004F91"
+							href="./#/feldman/reference#P7001013171000000000000000004F91"
 						>
 							Cliff, 1991
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="fc8ae58f-b0ff-4905-8d71-ce5c124c26b2"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000056BD"
+							href="./#/feldman/reference#P70010131710000000000000000056BD"
 						>
 							Jopp &amp; Hertzog, 2010
 						</a>).
@@ -105,7 +105,7 @@ const PageTwentyThree = props => {
 						did previously (<a
 							data-chaucer-element-id="801aad42-ec62-4ff0-a2a5-a1319408f72a"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005E87"
+							href="./#/feldman/reference#P7001013171000000000000000005E87"
 						>
 							Robinson &amp; Godbey, 1997
 						</a>).
@@ -128,14 +128,14 @@ const PageTwentyThree = props => {
 						United States, with Switzerland ranking first (<a
 							data-chaucer-element-id="ce50b76f-d6dc-4703-84e1-372c21e4492e"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000058C9"
+							href="./#/feldman/reference#P70010131710000000000000000058C9"
 						>
 							Levine, 1997a
 						</a>,{' '}
 						<a
 							data-chaucer-element-id="5e001209-44f0-4e08-a22d-d443624ca07a"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000058CB"
+							href="./#/feldman/reference#P70010131710000000000000000058CB"
 						>
 							1997b
 						</a>).

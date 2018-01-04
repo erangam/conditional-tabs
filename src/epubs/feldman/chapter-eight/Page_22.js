@@ -40,14 +40,14 @@ const PageTwentyTwo = props => {
 						work (<a
 							data-chaucer-element-id="3444c085-6c25-40bc-8ff6-eacc5cea62a3"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000055D7"
+							href="./#/feldman/reference#P70010131710000000000000000055D7"
 						>
 							Howard, 1992
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="ad25ada6-6687-4cdc-a210-b4bbabc90c6f"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000606F"
+							href="./#/feldman/reference#P700101317100000000000000000606F"
 						>
 							Simonton, 1997
 						</a>).
@@ -84,28 +84,28 @@ const PageTwentyTwo = props => {
 							stress levels for both men and women (<a
 								data-chaucer-element-id="159b4f5e-f326-4854-81af-a31ba2d5be2a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005D33"
+								href="./#/feldman/reference#P7001013171000000000000000005D33"
 							>
 								Peterson &amp; Wilson, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="32c7c1e6-44f7-461f-9d66-7298c1a7d3cc"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004FAD"
+								href="./#/feldman/reference#P7001013171000000000000000004FAD"
 							>
 								Cohrs, Abele, &amp; Dette, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ccd1e33a-fbfe-4c7a-87e7-fa128acd4ea8"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E01"
+								href="./#/feldman/reference#P7001013171000000000000000005E01"
 							>
 								Rantanen et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="3e265d6f-3601-4539-8db4-796624922842"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000054DD"
+								href="./#/feldman/reference#P70010131710000000000000000054DD"
 							>
 								Hamlet &amp; Herrick, 2014
 							</a>).
@@ -126,7 +126,7 @@ const PageTwentyTwo = props => {
 							satisfaction (<a
 								data-chaucer-element-id="f8c14f6e-0ad2-4cfc-84dd-9c293661544d"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000061CF"
+								href="./#/feldman/reference#P70010131710000000000000000061CF"
 							>
 								Tangri, Thomas, &amp; Mednick, 2003
 							</a>).
@@ -206,28 +206,28 @@ const PageTwentyTwo = props => {
 							and medical care can be disappointing and demoralizing (<a
 								data-chaucer-element-id="1a7518c3-2c88-459f-9948-f9f7343e61c8"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000061DD"
+								href="./#/feldman/reference#P70010131710000000000000000061DD"
 							>
 								Taris, van Horn, &amp; Schaufeli, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e4c60108-6354-48b3-be8d-8bc1fedba77f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C75"
+								href="./#/feldman/reference#P7001013171000000000000000004C75"
 							>
 								Bakker &amp; Heuven, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="f20a0a00-9527-46dd-8ac2-beefafdef391"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000519D"
+								href="./#/feldman/reference#P700101317100000000000000000519D"
 							>
 								Dunford et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="116962f3-efb7-4dbc-9c11-d07f16a86bd3"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005ECB"
+								href="./#/feldman/reference#P7001013171000000000000000005ECB"
 							>
 								Rössler et al., 2015
 							</a>).
@@ -289,7 +289,7 @@ const PageTwentyTwo = props => {
 							to a problem exists (<a
 								data-chaucer-element-id="c3e07b63-cc02-409d-ad6d-1dd89943c6b1"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000592F"
+								href="./#/feldman/reference#P700101317100000000000000000592F"
 							>
 								Lock, 1992
 							</a>).
@@ -313,28 +313,28 @@ const PageTwentyTwo = props => {
 							from work during leisure time (<a
 								data-chaucer-element-id="0eb9a292-702e-4d06-98c2-354134f4b2e8"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050BF"
+								href="./#/feldman/reference#P70010131710000000000000000050BF"
 							>
 								de Jonge et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a16cd238-5798-4c66-acd5-0084d88b365a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060E7"
+								href="./#/feldman/reference#P70010131710000000000000000060E7"
 							>
 								Sonnentag, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="41da3880-9ab6-4aab-a1f1-a13716865588"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C61"
+								href="./#/feldman/reference#P7001013171000000000000000004C61"
 							>
 								Bährer-Kohler, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7fd7988d-8e38-43b6-8bb7-7d306ad39f36"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000504D"
+								href="./#/feldman/reference#P700101317100000000000000000504D"
 							>
 								Crowe, 2016
 							</a>). Watch the following video on burnout to learn more.{' '}
@@ -411,7 +411,7 @@ const PageTwentyTwo = props => {
 							and even physically devastating (<a
 								data-chaucer-element-id="4d764c17-da57-4df1-86e2-8529927e5b03"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006019"
+								href="./#/feldman/reference#P7001013171000000000000000006019"
 							>
 								Sharf, 1992
 							</a>).
@@ -429,21 +429,21 @@ const PageTwentyTwo = props => {
 							percent for men and 2 percent for women (<a
 								data-chaucer-element-id="68979774-775d-4071-8a12-8732461e1be3"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004FEF"
+								href="./#/feldman/reference#P7001013171000000000000000004FEF"
 							>
 								Connor, 1992
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="34c2eb52-4c59-4fd6-a428-03cec62566b7"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005647"
+								href="./#/feldman/reference#P7001013171000000000000000005647"
 							>
 								Inoue et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="fd476a4f-b2f2-4d0a-b0ac-d2959d508575"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005CF3"
+								href="./#/feldman/reference#P7001013171000000000000000005CF3"
 							>
 								Paul &amp; Moser, 2009
 							</a>).
@@ -461,14 +461,14 @@ const PageTwentyTwo = props => {
 							and even for meals (<a
 								data-chaucer-element-id="20c6f411-90fc-4d5b-979c-d864e0251f40"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C7F"
+								href="./#/feldman/reference#P7001013171000000000000000004C7F"
 							>
 								Ball &amp; Orford, 2002
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="89896fd5-cebb-479b-b7e4-c0f06ff0ad5a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000062B1"
+								href="./#/feldman/reference#P70010131710000000000000000062B1"
 							>
 								Tyre &amp; McGinn, 2003
 							</a>).
@@ -488,7 +488,7 @@ const PageTwentyTwo = props => {
 							are more willing to learn new skills (<a
 								data-chaucer-element-id="4d96be43-9364-4c11-ac06-f8db0490fd78"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004FEF"
+								href="./#/feldman/reference#P7001013171000000000000000004FEF"
 							>
 								Connor, 1992
 							</a>).
@@ -510,14 +510,14 @@ const PageTwentyTwo = props => {
 							find a new career, too (<a
 								data-chaucer-element-id="d662b22b-bd55-4d01-a17e-068470b3f194"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000063B9"
+								href="./#/feldman/reference#P70010131710000000000000000063B9"
 							>
 								Waters &amp; Moore, 2002
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b4516265-a0d7-49e8-a903-f06594fca3f0"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005D09"
+								href="./#/feldman/reference#P7001013171000000000000000005D09"
 							>
 								Pelzer, Schaffrath, &amp; Vernaleken, 2014
 							</a>).
@@ -640,14 +640,14 @@ const PageTwentyTwo = props => {
 							considerably younger than they are (<a
 								data-chaucer-element-id="433bec3c-c432-49d2-bccc-0b65724d852b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006019"
+								href="./#/feldman/reference#P7001013171000000000000000006019"
 							>
 								Sharf, 1992
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="09101aa4-c139-4b0f-a9a9-45ae242c247d"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004CA7"
+								href="./#/feldman/reference#P7001013171000000000000000004CA7"
 							>
 								Barnett &amp; Hyde, 2001
 							</a>).
@@ -662,21 +662,21 @@ const PageTwentyTwo = props => {
 							especially valued employees (<a
 								data-chaucer-element-id="e2e84833-28e1-4efe-b8b8-4e6214c9d582"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004E19"
+								href="./#/feldman/reference#P7001013171000000000000000004E19"
 							>
 								Bromberger &amp; Matthews, 1994
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7177d5b6-9b7b-43c8-b4a1-f48777f10a74"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005C99"
+								href="./#/feldman/reference#P7001013171000000000000000005C99"
 							>
 								Otto, Dette-Hagenmeyer, &amp; Dalbert, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="23c6e7a4-d63a-4dae-8c52-360c14d8278c"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005267"
+								href="./#/feldman/reference#P7001013171000000000000000005267"
 							>
 								Feldman &amp; Ng, 2013
 							</a>).
@@ -764,7 +764,7 @@ const PageTwentyTwo = props => {
 								<a
 									data-chaucer-element-id="a3804828-2784-412f-b194-d5102a028322"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005771"
+									href="./#/feldman/reference#P7001013171000000000000000005771"
 								>
 									Kim, 1995
 								</a>
@@ -803,7 +803,7 @@ const PageTwentyTwo = props => {
 								<a
 									data-chaucer-element-id="16015119-276c-4b35-b30c-57059374becf"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000004FE7"
+									href="./#/feldman/reference#P7001013171000000000000000004FE7"
 								>
 									Congressional Budget Office, 2013
 								</a>).
@@ -831,21 +831,21 @@ const PageTwentyTwo = props => {
 								(<a
 									data-chaucer-element-id="fd621589-ed7a-4c9d-9265-5a1134550a76"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000004E9F"
+									href="./#/feldman/reference#P7001013171000000000000000004E9F"
 								>
 									Camarota, 2001
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="4d1cc332-8c82-413f-993b-71566c9749a9"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P70010131710000000000000000052BF"
+									href="./#/feldman/reference#P70010131710000000000000000052BF"
 								>
 									Flanigan, 2005
 								</a>;{' '}
 								<a
 									data-chaucer-element-id="09695229-4ef5-4625-bebc-4190b9cd31c7"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000005429"
+									href="./#/feldman/reference#P7001013171000000000000000005429"
 								>
 									Gorman, 2010
 								</a>):

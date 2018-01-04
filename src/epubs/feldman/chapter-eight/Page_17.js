@@ -85,7 +85,7 @@ const PageSeventeen = props => {
 						alternative forms of family life today (<a
 							data-chaucer-element-id="803d1908-93cd-4693-8fb7-d79c31077b27"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005723"
+							href="./#/feldman/reference#P7001013171000000000000000005723"
 						>
 							Kaslow, 2001
 						</a>).

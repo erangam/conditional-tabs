@@ -121,7 +121,7 @@ const PageEleven = props => {
 							some cases up to their 50s. Then the scores began to decline (<a
 								data-chaucer-element-id="f3dc70cf-ba71-4682-84b0-77d08a82c033"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004CC9"
+								href="./#/feldman/reference#P7001013171000000000000000004CC9"
 							>
 								Bayley &amp; Oden, 1955
 							</a>).
@@ -142,7 +142,7 @@ const PageEleven = props => {
 							cross-sectional measures (<a
 								data-chaucer-element-id="9fadce50-4b18-45ac-9fdd-eb8b7f699139"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F1F"
+								href="./#/feldman/reference#P7001013171000000000000000005F1F"
 							>
 								Salthouse, 2009
 							</a>).
@@ -305,28 +305,28 @@ const PageEleven = props => {
 							and can actually improve (<a
 								data-chaucer-element-id="89a5edd6-3ce1-4d3d-9f9c-73cb4994e5a5"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F29"
+								href="./#/feldman/reference#P7001013171000000000000000005F29"
 							>
 								Salthouse, Pink, &amp; Tucker-Drob, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1fe36c26-3f40-4c8f-98f2-ec66bf22ae3b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050B7"
+								href="./#/feldman/reference#P70010131710000000000000000050B7"
 							>
 								Deary, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e8758265-004d-44f0-aca9-dbe199f0aa08"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000053A9"
+								href="./#/feldman/reference#P70010131710000000000000000053A9"
 							>
 								Ghisletta et al., 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="93b2a446-3260-4b85-ab8f-6ed00398dd0f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000059C3"
+								href="./#/feldman/reference#P70010131710000000000000000059C3"
 							>
 								Manard et al., 2015
 							</a>) (see{' '}
@@ -425,7 +425,7 @@ const PageEleven = props => {
 										<a
 											data-chaucer-element-id="d107617a-06b3-4133-b6e9-e4998756561a"
 											className="biblioref"
-											href="bm01_pg0002.xhtml#P7001013171000000000000000005F6B"
+											href="./#/feldman/reference#P7001013171000000000000000005F6B"
 										>
 											Schaie, 1985
 										</a>.
@@ -449,7 +449,7 @@ const PageEleven = props => {
 							intelligence (<a
 								data-chaucer-element-id="b597883f-65e0-4ca9-ac67-fc98c74bb2f4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F75"
+								href="./#/feldman/reference#P7001013171000000000000000005F75"
 							>
 								Schaie, Willis, &amp; Pennak, 2005
 							</a>).
@@ -471,7 +471,7 @@ const PageEleven = props => {
 							middle adulthood, around age 40, then stays fairly steady (<a
 								data-chaucer-element-id="b15cfaa6-6c61-4731-93c6-34ff237f38f1"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F75"
+								href="./#/feldman/reference#P7001013171000000000000000005F75"
 							>
 								Schaie, Willis, &amp; Pennak, 2005
 							</a>).
@@ -492,21 +492,21 @@ const PageEleven = props => {
 							people involve just one hemisphere (<a
 								data-chaucer-element-id="ad3a551d-8bd9-434a-afe4-c0ad5682fc45"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000052C9"
+								href="./#/feldman/reference#P70010131710000000000000000052C9"
 							>
 								Fling et al., 2011
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="726f576c-a112-4da9-97fb-319ee6b6bbf3"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005D49"
+								href="./#/feldman/reference#P7001013171000000000000000005D49"
 							>
 								Phillips, 2011
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="320b106e-f00e-442f-a943-734a809defac"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004D4D"
+								href="./#/feldman/reference#P7001013171000000000000000004D4D"
 							>
 								Bielak et al., 2013
 							</a>).
@@ -551,14 +551,14 @@ const PageEleven = props => {
 							<a
 								data-chaucer-element-id="0f80b392-5490-4a51-8ea2-6c921e5aed0f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F1B"
+								href="./#/feldman/reference#P7001013171000000000000000005F1B"
 							>
 								Timothy Salthouse (1994
 							</a>,{' '}
 							<a
 								data-chaucer-element-id="8004a87e-f678-467c-aad4-4c2c7f1307ff"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F21"
+								href="./#/feldman/reference#P7001013171000000000000000005F21"
 							>
 								2010)
 							</a>{' '}
@@ -680,21 +680,21 @@ const PageEleven = props => {
 							and may even improve (<a
 								data-chaucer-element-id="5d1eb627-b734-4564-acea-b8fcc67cfa81"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000051C3"
+								href="./#/feldman/reference#P70010131710000000000000000051C3"
 							>
 								Ebner, Freund, &amp; Baltes, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7eb5f817-f98f-4cd5-b303-f348ac4232f8"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005219"
+								href="./#/feldman/reference#P7001013171000000000000000005219"
 							>
 								Erber, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d35d09e1-09cf-4413-8f59-98c575379b67"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000050B9"
+								href="./#/feldman/reference#P70010131710000000000000000050B9"
 							>
 								Deary, 2012
 							</a>).
@@ -813,21 +813,21 @@ const PageEleven = props => {
 							recipe will taste if certain modifications are made (<a
 								data-chaucer-element-id="8e4c4acf-38e1-4000-872f-910415e09ef7"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005B49"
+								href="./#/feldman/reference#P7001013171000000000000000005B49"
 							>
 								Morita et al., 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="840e1b50-cb8f-48bd-b37f-61ea5735f092"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E35"
+								href="./#/feldman/reference#P7001013171000000000000000005E35"
 							>
 								Reuter et al., 2012
 							</a>,{' '}
 							<a
 								data-chaucer-element-id="190f7f93-337d-4cef-89b3-fe79a8bd865f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E37"
+								href="./#/feldman/reference#P7001013171000000000000000005E37"
 							>
 								2014
 							</a>).
@@ -852,7 +852,7 @@ const PageEleven = props => {
 							different neural pathways than novices to solve problems (<a
 								data-chaucer-element-id="7b4d01b4-bf46-4302-9326-c8af01805c31"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000543B"
+								href="./#/feldman/reference#P700101317100000000000000000543B"
 							>
 								Grabner, Neubauer, &amp; Stern, 2006
 							</a>).
@@ -869,28 +869,28 @@ const PageEleven = props => {
 							problem, increasing the probability of success (<a
 								data-chaucer-element-id="f1e81794-5ea5-4b45-b731-4a774e1a6336"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006437"
+								href="./#/feldman/reference#P7001013171000000000000000006437"
 							>
 								Willis, 1996
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="768feaf9-a59d-469c-a22b-869cfb8dd879"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004F85"
+								href="./#/feldman/reference#P7001013171000000000000000004F85"
 							>
 								Clark, 1998
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e0a35388-1af0-4e1e-aabd-d73bd30cd06e"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C23"
+								href="./#/feldman/reference#P7001013171000000000000000004C23"
 							>
 								Arts, Gijselaers, &amp; Boshuizen, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="dc73bd93-26ef-46f5-a12f-ec107c67aeba"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005A83"
+								href="./#/feldman/reference#P7001013171000000000000000005A83"
 							>
 								McGugin &amp; Tanaka, 2010
 							</a>).

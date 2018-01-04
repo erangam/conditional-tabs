@@ -100,7 +100,7 @@ const PageEighteen = props => {
 							(<a
 								data-chaucer-element-id="0b7343d7-7152-4e29-8cf2-1c3e61564bdf"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005293"
+								href="./#/feldman/reference#P7001013171000000000000000005293"
 							>
 								Figley, 1973
 							</a>). Specifically, marital satisfaction begins to decline just
@@ -110,21 +110,21 @@ const PageEighteen = props => {
 							level as before the marriage (<a
 								data-chaucer-element-id="9dede39d-18c9-4f6e-82f3-effb9ce81fce"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005421"
+								href="./#/feldman/reference#P7001013171000000000000000005421"
 							>
 								Gorchoff, John, &amp; Helson, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="c14afd28-46d8-4127-a08f-f583cc87689e"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005AAB"
+								href="./#/feldman/reference#P7001013171000000000000000005AAB"
 							>
 								Medina, Lederhos, &amp; Lillis, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ce05e1a4-f942-4532-b08c-2643e263f8b1"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006185"
+								href="./#/feldman/reference#P7001013171000000000000000006185"
 							>
 								Stroope, McFarland, &amp; Uecker, 2015
 							</a>).
@@ -222,7 +222,7 @@ const PageEighteen = props => {
 										<a
 											data-chaucer-element-id="543cf914-35b8-4d62-b9c9-466e8d21d867"
 											className="biblioref"
-											href="bm01_pg0002.xhtml#P7001013171000000000000000005EA9"
+											href="./#/feldman/reference#P7001013171000000000000000005EA9"
 										>
 											Rollins &amp; Cannon, 1974
 										</a>.
@@ -257,14 +257,14 @@ const PageEighteen = props => {
 							actually continues to decline across the life span (<a
 								data-chaucer-element-id="466ffd94-340e-4d0a-8af1-4675c44d2f62"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000062BD"
+								href="./#/feldman/reference#P70010131710000000000000000062BD"
 							>
 								Umberson et al., 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b91aec93-15b9-4b0b-b099-be2c876188f4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005923"
+								href="./#/feldman/reference#P7001013171000000000000000005923"
 							>
 								Liu, Elliott, &amp; Umberson, 2010
 							</a>).
@@ -285,14 +285,14 @@ const PageEighteen = props => {
 							have grown more interesting over the course of the marriage (<a
 								data-chaucer-element-id="f40f1fcf-a535-4c75-8b48-a114e6765a9f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005F9D"
+								href="./#/feldman/reference#P7001013171000000000000000005F9D"
 							>
 								Schmitt, Kliegel, &amp; Shapiro, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="164f6b21-9e31-44ee-b4f2-d658c6f9a39a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000583F"
+								href="./#/feldman/reference#P700101317100000000000000000583F"
 							>
 								Landis et al., 2013
 							</a>).
@@ -311,21 +311,21 @@ const PageEighteen = props => {
 							about their sex lives (<a
 								data-chaucer-element-id="7c56bf3d-f9d3-446a-b018-a601122cd826"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060FF"
+								href="./#/feldman/reference#P70010131710000000000000000060FF"
 							>
 								Spence 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8ab6ec29-7431-477c-82aa-f0825b555373"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000591F"
+								href="./#/feldman/reference#P700101317100000000000000000591F"
 							>
 								Litzinger &amp; Gordon, 2005
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="82fa4b75-e139-4810-a8d5-650a0e7af855"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004E81"
+								href="./#/feldman/reference#P7001013171000000000000000004E81"
 							>
 								Butzer &amp; Campbell, 2008
 							</a>).
@@ -340,21 +340,21 @@ const PageEighteen = props => {
 							together happily. Among them (<a
 								data-chaucer-element-id="5e82a92c-868e-4594-816f-f0dbc58c97ee"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005C7B"
+								href="./#/feldman/reference#P7001013171000000000000000005C7B"
 							>
 								Orbuch, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="931c582b-062a-4226-bf67-b4bc29e71938"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004D2D"
+								href="./#/feldman/reference#P7001013171000000000000000004D2D"
 							>
 								Bernstein, 2010
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6dbea688-110f-4008-a1d1-8e4e37c35e35"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006433"
+								href="./#/feldman/reference#P7001013171000000000000000006433"
 							>
 								Williams, 2016
 							</a>):
@@ -519,21 +519,21 @@ const PageEighteen = props => {
 							</a>) (<a
 								data-chaucer-element-id="f1c087df-4458-4c69-8b5f-aebbe051b45f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005215"
+								href="./#/feldman/reference#P7001013171000000000000000005215"
 							>
 								Enright, 2004
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8060b963-d9e5-4553-a443-55e5212b6c1a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004E33"
+								href="./#/feldman/reference#P7001013171000000000000000004E33"
 							>
 								Brown &amp; Lin, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="aa07b21c-9d7a-43e1-9770-c8b49fc1c83a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000622D"
+								href="./#/feldman/reference#P700101317100000000000000000622D"
 							>
 								Thomas, 2012
 							</a>).
@@ -632,21 +632,21 @@ const PageEighteen = props => {
 							their husbands, both emotionally and economically (<a
 								data-chaucer-element-id="1eaa0289-473a-4e06-86da-011be5f3bde8"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005297"
+								href="./#/feldman/reference#P7001013171000000000000000005297"
 							>
 								Fincham, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a22bcf6b-3e51-4a01-aedb-3fbd20af44d5"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004E33"
+								href="./#/feldman/reference#P7001013171000000000000000004E33"
 							>
 								Brown &amp; Lin, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="8a2e4b3b-6b55-4941-a2db-8f35427e84be"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004EAF"
+								href="./#/feldman/reference#P7001013171000000000000000004EAF"
 							>
 								Canham et al., 2014
 							</a>).
@@ -669,14 +669,14 @@ const PageEighteen = props => {
 							home (<a
 								data-chaucer-element-id="46f6229e-9195-47ec-85cb-d22fd09bfac1"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000059A7"
+								href="./#/feldman/reference#P70010131710000000000000000059A7"
 							>
 								Macionis, 2001
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5c72f89c-eb44-4257-a9e5-afde24382adf"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000628B"
+								href="./#/feldman/reference#P700101317100000000000000000628B"
 							>
 								Tsapelas, Aron, &amp; Orbuch, 2009
 							</a>).
@@ -698,14 +698,14 @@ const PageEighteen = props => {
 							they have had sex outside their marriage (<a
 								data-chaucer-element-id="f97b2354-4875-4acb-a8ce-47945ba37969"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C37"
+								href="./#/feldman/reference#P7001013171000000000000000004C37"
 							>
 								Atkins &amp; Furrow, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="f8682385-7640-4c9e-924d-580e23003b41"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006135"
+								href="./#/feldman/reference#P7001013171000000000000000006135"
 							>
 								Steiner et al., 2015
 							</a>).
@@ -725,21 +725,21 @@ const PageEighteen = props => {
 							virtually unemployable (<a
 								data-chaucer-element-id="c96726eb-2e0a-4abb-b9d0-eb750c75fc05"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005A65"
+								href="./#/feldman/reference#P7001013171000000000000000005A65"
 							>
 								McDaniel &amp; Coleman, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e9c99e7f-ab1a-44f8-9a9a-48cde2ff50dd"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006431"
+								href="./#/feldman/reference#P7001013171000000000000000006431"
 							>
 								Williams &amp; Dunne-Bryant, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="bfca1966-2b81-45da-8083-bb5fa59c2477"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000558B"
+								href="./#/feldman/reference#P700101317100000000000000000558B"
 							>
 								Hilton &amp; Anderson, 2009
 							</a>).
@@ -756,7 +756,7 @@ const PageEighteen = props => {
 							they typically remarry (<a
 								data-chaucer-element-id="e5753140-dea5-433f-8549-fae38819f181"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005215"
+								href="./#/feldman/reference#P7001013171000000000000000005215"
 							>
 								Enright, 2004
 							</a>).
@@ -792,7 +792,7 @@ const PageEighteen = props => {
 							have gone through divorce share similar experiences (<a
 								data-chaucer-element-id="357f7b92-bddd-4f1b-8fcd-5d149a12f806"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005D3F"
+								href="./#/feldman/reference#P7001013171000000000000000005D3F"
 							>
 								Pew Research Center, 2014a
 							</a>).
@@ -809,14 +809,14 @@ const PageEighteen = props => {
 							one-third of women older than age 40 remarry (<a
 								data-chaucer-element-id="0fc2e55f-8fda-4d2c-bb3c-79b756cb2794"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004E57"
+								href="./#/feldman/reference#P7001013171000000000000000004E57"
 							>
 								Bumpass, Sweet, &amp; Martin, 1990
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="a1519bdc-be8d-437a-94ea-3fde35738175"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004D3D"
+								href="./#/feldman/reference#P7001013171000000000000000004D3D"
 							>
 								Besharov &amp; West, 2002
 							</a>).
@@ -840,21 +840,21 @@ const PageEighteen = props => {
 							whereas older men may be seen as “distinguished” and “mature” (<a
 								data-chaucer-element-id="95e4fe2d-506e-48bd-94f1-dacaf39b43e3"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004D27"
+								href="./#/feldman/reference#P7001013171000000000000000004D27"
 							>
 								Bernard, 1982
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="42432a97-56ff-442d-b9dd-5efb3c16dc08"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004E75"
+								href="./#/feldman/reference#P7001013171000000000000000004E75"
 							>
 								Buss, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7f4d9463-2b1e-492e-889b-0f63ee582713"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000517F"
+								href="./#/feldman/reference#P700101317100000000000000000517F"
 							>
 								Doyle, 2004
 							</a>).
@@ -872,7 +872,7 @@ const PageEighteen = props => {
 							life than married people (<a
 								data-chaucer-element-id="d308947a-c0e4-4445-8ee7-0f8f5730d21f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000595F"
+								href="./#/feldman/reference#P700101317100000000000000000595F"
 							>
 								Lucas, 2005
 							</a>).
@@ -889,14 +889,14 @@ const PageEighteen = props => {
 							house and medical benefits reserved for spouses (<a
 								data-chaucer-element-id="4dd058e2-1dff-4ac1-b3fa-1641573b0d29"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005EC1"
+								href="./#/feldman/reference#P7001013171000000000000000005EC1"
 							>
 								Ross, Microwsky, &amp; Goldsteen, 1991
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="adb99744-1131-4ec5-853b-120dd0916e00"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006155"
+								href="./#/feldman/reference#P7001013171000000000000000006155"
 							>
 								Stewart et al., 1997
 							</a>).
@@ -914,7 +914,7 @@ const PageEighteen = props => {
 							making more equitably (<a
 								data-chaucer-element-id="d8bd654b-92d2-4ee6-84bc-2941190b25bc"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005B09"
+								href="./#/feldman/reference#P7001013171000000000000000005B09"
 							>
 								Mirecki et al., 2013
 							</a>).
@@ -935,21 +935,21 @@ const PageEighteen = props => {
 							them easy to live with (<a
 								data-chaucer-element-id="7dc7249f-86fe-474b-9e3a-37146ca89011"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004F47"
+								href="./#/feldman/reference#P7001013171000000000000000004F47"
 							>
 								Cherlin, 1993
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="d5e19001-f474-42f9-b867-2558b567143f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000063AF"
+								href="./#/feldman/reference#P70010131710000000000000000063AF"
 							>
 								Warshak, 2000
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1a15f3ac-29f0-468d-b240-026f6f5d8d45"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004FBB"
+								href="./#/feldman/reference#P7001013171000000000000000004FBB"
 							>
 								Coleman, Ganong, &amp; Weaver, 2001
 							</a>).
@@ -1007,21 +1007,21 @@ const PageEighteen = props => {
 							marriages (<a
 								data-chaucer-element-id="829ae338-b17f-4d62-aef8-d31874efefbb"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004D57"
+								href="./#/feldman/reference#P7001013171000000000000000004D57"
 							>
 								Bird &amp; Melville, 1994
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="512bbcc7-1b5f-4f8e-b2ca-383989ce169b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005AE7"
+								href="./#/feldman/reference#P7001013171000000000000000005AE7"
 							>
 								Michaels, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1a41802c-e1c9-498b-b7c5-91bfee8d2273"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004C47"
+								href="./#/feldman/reference#P7001013171000000000000000004C47"
 							>
 								Ayalon &amp; Koren, 2015
 							</a>).

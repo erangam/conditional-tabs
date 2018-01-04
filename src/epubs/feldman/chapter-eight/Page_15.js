@@ -77,21 +77,21 @@ const PageFifteen = props => {
 						question the normative-crisis models closely tied to age (<a
 							data-chaucer-element-id="40fb2135-034a-43dd-8b5e-b7814b7baa65"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005333"
+							href="./#/feldman/reference#P7001013171000000000000000005333"
 						>
 							Fugate &amp; Mitchell, 1997
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="48bdb013-1a55-4a59-994c-bcd650f2bb96"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004CA7"
+							href="./#/feldman/reference#P7001013171000000000000000004CA7"
 						>
 							Barnett &amp; Hyde, 2001
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="5c938dc6-9c75-41f8-ba17-7f9dd7246e32"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000052EB"
+							href="./#/feldman/reference#P70010131710000000000000000052EB"
 						>
 							Fraenkel, 2003
 						</a>).
@@ -149,21 +149,21 @@ const PageFifteen = props => {
 						commonalities of personality development (<a
 							data-chaucer-element-id="dd381c67-2ee8-4969-80a4-a11cb36c17ac"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005E77"
+							href="./#/feldman/reference#P7001013171000000000000000005E77"
 						>
 							Roberts, Helson, &amp; Klohnen, 2002
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="4bba6d06-733f-4ff0-82ae-6bd1fba63c52"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000596D"
+							href="./#/feldman/reference#P700101317100000000000000000596D"
 						>
 							Luhmann et al., 2013
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="8d98e452-8c06-41f5-ae40-949502b17406"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004C0F"
+							href="./#/feldman/reference#P7001013171000000000000000004C0F"
 						>
 							Arnarson et al., 2016
 						</a>).
@@ -223,21 +223,21 @@ const PageFifteen = props => {
 							others (<a
 								data-chaucer-element-id="746f111e-1600-478b-863c-e75ea2790916"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005D0D"
+								href="./#/feldman/reference#P7001013171000000000000000005D0D"
 							>
 								Penningroth &amp; Scott, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e03de4f7-c8bc-4110-9f61-9e174a8adc7a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005FA5"
+								href="./#/feldman/reference#P7001013171000000000000000005FA5"
 							>
 								Schoklitsch &amp; Baumann, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1a8ee8eb-0761-4d3e-9d2c-f6c844184eae"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006449"
+								href="./#/feldman/reference#P7001013171000000000000000006449"
 							>
 								Wink &amp; Staudinger, 2016
 							</a>).
@@ -289,7 +289,7 @@ const PageFifteen = props => {
 							<a
 								data-chaucer-element-id="1e8f7e20-0111-48b1-b362-3043484a0c7d"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006311"
+								href="./#/feldman/reference#P7001013171000000000000000006311"
 							>
 								George Vaillant (1977)
 							</a>{' '}
@@ -312,7 +312,7 @@ const PageFifteen = props => {
 							<a
 								data-chaucer-element-id="08ef29c3-1981-455b-b417-915d769b6419"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005435"
+								href="./#/feldman/reference#P7001013171000000000000000005435"
 							>
 								Roger Gould (1978)
 							</a>{' '}
@@ -517,14 +517,14 @@ const PageFifteen = props => {
 							<a
 								data-chaucer-element-id="b3765fbf-3374-4e8f-9108-5559d255d138"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000058D1"
+								href="./#/feldman/reference#P70010131710000000000000000058D1"
 							>
 								Levinson (1986
 							</a>,{' '}
 							<a
 								data-chaucer-element-id="9244a655-6604-4209-80f4-d91bb4b55cbf"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000058CF"
+								href="./#/feldman/reference#P70010131710000000000000000058CF"
 							>
 								1992)
 							</a>, who intensively interviewed men, the early 40s are a period
@@ -584,21 +584,21 @@ const PageFifteen = props => {
 							under considerable criticism (<a
 								data-chaucer-element-id="da5c4e50-d07d-4500-82e0-04a01cc070df"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005A75"
+								href="./#/feldman/reference#P7001013171000000000000000005A75"
 							>
 								McFadden &amp; Rawson Swan, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="6bf4820b-5d02-42e5-8b64-6d9e7b8071f8"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000501F"
+								href="./#/feldman/reference#P700101317100000000000000000501F"
 							>
 								Cousins, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b164e0d5-2a1a-4c1c-97f7-590279bd4f36"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P700101317100000000000000000623F"
+								href="./#/feldman/reference#P700101317100000000000000000623F"
 							>
 								Thorpe et al., 2014
 							</a>).
@@ -650,21 +650,21 @@ const PageFifteen = props => {
 							those who do change end up better off psychologically (<a
 								data-chaucer-element-id="23d11be7-36a6-48a8-9f87-7d304c5e62f1"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000063F5"
+								href="./#/feldman/reference#P70010131710000000000000000063F5"
 							>
 								Wethington, Cooper, &amp; Holmes, 1997
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="cea4c04a-a6fd-482f-bd4b-e82ccf818fdc"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006157"
+								href="./#/feldman/reference#P7001013171000000000000000006157"
 							>
 								Stewart &amp; Vandewater, 1999
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="467acfc9-a202-48d4-966d-c30f7f6e9087"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006439"
+								href="./#/feldman/reference#P7001013171000000000000000006439"
 							>
 								Willis, Martin, &amp; Rocke, 2010
 							</a>).
@@ -702,14 +702,14 @@ const PageFifteen = props => {
 							<a
 								data-chaucer-element-id="a239f73d-0385-4e95-9c63-4e63f680237f"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005AE9"
+								href="./#/feldman/reference#P7001013171000000000000000005AE9"
 							>
 								Miche et al., 2014
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="444369b4-5255-4703-bdfc-724eaf9996b4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E65"
+								href="./#/feldman/reference#P7001013171000000000000000005E65"
 							>
 								Rippon &amp; Steptoe, 2015
 							</a>).
@@ -804,7 +804,7 @@ const PageFifteen = props => {
 										<a
 											data-chaucer-element-id="c508312e-cb01-419c-86d7-8f6b5d9c0f97"
 											className="biblioref"
-											href="bm01_pg0002.xhtml#P7001013171000000000000000005E65"
+											href="./#/feldman/reference#P7001013171000000000000000005E65"
 										>
 											Rippon &amp; Steptoe, 2015
 										</a>.
@@ -959,14 +959,14 @@ const PageFifteen = props => {
 								given time (<a
 									data-chaucer-element-id="bbef07e2-3965-4b80-9008-e0cb8b39b5de"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000006047"
+									href="./#/feldman/reference#P7001013171000000000000000006047"
 								>
 									Shweder, 1998
 								</a>,{' '}
 								<a
 									data-chaucer-element-id="a625b8cf-eb4b-4aef-9572-f913f3beb273"
 									className="biblioref"
-									href="bm01_pg0002.xhtml#P7001013171000000000000000006049"
+									href="./#/feldman/reference#P7001013171000000000000000006049"
 								>
 									2003
 								</a>).

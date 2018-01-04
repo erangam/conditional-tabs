@@ -51,14 +51,14 @@ const PageNineteen = props => {
 						parents feel when their children leave home (<a
 							data-chaucer-element-id="17df8015-849f-4cd1-a8f9-605f6f66978d"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005861"
+							href="./#/feldman/reference#P7001013171000000000000000005861"
 						>
 							Lauer &amp; Lauer, 1999
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="29c5ecab-f416-41f0-aa24-8dbdbb624aa1"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000521D"
+							href="./#/feldman/reference#P700101317100000000000000000521D"
 						>
 							Erickson, Martinengo, &amp; Hill, 2010
 						</a>).
@@ -89,21 +89,21 @@ const PageNineteen = props => {
 						responsibilities (<a
 							data-chaucer-element-id="70bd1754-aa42-440a-89c0-5daf6386894b"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000557B"
+							href="./#/feldman/reference#P700101317100000000000000000557B"
 						>
 							Heubusch, 1997
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="e09552a2-db3f-463b-82b3-178183b166a7"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005B45"
+							href="./#/feldman/reference#P7001013171000000000000000005B45"
 						>
 							Morfei et al., 2004
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="ebcb1161-9797-4249-85c2-63d404ea4802"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000004F3D"
+							href="./#/feldman/reference#P7001013171000000000000000004F3D"
 						>
 							Chen, Yang, &amp; Dale Aagard, 2012
 						</a>).
@@ -119,14 +119,14 @@ const PageNineteen = props => {
 						especially true for women who have worked outside the home (<a
 							data-chaucer-element-id="1fde5079-164f-4e16-8dbd-37c636b9a507"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005051"
+							href="./#/feldman/reference#P7001013171000000000000000005051"
 						>
 							Crowley, Hayslip, &amp; Hobdy, 2003
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="a99e8f1d-2d7e-4b31-9191-663a8b8f9312"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000056D5"
+							href="./#/feldman/reference#P70010131710000000000000000056D5"
 						>
 							Kadam, 2014
 						</a>).
@@ -143,7 +143,7 @@ const PageNineteen = props => {
 						neater, and the telephone rings less often (<a
 							data-chaucer-element-id="1e63df94-f33f-41ba-9bf2-36a125f31935"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005421"
+							href="./#/feldman/reference#P7001013171000000000000000005421"
 						>
 							Gorchoff, John, &amp; Helson, 2008
 						</a>).
@@ -170,7 +170,7 @@ const PageNineteen = props => {
 						unhappy (<a
 							data-chaucer-element-id="cf3d5ccd-1f2f-46a2-b75e-d460bf7444a8"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P70010131710000000000000000058DF"
+							href="./#/feldman/reference#P70010131710000000000000000058DF"
 						>
 							Lewis, Freneau, &amp; Roberts, 1979
 						</a>). Those fathers tended to mention lost opportunities,
@@ -212,21 +212,21 @@ const PageNineteen = props => {
 						get a job (<a
 							data-chaucer-element-id="558da206-94e4-40c1-9e4a-43c7e47b1dc2"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000536F"
+							href="./#/feldman/reference#P700101317100000000000000000536F"
 						>
 							Gardner, 2007
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="d0c80e22-4737-4681-afcd-0bef09ca8333"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P7001013171000000000000000005967"
+							href="./#/feldman/reference#P7001013171000000000000000005967"
 						>
 							Ludden, 2012
 						</a>;{' '}
 						<a
 							data-chaucer-element-id="ab327ba9-62bd-480c-83cb-d94c0c814ef1"
 							className="biblioref"
-							href="bm01_pg0002.xhtml#P700101317100000000000000000530D"
+							href="./#/feldman/reference#P700101317100000000000000000530D"
 						>
 							Frey &amp; Tatum, 2016
 						</a>)
@@ -321,14 +321,14 @@ const PageNineteen = props => {
 							proportion is even higher (<a
 								data-chaucer-element-id="75891d9c-da55-4246-b6b5-ca3f027cc89a"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E7F"
+								href="./#/feldman/reference#P7001013171000000000000000005E7F"
 							>
 								Roberts, 2009
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="7d6b1f03-04a7-496d-91d8-c66909b0b7fa"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005CD1"
+								href="./#/feldman/reference#P7001013171000000000000000005CD1"
 							>
 								Parker, 2012
 							</a>).
@@ -346,7 +346,7 @@ const PageNineteen = props => {
 							with their parents (<a
 								data-chaucer-element-id="a61aa36c-8c6d-4bf5-bd61-e00c4a60f4e4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005CD1"
+								href="./#/feldman/reference#P7001013171000000000000000005CD1"
 							>
 								Parker, 2012
 							</a>; see{' '}
@@ -459,7 +459,7 @@ const PageNineteen = props => {
 										<a
 											data-chaucer-element-id="aec169ef-1042-448f-9f82-eac80a105e26"
 											className="biblioref"
-											href="bm01_pg0002.xhtml#P7001013171000000000000000005D3D"
+											href="./#/feldman/reference#P7001013171000000000000000005D3D"
 										>
 											Pew Research Center, 2012
 										</a>.
@@ -529,21 +529,21 @@ const PageNineteen = props => {
 							of their children and their parents (<a
 								data-chaucer-element-id="3548f0bf-448f-4888-94f6-b20092a52589"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005E61"
+								href="./#/feldman/reference#P7001013171000000000000000005E61"
 							>
 								Riley &amp; Bowen, 2005
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="609b6cad-5891-49f3-8812-08325dcd0f21"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005489"
+								href="./#/feldman/reference#P7001013171000000000000000005489"
 							>
 								Grundy &amp; Henretta, 2006
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="b340ad9d-8330-4d99-80e3-74dd44293237"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004F2F"
+								href="./#/feldman/reference#P7001013171000000000000000004F2F"
 							>
 								Chassin et al., 2009
 							</a>).
@@ -574,7 +574,7 @@ const PageNineteen = props => {
 							their children (<a
 								data-chaucer-element-id="e3a2ec69-67ef-454b-a182-ccad3c08cdd5"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004F0B"
+								href="./#/feldman/reference#P7001013171000000000000000004F0B"
 							>
 								Commonwealth Fund Commission on Elderly People Living Alone
 								[CFCEPLA], 1986
@@ -582,7 +582,7 @@ const PageNineteen = props => {
 							<a
 								data-chaucer-element-id="898f751e-b8e5-4b2f-8a59-b00e32f32b1b"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005AD5"
+								href="./#/feldman/reference#P7001013171000000000000000005AD5"
 							>
 								Merrill, 1997
 							</a>).
@@ -611,7 +611,7 @@ const PageNineteen = props => {
 							(<a
 								data-chaucer-element-id="322a05bb-6b19-4c51-9a80-aa81e9ccdedb"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005BDB"
+								href="./#/feldman/reference#P7001013171000000000000000005BDB"
 							>
 								Navarro, 2006
 							</a>).
@@ -642,14 +642,14 @@ const PageNineteen = props => {
 							in-laws (<a
 								data-chaucer-element-id="e28eeddd-5144-4665-8ae4-462c73593c18"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060DF"
+								href="./#/feldman/reference#P70010131710000000000000000060DF"
 							>
 								Soldo, 1996
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="e0c6eec4-5c48-4a37-931d-378b17aeafb3"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005DC7"
+								href="./#/feldman/reference#P7001013171000000000000000005DC7"
 							>
 								Putney &amp; Bengtson, 2001
 							</a>).
@@ -667,21 +667,21 @@ const PageNineteen = props => {
 							generation may be seen as a burden (<a
 								data-chaucer-element-id="8e230ab8-1119-4bb2-9d0c-ef33d669c6ab"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005773"
+								href="./#/feldman/reference#P7001013171000000000000000005773"
 							>
 								Kim &amp; Lee, 2003
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="40ed1cb6-e642-40df-a157-8a68d72e6633"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005EB1"
+								href="./#/feldman/reference#P7001013171000000000000000005EB1"
 							>
 								Ron, 2014
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="c687f787-b8f9-4186-98bd-62ce77adacbc"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005767"
+								href="./#/feldman/reference#P7001013171000000000000000005767"
 							>
 								Kiilo, Kasearu, &amp; Kutsar, 2016
 							</a>).
@@ -700,7 +700,7 @@ const PageNineteen = props => {
 							appreciative of each other’s strengths (<a
 								data-chaucer-element-id="8716215a-b979-4d12-aa57-d00644bed386"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006359"
+								href="./#/feldman/reference#P7001013171000000000000000006359"
 							>
 								Vincent, Phillipson, &amp; Downs, 2006
 							</a>).
@@ -761,21 +761,21 @@ const PageNineteen = props => {
 							of an involved grandparent (<a
 								data-chaucer-element-id="15daff42-7dd9-4376-b2b4-76578d593cb7"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005B6B"
+								href="./#/feldman/reference#P7001013171000000000000000005B6B"
 							>
 								Mueller, Wilhelm, &amp; Elder, 2002
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1e9634a9-d442-4d86-9678-2721714f5391"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005277"
+								href="./#/feldman/reference#P7001013171000000000000000005277"
 							>
 								Fergusson, Maughan, &amp; Golding, 2008
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="ad871cf0-a5ec-46db-a07f-1797217de11d"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000059D3"
+								href="./#/feldman/reference#P70010131710000000000000000059D3"
 							>
 								Mansson, 2013
 							</a>).
@@ -820,14 +820,14 @@ const PageNineteen = props => {
 							younger grandchildren (<a
 								data-chaucer-element-id="0b8611a6-e53f-4b3b-9732-e913fa6eb3d6"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060C5"
+								href="./#/feldman/reference#P70010131710000000000000000060C5"
 							>
 								Smith, 1995
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="1bd9973f-8fd9-4065-9e94-c3dbb2fbc025"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P70010131710000000000000000060C7"
+								href="./#/feldman/reference#P70010131710000000000000000060C7"
 							>
 								Smith &amp; Drew, 2002
 							</a>).
@@ -847,28 +847,28 @@ const PageNineteen = props => {
 							supportive of grandparents taking an active role (<a
 								data-chaucer-element-id="97845af5-4fde-4338-9bf8-cfb8f17b3a4e"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000006153"
+								href="./#/feldman/reference#P7001013171000000000000000006153"
 							>
 								Stevenson, Henderson, &amp; Baugh, 2007
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="740ade7b-bd2e-4e5a-b8b9-434152b33477"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005741"
+								href="./#/feldman/reference#P7001013171000000000000000005741"
 							>
 								Keene, Prokos, &amp; Held, 2012
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="5bcae7f4-59ff-4bf7-85fa-ba962d197235"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000004D37"
+								href="./#/feldman/reference#P7001013171000000000000000004D37"
 							>
 								Bertera &amp; Crewe, 2013
 							</a>;{' '}
 							<a
 								data-chaucer-element-id="2c071072-5002-4080-9080-8d5f8385bff4"
 								className="biblioref"
-								href="bm01_pg0002.xhtml#P7001013171000000000000000005027"
+								href="./#/feldman/reference#P7001013171000000000000000005027"
 							>
 								Cox &amp; Miner, 2014
 							</a>).
