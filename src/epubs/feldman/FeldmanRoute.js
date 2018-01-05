@@ -34,6 +34,10 @@ import '../../../node_modules/animate.css';
 
 const routes = [
 	{
+		path: '/glossary',
+		component: References
+	},
+	{
 		path: '/reference',
 		component: References
 	},

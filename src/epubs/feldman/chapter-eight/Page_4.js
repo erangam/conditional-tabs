@@ -154,7 +154,7 @@ const PageFour = props => {
 								className="keyword"
 								id="P7001013171000000000000000003D0D"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D0D"
-								href="bm01_pg0001.xhtml#P700101317100000000000000000682A"
+								href="./#/feldman/glossary#P700101317100000000000000000682A"
 							>
 								Osteoporosis
 							</a>, a condition in which the bones become brittle, fragile, and
@@ -294,7 +294,7 @@ const PageFour = props => {
 									className="keyword"
 									id="P7001013171000000000000000003D17"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D17"
-									href="bm01_pg0001.xhtml#P7001013171000000000000000006874"
+									href="./#/feldman/glossary#P7001013171000000000000000006874"
 								>
 									presbyopia
 								</a>. Even people who have never needed glasses or contact
@@ -391,7 +391,7 @@ const PageFour = props => {
 									className="keyword"
 									id="P7001013171000000000000000003D20"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D20"
-									href="bm01_pg0001.xhtml#P700101317100000000000000000670E"
+									href="./#/feldman/glossary#P700101317100000000000000000670E"
 								>
 									Glaucoma
 								</a>{' '}
@@ -508,7 +508,7 @@ const PageFour = props => {
 									className="keyword"
 									id="P7001013171000000000000000003D28"
 									data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D28"
-									href="bm01_pg0001.xhtml#P7001013171000000000000000006871"
+									href="./#/feldman/glossary#P7001013171000000000000000006871"
 								>
 									presbycusis
 								</a>. About 12 percent of people between 45 and 65 suffer from

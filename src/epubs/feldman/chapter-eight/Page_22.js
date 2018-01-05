@@ -193,7 +193,7 @@ const PageTwentyTwo = props => {
 								className="keyword"
 								id="P7001013171000000000000000004112"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004112"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000065C6"
+								href="./#/feldman/glossary#P70010131710000000000000000065C6"
 							>
 								Burnout
 							</a>{' '}

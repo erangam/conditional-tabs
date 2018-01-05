@@ -484,7 +484,7 @@ const PageTwenty = props => {
 								<a
 									data-chaucer-element-id="74f4948c-2d7e-49b9-a7b1-d64913f3c648"
 									className="keyword"
-									href="bm01_pg0001.xhtml#P700101317100000000000000000663D"
+									href="./#/feldman/glossary#P700101317100000000000000000663D"
 								>
 									cycle of violence hypothesis
 								</a>

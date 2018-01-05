@@ -216,7 +216,7 @@ const PageEleven = props => {
 								<a
 									data-chaucer-element-id="500911de-2fb8-427b-8d2d-1b9375f92aff"
 									className="keyword"
-									href="bm01_pg0001.xhtml#P70010131710000000000000000066D3"
+									href="./#/feldman/glossary#P70010131710000000000000000066D3"
 								>
 									fluid intelligence
 								</a>
@@ -234,7 +234,7 @@ const PageEleven = props => {
 								<a
 									data-chaucer-element-id="23ebc9ea-64ca-4cb6-b94c-20a499defc7b"
 									className="keyword"
-									href="bm01_pg0001.xhtml#P7001013171000000000000000006637"
+									href="./#/feldman/glossary#P7001013171000000000000000006637"
 								>
 									Crystallized intelligence
 								</a>
@@ -666,7 +666,7 @@ const PageEleven = props => {
 								className="keyword"
 								id="P7001013171000000000000000003EE9"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003EE9"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000068FF"
+								href="./#/feldman/glossary#P70010131710000000000000000068FF"
 							>
 								Selective optimization
 							</a>{' '}
@@ -800,7 +800,7 @@ const PageEleven = props => {
 								className="keyword"
 								id="P7001013171000000000000000003EF5"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003EF5"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000066A7"
+								href="./#/feldman/glossary#P70010131710000000000000000066A7"
 							>
 								Expertise
 							</a>{' '}

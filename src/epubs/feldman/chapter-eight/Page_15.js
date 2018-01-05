@@ -43,7 +43,7 @@ const PageFifteen = props => {
 							className="keyword"
 							id="P7001013171000000000000000003F90"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F90"
-							href="bm01_pg0001.xhtml#P7001013171000000000000000006813"
+							href="./#/feldman/glossary#P7001013171000000000000000006813"
 						>
 							Normative-crisis models
 						</a>{' '}
@@ -138,7 +138,7 @@ const PageFifteen = props => {
 							className="keyword"
 							id="P7001013171000000000000000003F9A"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F9A"
-							href="bm01_pg0001.xhtml#P70010131710000000000000000067A6"
+							href="./#/feldman/glossary#P70010131710000000000000000067A6"
 						>
 							life events models
 						</a>, which suggest that particular events, rather than age per se,
@@ -207,7 +207,7 @@ const PageFifteen = props => {
 								className="keyword"
 								id="P7001013171000000000000000003F9F"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F9F"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000066F6"
+								href="./#/feldman/glossary#P70010131710000000000000000066F6"
 							>
 								generativity-versus-stagnation
 							</a>. One’s middle adulthood, according to Erikson, is either
@@ -559,7 +559,7 @@ const PageFifteen = props => {
 								className="keyword"
 								id="P7001013171000000000000000003FCB"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003FCB"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000067DE"
+								href="./#/feldman/glossary#P70010131710000000000000000067DE"
 							>
 								midlife crisis
 							</a>, a stage of uncertainty and indecision. Facing signs of

@@ -444,7 +444,7 @@ const PageFive = props => {
 								className="keyword"
 								id="P7001013171000000000000000003D61"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D61"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000066B8"
+								href="./#/feldman/glossary#P70010131710000000000000000066B8"
 							>
 								female climacteric
 							</a>{' '}
@@ -462,7 +462,7 @@ const PageFive = props => {
 								className="keyword"
 								id="P7001013171000000000000000003D63"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D63"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000067CF"
+								href="./#/feldman/glossary#P70010131710000000000000000067CF"
 							>
 								Menopause
 							</a>{' '}
@@ -987,7 +987,7 @@ const PageFive = props => {
 								className="keyword"
 								id="P7001013171000000000000000003D82"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003D82"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000067C3"
+								href="./#/feldman/glossary#P70010131710000000000000000067C3"
 							>
 								male climacteric
 							</a>{' '}

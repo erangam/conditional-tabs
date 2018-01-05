@@ -20,7 +20,7 @@ class Feldman extends Component {
 
 	componentDidUpdate(prevProps, prevState) {
 		const reference = this.returnSubPath();
-		if (reference !== '/reference/') {
+		if (reference !== '/reference/' && reference !== '/glossary/') {
 			if (prevState.currentPage !== this.returnPageNumber()) {
 				this.setState({ currentPage: this.returnPageNumber() });
 				this.setState({ subPath: this.returnSubPath() });
@@ -36,7 +36,7 @@ class Feldman extends Component {
 
 	returnNextPath() {
 		const reference = this.returnSubPath();
-		if (reference !== '/reference/') {
+		if (reference !== '/reference/' && reference !== '/glossary/') {
 			return (
 				this.returnSubPath() +
 				parseInt(this.state.currentPage + 1, 10) +
@@ -54,7 +54,7 @@ class Feldman extends Component {
 
 	returnPrevPath() {
 		const reference = this.returnSubPath();
-		if (reference !== '/reference/') {
+		if (reference !== '/reference/' && reference !== '/glossary/') {
 			return (
 				this.returnSubPath() +
 				parseInt(this.state.currentPage - 1, 10) +

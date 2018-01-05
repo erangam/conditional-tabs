@@ -7,11 +7,12 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
 // import Redux actions
-import { getReferenceHtml } from '../../actions/getReferenceHtml';
+import { getReferenceHtml, getGlosseryHtml } from '../../actions/epubResources';
 
 class Reference extends Component {
 	componentWillMount() {
 		this.props.getReferenceHtml();
+		this.props.getGlosseryHtml();
 	}
 
 	componentDidUpdate(prevProps, prevState) {
@@ -23,7 +24,11 @@ class Reference extends Component {
 	}
 
 	createMarkup() {
-		return { __html: this.props.referenceHtml };
+		if (this.props.match.path === '/reference') {
+			return { __html: this.props.referenceHtml };
+		} else if (this.props.match.path === '/glossary') {
+			return { __html: this.props.glossaryHtml };
+		}
 	}
 
 	render() {
@@ -47,14 +52,16 @@ class Reference extends Component {
 
 function mapStateToProps(state) {
 	return {
-		referenceHtml: state.referenceHtml
+		referenceHtml: state.referenceHtml,
+		glossaryHtml: state.glossaryHtml
 	};
 }
 
 function mapDispatchToProps(dispatch) {
 	return bindActionCreators(
 		{
-			getReferenceHtml: getReferenceHtml
+			getReferenceHtml: getReferenceHtml,
+			getGlosseryHtml: getGlosseryHtml
 		},
 		dispatch
 	);

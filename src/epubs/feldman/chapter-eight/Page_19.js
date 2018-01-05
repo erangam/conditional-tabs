@@ -43,7 +43,7 @@ const PageNineteen = props => {
 							className="keyword"
 							id="P7001013171000000000000000004078"
 							data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004078"
-							href="bm01_pg0001.xhtml#P700101317100000000000000000668C"
+							href="./#/feldman/glossary#P700101317100000000000000000668C"
 						>
 							empty nest syndrome
 						</a>{' '}
@@ -308,7 +308,7 @@ const PageNineteen = props => {
 								className="keyword"
 								id="P7001013171000000000000000004089"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004089"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000065BA"
+								href="./#/feldman/glossary#P70010131710000000000000000065BA"
 							>
 								boomerang children
 							</a>, these returning offspring typically cite economic issues as
@@ -521,7 +521,7 @@ const PageNineteen = props => {
 								className="keyword"
 								id="P7001013171000000000000000004098"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000004098"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000068DE"
+								href="./#/feldman/glossary#P70010131710000000000000000068DE"
 							>
 								sandwich generation
 							</a>{' '}

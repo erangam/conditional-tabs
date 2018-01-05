@@ -3,7 +3,6 @@ import '../assets/css/home.css';
 import { connect } from 'react-redux';
 import firebase from '../helpers/firebase';
 import { getFirebaseData } from '../actions/getFirebaseData';
-import { getReferenceHtml } from '../actions/getReferenceHtml';
 import { bindActionCreators } from 'redux';
 
 class Home extends Component {

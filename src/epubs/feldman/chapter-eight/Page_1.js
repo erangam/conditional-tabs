@@ -3,7 +3,6 @@ import { linkPath } from '../pathVariables';
 import AudioControl from '../AudioControl';
 
 const PageOne = props => {
-	console.log(props);
 	return (
 		<div className="animated fadeIn">
 			<section className="bodymatter">

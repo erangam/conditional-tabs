@@ -4,11 +4,19 @@ import { Link } from 'react-router-dom';
 class NavControls extends Component {
 	constructor(props) {
 		super(props);
-		this.numberOfPages = parseInt(this.props.numberOfPages, 10);
+		this.numberOfPages = parseInt(this.props.numberOfPages, 10) - 1;
 		this.handleOnClick = this.handleOnClick.bind(this);
 	}
 
 	handleOnClick(event) {
+		if (event.currentTarget.getAttribute('data-prev-page') === '1') {
+			event.preventDefault();
+		} else if (
+			event.currentTarget.getAttribute('data-next-page') ===
+			this.numberOfPages.toString()
+		) {
+			event.preventDefault();
+		}
 		this.props.pageUpdate();
 		window.scrollTo(0, 0);
 	}
@@ -22,9 +30,10 @@ class NavControls extends Component {
 							? this.props.prevPath
 							: 1 + this.props.query + this.props.hash
 					}
+					data-prev-page={this.props.currentPage.toString()}
 					className="previous"
 					onClick={this.handleOnClick}
-					disabled={this.props.currentPage - 1 !== 0}
+					disabled={this.props.currentPage === 1}
 				>
 					<svg
 						focusable="false"
@@ -43,7 +52,8 @@ class NavControls extends Component {
 					}
 					className="next"
 					onClick={this.handleOnClick}
-					data-link="next"
+					disabled={this.props.currentPage === this.numberOfPages}
+					data-next-page={this.props.currentPage.toString()}
 				>
 					<svg
 						focusable="false"

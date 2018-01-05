@@ -227,7 +227,7 @@ const PageTwelve = props => {
 								className="keyword"
 								id="P7001013171000000000000000003F09"
 								data-uri="M08_FELD7654_04_SE_C08.xhtml#P7001013171000000000000000003F09"
-								href="bm01_pg0001.xhtml#P70010131710000000000000000068E4"
+								href="./#/feldman/glossary#P70010131710000000000000000068E4"
 							>
 								schemas
 							</a>, organized bodies of information stored in memory. Schemas
