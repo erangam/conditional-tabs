@@ -9,7 +9,7 @@ const baseUrl = process.env.PUBLIC_URL;
 export function getReferenceHtml() {
 	console.log(baseUrl);
 	console.log(resources);
-	const request = axios.get(baseUrl + resources);
+	const request = axios.get(resources);
 	return {
 		type: FETCH_REFERENCE_HTML,
 		payload: request
@@ -17,7 +17,7 @@ export function getReferenceHtml() {
 }
 
 export function getGlosseryHtml() {
-	const request = axios.get(baseUrl + glossary);
+	const request = axios.get(glossary);
 	return {
 		type: FETCH_GLOSSARY_HTML,
 		payload: request
