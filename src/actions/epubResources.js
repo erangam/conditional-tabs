@@ -7,7 +7,8 @@ const baseUrl = process.env.PUBLIC_URL;
 // change this url to the api of your choice. Data will bind to a prop called 'apiData' within the redux store.
 
 export function getReferenceHtml() {
-	console.log(baseUrl + resources);
+	console.log(baseUrl);
+	console.log(resources);
 	const request = axios.get(baseUrl + resources);
 	return {
 		type: FETCH_REFERENCE_HTML,
