@@ -1,6 +1,8 @@
 // State held component not using Redux
 
 import React, { Component } from 'react';
+import resources from './resources/bm01_pg0002.xhtml';
+import glossary from './resources/bm01_pg0001.xhtml';
 
 // Redux Imports
 import { connect } from 'react-redux';
@@ -11,8 +13,8 @@ import { getReferenceHtml, getGlosseryHtml } from '../../actions/epubResources';
 
 class Reference extends Component {
 	componentWillMount() {
-		this.props.getReferenceHtml();
-		this.props.getGlosseryHtml();
+		this.props.getReferenceHtml(resources);
+		this.props.getGlosseryHtml(glossary);
 	}
 
 	componentDidUpdate(prevProps, prevState) {
@@ -28,10 +30,13 @@ class Reference extends Component {
 			return { __html: this.props.referenceHtml };
 		} else if (this.props.match.path === '/glossary') {
 			return { __html: this.props.glossaryHtml };
+		} else {
+			return { __html: this.props.referenceHtml };
 		}
 	}
 
 	render() {
+		console.log(this.props);
 		return (
 			// JSX GOES HERE
 			<div className="revel">

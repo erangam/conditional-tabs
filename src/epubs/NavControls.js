@@ -9,26 +9,19 @@ class NavControls extends Component {
 	}
 
 	handleOnClick(event) {
-		if (event.currentTarget.getAttribute('data-prev-page') === '1') {
-			event.preventDefault();
-		} else if (
-			event.currentTarget.getAttribute('data-next-page') ===
-			this.numberOfPages.toString()
-		) {
-			event.preventDefault();
-		}
 		this.props.pageUpdate();
 		window.scrollTo(0, 0);
 	}
 
 	render() {
+		console.log(this.props.numberOfPages);
 		return (
 			<div id="prevNextNav" className="nav-controls">
 				<Link
 					to={
-						this.props.currentPage - 1 !== 0
+						this.props.currentPage !== 1
 							? this.props.prevPath
-							: 1 + this.props.query + this.props.hash
+							: this.props.subPath + 1 + this.props.query + this.props.hash
 					}
 					data-prev-page={this.props.currentPage.toString()}
 					className="previous"
@@ -46,9 +39,9 @@ class NavControls extends Component {
 				</Link>
 				<Link
 					to={
-						this.props.currentPage + 1 !== this.numberOfPages + 1
+						this.props.currentPage !== this.numberOfPages
 							? this.props.nextPath
-							: this.numberOfPages + this.props.query + this.props.hash
+							: this.props.subPath + this.numberOfPages + this.props.query
 					}
 					className="next"
 					onClick={this.handleOnClick}

@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashRouter, Route, Switch } from 'react-router-dom';
-
-import NavControls from './NavControls';
+import { click } from '../helpers/navControlHelpers';
+import NavControls from '../NavControls';
 
 import References from './References';
 import Page_1 from './chapter-eight/Page_1';
@@ -139,22 +139,6 @@ const routes = [
 	}
 ];
 
-function click(props) {
-	document.onload = window.scrollTo(0, 0);
-	const anchors = document.querySelectorAll('a');
-	anchors.forEach(anchor => {
-		anchor.addEventListener('click', event => {
-			const classNames = event.currentTarget.getAttribute('class');
-			if (classNames === 'xref') {
-				event.preventDefault();
-				const hrefs = event.currentTarget.getAttribute('href'),
-					element = document.getElementById(hrefs.substr(1));
-				element.scrollIntoView();
-			}
-		});
-	});
-}
-
 const FeldmanRoutes = routes.map((route, i) => {
 	return (
 		<Route
@@ -170,6 +154,7 @@ const FeldmanRoute = props => {
 		<HashRouter basename={'/feldman'}>
 			<div>
 				<NavControls
+					poop={true}
 					currentPage={props.currentPage}
 					nextPath={props.nextPath}
 					prevPath={props.prevPath}
