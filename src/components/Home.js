@@ -4,7 +4,6 @@ import { connect } from 'react-redux';
 import firebase from '../helpers/firebase';
 import { getFirebaseData } from '../actions/getFirebaseData';
 import { bindActionCreators } from 'redux';
-import CoachMarkContainer from '../pearson/coachmark/CoachMarkContainer';
 
 class Home extends Component {
 	componentDidMount() {
