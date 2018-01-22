@@ -1,5 +1,6 @@
 
 
+
 [![Build Status](https://travis-ci.com/pearson-ux/pearson-glp-platform.svg?token=yRiZW31ciCX2AwmRD34E&branch=master)](https://travis-ci.com/pearson-ux/pearson-glp-platform)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -216,7 +217,11 @@ Next, add your custom routes to an array.  You can call the path anything you wa
 Next well create a function that maps through the array and creates the actual routes.
 
     const FeldmanRoutes = routes.map((route, i) => {
-    	return <Route key={i} path={route.path} render={route.component} />;
+    	return <Route
+    		key={i}
+    		path={route.path}
+    		render={props => <route.component {...props} onClick={click(props)} />}
+    	/>
     });
 
 Finally, well create the component and add the .jsx
@@ -226,12 +231,14 @@ Finally, well create the component and add the .jsx
             <HashRouter basename={'/myBook'}>
                 <div>
                     <NavControls
-                        basePath={props.match}
-                        currentPath={props.currentPath}
-                        numberOfPages={routes.length}
-                        hash={props.hash}
-                        query={props.query}
-                    />
+						currentPage={props.currentPage}
+						nextPath={props.nextPath}
+						prevPath={props.prevPath}
+						pageUpdate={props.pageUpdate}
+						numberOfPages={routes.length - 1}
+						hash={props.hash}
+						query={props.query}
+				/>
                     <Switch>{FeldmanRoutes}</Switch>
                 </div>
             </HashRouter>
@@ -251,22 +258,68 @@ Create a new component file and call it something like 'myBook.js' and import th
     import React from 'react';
     import YourEpubRoutes from './yourEpubRoutes'
 
+Next well add some code that will setup the navigation.  You can copy and paste this, or from the [myBook.js](https://gist.github.com/davodey/ec36dcff40e5b4bba4488b4742d022f4) gist
+
+    import {
+    	returnNextPath,
+    	returnPrevPath,
+    	returnSubPath
+    } from '../epubs/helpers/navControlHelpers';
+    
+    class MyBook extends Component {
+    	constructor(props) {
+    		super(props);
+    		this.state = {
+    			currentPage: '',
+    			subPath: ''
+    		};
+    		this.onClick = this.onClick.bind(this);
+    	}
+    
+    	componentWillMount() {
+    		this.setState({ currentPage: this.returnPageNumber() });
+    	}
+    
+    	componentDidUpdate(prevProps, prevState) {
+    		const reference = returnSubPath(this.props);
+    		if (reference !== '/reference/' && reference !== '/glossary/') {
+    			if (prevState.currentPage !== this.returnPageNumber()) {
+    				this.setState({ currentPage: this.returnPageNumber() });
+    				this.setState({ subPath: returnSubPath(this.props) });
+    			}
+    		}
+    	}
+    
+    	returnPageNumber() {
+    		const pathArr = this.props.location.pathname.split('/');
+    		return parseInt(pathArr[3], 10);
+    	}
+    
+    	onClick() {
+    		this.setState({ currentPage: this.returnPageNumber() });
+    	}
+
+
 Next create the component and wrap the routes with some div tags.  You can customize this however you like, even add other components to this file.
 
-    const myBook = props => {
-        return (
-            <div className="revel">
-                <div className="chapter">
-                    <YourEpubRoutes
-                        match={props.match.path}
-                        currentPath={props.history.location.pathname}
-                        hash={props.location.hash}
-                        query={props.location.search}
-                    />
-                </div>
-            </div>
-        );
-    };
+	render() {
+		return (
+			<div className="revel">
+				<div className="chapter">
+					<YourEpubRoutes
+						currentPage={this.state.currentPage}
+						pageUpdate={this.onClick}
+						prevPath={returnPrevPath(this.props, this.state)}
+						nextPath={returnNextPath(this.props, this.state)}
+						match={this.props.match.path}
+						currentPath={this.props.history.location.pathname}
+						hash={this.props.location.hash}
+						query={this.props.location.search}
+					/>
+				</div>
+			</div>
+		);
+	}
     
     export default myBook;
 
