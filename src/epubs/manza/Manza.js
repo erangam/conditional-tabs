@@ -1,10 +1,13 @@
-import React, { Component } from 'react';
+import React, {Component, Fragment} from 'react';
 import ManzaRoute from './ManzaRoute';
 import {
 	returnNextPath,
 	returnPrevPath,
 	returnSubPath
 } from '../helpers/navControlHelpers';
+
+import RevelHeader from "../RevelHeader";
+import RevelFooter from "../RevelFooter";
 
 class Feldman extends Component {
 	constructor(props) {
@@ -41,21 +44,26 @@ class Feldman extends Component {
 
 	render() {
 		return (
-			<div className="revel">
-				<div className="chapter">
-					<ManzaRoute
-						subPath={returnSubPath(this.props)}
-						currentPage={this.state.currentPage}
-						pageUpdate={this.onClick}
-						prevPath={returnPrevPath(this.props, this.state)}
-						nextPath={returnNextPath(this.props, this.state)}
-						match={this.props.match.path}
-						currentPath={this.props.history.location.pathname}
-						hash={this.props.location.hash}
-						query={this.props.location.search}
-					/>
+			<Fragment>
+				<RevelHeader display={true}/>
+				<div className="revel">
+					<div className="chapter">
+						<ManzaRoute
+							subPath={returnSubPath(this.props)}
+							currentPage={this.state.currentPage}
+							pageUpdate={this.onClick}
+							prevPath={returnPrevPath(this.props, this.state)}
+							nextPath={returnNextPath(this.props, this.state)}
+							match={this.props.match.path}
+							currentPath={this.props.history.location.pathname}
+							hash={this.props.location.hash}
+							query={this.props.location.search}
+						/>
+					</div>
 				</div>
-			</div>
+				<RevelFooter display={true}/>
+			</Fragment>
+
 		);
 	}
 }
