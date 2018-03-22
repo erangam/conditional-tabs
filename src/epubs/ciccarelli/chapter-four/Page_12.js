@@ -1,0 +1,69 @@
+import React from 'react';
+import AudioControl from '../AudioControl';
+import imageOne from '../images/comment.png'
+import imageTwo from "../images/AAFJPNA0.jpg";
+
+const PageTwelve = props => {
+	return (
+		<div className="animated fadeIn">
+			<section className="bodymatter">
+
+				<div>
+					<header><h1 className="title" id="P700101207800000000000000000AEF8" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AEF8">Why Do We Dream?</h1></header>
+					<section className="objectiveset" id="P7001012078000000000000000001DAF" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DAF">
+						<ol className="objectivelist dynamiclist" id="P700101207800000000000000000AEF9" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AEF9">
+							<li className="objective" id="P7001012078000000000000000001DB1" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DB1"><p id="P700101207800000000000000000AEFA" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AEFA"><span className="number">4.7</span> Compare and contrast two explanations of why people dream.</p></li>
+						</ol>
+					</section>
+					<AudioControl src="https://mediaplayer.pearsoncmg.com/assets/_audio.true/audio-mypsychlab-ciccarelli_0134450728-ciccarelli5_ch4mod4sec0" />
+
+					<p id="P700101207800000000000000000AEFB" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AEFB">Dreams have long been a source of curiosity. People of ancient times tried to find meaning in dreams. Some viewed dreams as prophecy, some as messages from the spirits. But the real inquiry into the process of dreaming began with the publication of Freud’s <cite>The Interpretation of Dreams</cite> (1900).</p>
+					<section id="P7001012078000000000000000001DB4" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DB4" className="level3">
+						<header><h1 className="title" id="P700101207800000000000000000AEFC" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AEFC">Freud’s Interpretation: Dreams as Wish Fulfillment</h1></header>
+						<p id="P700101207800000000000000000AEFD" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AEFD" data-chaucer-note-id="211813 217039">Sigmund Freud (1856–1939) believed that the problems of his patients stemmed from conflicts and events that had been buried in their unconscious minds since childhood. These early traumas were seen as the cause of behavior problems in adulthood, in which his patients suffered from symptoms such as a type of paralysis that had no physical basis or repetitive, ritualistic<a className="noteref noteref_footnote" href="#ritualistic"><i className="icon-info-sign info" /><span className="reader-only">more info</span></a> hand washing. One of the ways Freud devised to get at these early memories was to examine the dreams of his patients, believing that conflicts, events, and desires of the past would be represented in symbolic<a className="noteref noteref_footnote" href="#symbolic"><i className="icon-info-sign info" /><span className="reader-only">more info</span></a> form in the dreams. Freud believed dreams to be a kind of wish fulfillment for his patients. See <a className="xref" href="ch13_pg0003.xhtml#P70010120780000000000000000057FB"><span className="label">Learning Objective</span> <span className="number">13.1</span></a>.</p>
+						<p id="P700101207800000000000000000AEFE" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AEFE">The <i>manifest content</i> of a dream is the actual content of the dream itself. For example, if Chad has a dream in which he is trying to climb out of a bathtub, the manifest content of the dream is exactly that—he’s trying to climb out of a bathtub.</p>
+						<figure id="P7001012078000000000000000001DB8" className="informalfigure" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DB8">
+							<img alt="A one-panel cartoon shows a man asleep in bed with a thought bubble coming from his head that reads, “Cast of Dream: the monster—your father; kind woman—your mother; policeman—your analyst; first stranger—your brother; second stranger—your sister; little boy—you.”" width={480} height={408} id="P700101207800000000000000000AEFF" data-uri="P7001012078000000000000000009500" src={imageTwo} />
+							<figcaption id="P700101207800000000000000000AF00" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF00"><div className="source" id="P700101207800000000000000000AF01" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF01"><p id="P700101207800000000000000000AF02" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF02">© The New Yorker Collection 1973 Dana Fradon from cartoonbank.com. All Rights Reserved.</p></div></figcaption>
+						</figure>
+						<p id="P700101207800000000000000000AF03" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF03">But, of course, Freud would no doubt find more meaning in Chad’s dream than is at first evident. He believed that the true meaning of a dream was hidden, or <i>latent</i>, and only expressed in symbols. In the dream, the water in the tub might symbolize the waters of birth, and the tub itself might be his mother’s womb. Using a Freudian interpretation, Chad may be dreaming about being born.</p>
+						<blockquote className="extract">
+							<p>
+								<img alt="Small text bubble" height={13} width={12} src={imageOne}/> Seems like quite a stretch. Wouldn’t there be lots of other possible interpretations?</p>
+						</blockquote>
+						<p id="P700101207800000000000000000AF06" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF06">Yes, and today many professionals are no longer as fond of Freud’s dream analysis as they once were. But there are still some people who insist that dreams have symbolic meaning. For example, dreaming about being naked in a public place is very common, and most dream analyzers interpret that to mean feeling open and exposed, an expression of childhood innocence, or even a desire for sex. Exactly how the dream is interpreted depends on the other features of the dream and what is happening in the person’s waking life.</p>
+						<p id="P700101207800000000000000000AF07" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF07" data-chaucer-note-id={217040}>The development of techniques for looking at the structure and activity of the brain (see <a className="xref" href="ch02_pg0014.xhtml#P7001012078000000000000000000EC3"><span className="label">Learning Objective</span> <span className="number">2.9</span></a>) has led to an explanation of why people dream that is more concrete than that of Freud.</p>
+					</section>
+					<section id="P7001012078000000000000000001DC2" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DC2" className="level3">
+						<header><h1 className="title" id="P700101207800000000000000000AF08" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF08">The Activation-Synthesis Hypothesis</h1></header>
+						<p id="P700101207800000000000000000AF09" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF09">Using brain-imaging techniques such as a PET scan (see <a className="xref" href="ch02_pg0001.xhtml#P7001012078000000000000000000B1A"><span className="label">Chapter</span> <span className="number">Two</span></a>), researchers have found evidence that dreams are products of activity in the pons (<a className="biblioref" href="./#/ciccarelli/reference#P700101207800000000000000000874B">Hobson, 1988</a>; <a className="biblioref" href="./#/ciccarelli/reference#P700101207800000000000000000874D">Hobson &amp; McCarley, 1977</a>; <a className="biblioref" href="./#/ciccarelli/reference#P700101207800000000000000000874F">Hobson et al., 2000</a>; <a className="biblioref" href="./#/ciccarelli/reference#P7001012078000000000000000009347">Weber et al., 2015</a>). This lower area inhibits the neurotransmitters that would allow movement of the voluntary muscles while sending random signals to the areas of the cortex that interpret vision, hearing, and so on (see <a className="xref" href="#P7001012078000000000000000001DC5"><span className="label">Figure</span> <span className="number">4.4</span></a>).</p>
+						<figure className="gadget" id="P7001012078000000000000000001DC5">
+							<header><h1 className="title" id="P700101207800000000000000000AF0C" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF0C"><span className="label">Figure </span> <span className="number">4.4</span></h1><p className="subtitle"> The Brain and Activation-Synthesis Theory</p></header>
+							<div className="lc_iframeinner">
+								<iframe className="gadget" src="https://revelpreview.pearson.com/epubs/cic/OPS/components/metrodigi/ch04-fill_in_application-01/index.html" height={850} width={770} lang="en" title="Figure 4.4 - The Brain And Activation-Synthesis Theory" data-responsivedesigned="no" data-minwidth={770} data-minheight={530} data-lmsrequired="no" data-offlinesupport="yes" data-displaytarget="embed" />
+							</div>
+						</figure>
+						<p id="P700101207800000000000000000AF0F" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF0F" data-chaucer-note-id={211815}>When signals from the pons bombard<a className="noteref noteref_footnote" href="#bombard"><i className="icon-info-sign info" /><span className="reader-only">more info</span></a> the cortex during waking consciousness, the association areas of the cortex interpret those signals as seeing, hearing, and so on. Because those signals come from the real world, this process results in an experience of reality. But when people are asleep, the signals from the brain stem are random and not necessarily attached to actual external stimuli, yet the brain must somehow interpret these random signals. It <i>synthesizes</i> (puts together) an explanation of the cortex’s activation from memories and other stored information.</p>
+						<p id="P700101207800000000000000000AF10" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF10">In this theory, called the <a className="keyword" id="P7001012078000000000000000001DCD" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DCD" href="./#/ciccarelli/glossary#P7001012078000000000000000007435">activation-synthesis hypothesis</a>, a dream is merely another kind of thinking that occurs when people sleep. It is less realistic because it comes not from the outside world of reality but from within people’s memories and experiences of the past. The frontal lobes, which people normally use in daytime thinking, are more or less shut down during dreaming, which may also account for the unrealistic and often bizarre nature of dreams (<a className="biblioref" href="./#/ciccarelli/reference#P7001012078000000000000000008AF1">Macquet &amp; Franck, 1996</a>).</p>
+						<blockquote className="extract">
+							<p>
+								<img alt="Small text bubble" height={13} width={12} src={imageOne}/> My dreams can be really weird, but sometimes they seem pretty ordinary or even seem to mean something. Can dreams be more meaningful?</p>
+						</blockquote>
+					</section>
+					<section id="P7001012078000000000000000001DD6" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DD6" className="level3">
+						<header><h1 className="title" id="P700101207800000000000000000AF18" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF18">The Activation-Information-Mode (AIM) Model</h1></header>
+						<p id="P700101207800000000000000000AF19" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF19">There are dream experts who suggest that dreams may have more meaning than Hobson and McCarley originally theorized. A survey questioning subjects about their dream content, for example, concluded that much of the content of dreams is meaningful, consistent over time, and fits in with past or present emotional concerns rather than being bizarre, meaningless, and random (<a className="biblioref" href="./#/ciccarelli/reference#P7001012078000000000000000008359">Domhoff, 1996</a>, <a className="biblioref" href="./#/ciccarelli/reference#P700101207800000000000000000835B">2005</a>).</p>
+						<p id="P700101207800000000000000000AF1A" data-uri="M04_CICC7961_05_SE_C04.xhtml#P700101207800000000000000000AF1A">Hobson and colleagues have reworked the activation-synthesis hypothesis to reflect concerns about dream meaning, calling it the <a className="keyword" id="P7001012078000000000000000001DDA" data-uri="M04_CICC7961_05_SE_C04.xhtml#P7001012078000000000000000001DDA" href="./#/ciccarelli/glossary#P7001012078000000000000000007432">activation-information-mode model</a>, or <strong>AIM</strong> (<a className="biblioref" href="./#/ciccarelli/reference#P700101207800000000000000000874F">Hobson et al., 2000</a>). In this newer version, information that is accessed during waking hours can have an influence on the synthesis of dreams. In other words, when the brain is “making up” a dream to explain its own activation, it uses meaningful bits and pieces of the person’s experiences from the previous day or the last few days rather than just random items from memory.</p>
+					</section>
+					<footer>
+						<aside className="footnote" id="ritualistic"><p>ritualistic: referring to an action done in a particular manner each time it is repeated, according to some specific pattern.</p></aside>
+						<aside className="footnote" id="symbolic"><p>symbolic: having the quality of representing something other than itself.</p></aside>
+						<aside className="footnote" id="bombard"><p>bombard: to attack or press.</p></aside>
+					</footer>
+				</div>
+			</section>
+		</div>
+	);
+};
+
+export default PageTwelve;

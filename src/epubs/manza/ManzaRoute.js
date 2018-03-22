@@ -2,7 +2,8 @@ import React from 'react';
 import { HashRouter, Route, Switch } from 'react-router-dom';
 import { click } from '../helpers/navControlHelpers';
 import NavControls from '../NavControls';
-
+import RevelHeader from '../RevelHeader';
+import RevelFooter from '../RevelFooter';
 import Page_2 from './chapter-six/Page_2';
 import Page_3 from './chapter-six/Page_3';
 import Page_4 from './chapter-six/Page_4';
@@ -63,6 +64,7 @@ const FeldmanRoute = props => {
 	return (
 		<HashRouter basename={'/manza'}>
 			<div>
+				<RevelHeader display={true}/>
 				<NavControls
 					subPath={props.subPath}
 					currentPage={props.currentPage}
@@ -74,6 +76,7 @@ const FeldmanRoute = props => {
 					query={props.query}
 				/>
 				<Switch>{ManzaRoutes}</Switch>
+				<RevelFooter display={true} totalPages={routes.length - 2} currentPage={props.currentPage} path={props.currentPath} history={props.history}/>
 			</div>
 		</HashRouter>
 	);
