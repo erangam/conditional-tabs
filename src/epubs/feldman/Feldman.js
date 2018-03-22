@@ -5,8 +5,6 @@ import {
 	returnPrevPath,
 	returnSubPath
 } from '../helpers/navControlHelpers';
-import RevelHeader from "../RevelHeader";
-import RevelFooter from "../RevelFooter";
 
 class Feldman extends Component {
 	constructor(props) {
@@ -42,9 +40,9 @@ class Feldman extends Component {
 	}
 
 	render() {
+		console.log(this.props);
 		return (
 			<Fragment>
-				<RevelHeader display={true}/>
 				<div className="revel">
 					<div className="chapter">
 						<FeldmanRoute
@@ -56,10 +54,10 @@ class Feldman extends Component {
 							currentPath={this.props.history.location.pathname}
 							hash={this.props.location.hash}
 							query={this.props.location.search}
+							history={this.props.history}
 						/>
 					</div>
 				</div>
-				<RevelFooter display={true}/>
 			</Fragment>
 
 		);

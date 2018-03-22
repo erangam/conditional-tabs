@@ -1,6 +1,7 @@
 // Stateless component boilerplate
 import React from "react";
 import menu from 'material-design-icons/navigation/svg/design/ic_menu_24px.svg'
+
 const RevelHeader = (props) => {
 	if (props.display === true ) {
 		return (

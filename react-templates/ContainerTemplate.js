@@ -1,8 +1,7 @@
 // State held component not using Redux
-
 import React, {Component} from 'react';
 
-class StateComponent extends Component {
+class RevelFooter extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -50,14 +49,30 @@ class StateComponent extends Component {
     }
 
     render () {
-        return(
-            // JSX GOES HERE
-            <div>
-
-            </div>
-
-        )
+		if (this.props.display === true) {
+			return (
+				<div className="revel-footer">
+					<button className="pe-icon--btn">
+						<svg focusable="false" className="pe-icon--view-list-18" aria-hidden="false" aria-label="book seats" title="view list" role="img">
+							<use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#view-list-18" />
+						</svg>
+					</button>
+					<div className="slidecontainer">
+						<input type="range" min={1} max={props.totalPages} defaultValue={1} className="slider" id="myRange" />
+					</div>
+					<button className="pe-icon--btn">
+						<svg focusable="false" className="pe-icon--font-setting-18" aria-hidden="false" aria-label="set font size" title="book seats" role="img">
+							<use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#font-setting-18" />
+						</svg>
+					</button>
+				</div>
+			);
+		} else {
+			return (
+				<div></div>
+			)
+		}
     }
 }
 
-export default StateComponent;
+export default RevelFooter;

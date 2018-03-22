@@ -31,6 +31,8 @@ import Page_24 from './chapter-eight/Page_24';
 
 import '../../assets/css/epub.css';
 import '../../../node_modules/animate.css';
+import RevelHeader from "../RevelHeader";
+import RevelFooter from "../RevelFooter";
 
 const routes = [
 	{
@@ -153,8 +155,8 @@ const FeldmanRoute = props => {
 	return (
 		<HashRouter basename={'/feldman'}>
 			<div>
+				<RevelHeader display={true}/>
 				<NavControls
-					poop={true}
 					currentPage={props.currentPage}
 					nextPath={props.nextPath}
 					prevPath={props.prevPath}
@@ -164,6 +166,7 @@ const FeldmanRoute = props => {
 					query={props.query}
 				/>
 				<Switch>{FeldmanRoutes}</Switch>
+				<RevelFooter display={true} totalPages={routes.length - 2} currentPage={props.currentPage} path={props.currentPath} history={props.history}/>
 			</div>
 		</HashRouter>
 	);

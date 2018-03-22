@@ -92,3 +92,7 @@ iframe {
 		padding: 2em;
 	}
 }
+
+.revel-footer, .revel-header {
+	left:0;
+}

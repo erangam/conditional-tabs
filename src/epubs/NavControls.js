@@ -14,7 +14,6 @@ class NavControls extends Component {
 	}
 
 	render() {
-		console.log(this.props.numberOfPages);
 		return (
 			<div id="prevNextNav" className="nav-controls">
 				<Link
@@ -26,7 +25,7 @@ class NavControls extends Component {
 					data-prev-page={this.props.currentPage.toString()}
 					className="previous"
 					onClick={this.handleOnClick}
-					disabled={this.props.currentPage === 1}
+					style={this.props.currentPage === 1 ? {visibility:"hidden"} : {visibility:"visible"}}
 				>
 					<svg
 						focusable="false"
@@ -45,8 +44,8 @@ class NavControls extends Component {
 					}
 					className="next"
 					onClick={this.handleOnClick}
-					disabled={this.props.currentPage === this.numberOfPages}
 					data-next-page={this.props.currentPage.toString()}
+					style={this.props.currentPage === this.numberOfPages ? {visibility:"hidden"} : {visibility:"visible"}}
 				>
 					<svg
 						focusable="false"
