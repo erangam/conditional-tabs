@@ -1,57 +1,58 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import '../assets/css/home.css';
-import { connect } from 'react-redux';
-import firebase from '../helpers/firebase';
-import { getFirebaseData } from '../actions/getFirebaseData';
-import { bindActionCreators } from 'redux';
+import {
+	Tabs,
+	Pane
+} from '@pearson-components/elements-sdk/build/dist.elements-sdk';
 
 class Home extends Component {
-	componentDidMount() {
-		const itemsRef = firebase.database().ref();
-		itemsRef.on('value', snapshot => {
-			let items = snapshot.val();
-			this.props.getFirebaseData(items);
-		});
+	constructor(props) {
+		super(props);
+		this.state = {
+			visible: false
+		};
+		this.handleStateChange = this.handleStateChange.bind(this);
+	}
+
+	componentDidUpdate() {
+		const getActiveButton = document.querySelector('.activeTab'),
+			getCoord = getActiveButton.getBoundingClientRect(),
+			slider = document.querySelector('.pe-tabs--slider');
+		slider.style.left = `${getCoord.left}px`;
+	}
+	handleStateChange() {
+		this.setState({ visible: !this.state.visible });
 	}
 
 	render() {
-		console.log(this.props);
+		console.log(this.state);
 		return (
 			<div className="home">
 				<header className="App-header">
-					<h1 className="pe-page-title">
-						{this.props.firebaseData[0] !== undefined
-							? this.props.firebaseData[0].items.title
-							: ''}
-					</h1>
-					<h2 className="pe-title">
-						{this.props.firebaseData[0] !== undefined
-							? this.props.firebaseData[0].items.content
-							: ''}
-					</h2>
+					<h1 className="pe-page-title">Conditional Tab Rendering</h1>
 				</header>
+				<section>
+					<Tabs>
+						<Pane label="Tab One" />
+						<Pane label="Tab Two" />
+						<Pane label="Tab Three" />
+						{this.state.visible === true ? (
+							<Pane label="Tab Four" />
+						) : (
+							<Fragment />
+						)}
+					</Tabs>
+				</section>
+				<section>
+					<button onClick={this.handleStateChange} style={{ marginTop: '2em' }}>
+						{this.state.visible === false
+							? 'Add a Fourth Tab'
+							: 'Remove Fourth Tab'}
+					</button>
+				</section>
 			</div>
 		);
 	}
 }
 
-function mapStateToProps(state) {
-	return {
-		// from reducer
-		apiData: state.apiData,
-		firebaseData: state.firebaseData
-	};
-}
-
-function mapDispatchToProps(dispatch) {
-	// whenever getData is called, the result should be pass
-	// to all reducers
-	return bindActionCreators(
-		{
-			getFirebaseData: getFirebaseData
-		},
-		dispatch
-	);
-}
-
-export default connect(mapStateToProps, mapDispatchToProps)(Home);
+export default Home;

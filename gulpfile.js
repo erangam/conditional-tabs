@@ -11,7 +11,7 @@ gulp.task('default', function () {
         .pipe(sftp({
             host: '159.203.121.101',
             user: 'root',
-            remotePath: '/home/webroot/pearson-glp-platform'
+            remotePath: '/home/webroot/tabs-test'
         }));
 });
 
